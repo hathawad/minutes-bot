@@ -225,7 +225,12 @@ INSTRUCTIONS:
 5. Keep the existing structure and format
 6. Don't remove existing content, only add or refine
 7. If the transcript is unclear or contains small talk, you can skip it
-8. Return the complete updated minutes document
+8. IMPORTANT: Extract timestamps from the transcript (format: [HH:MM AM/PM]) and include them:
+   - Add the time the Opening/Prayer started
+   - Add the time each major agenda section started (when the topic was first mentioned)
+   - Add the time the Closing/Adjournment occurred
+   - Format: Include time in parentheses after section headers, e.g., "## 2. Opening (7:32 PM)"
+9. Return the complete updated minutes document
 
 Return ONLY the updated minutes markdown, no explanations."""
 

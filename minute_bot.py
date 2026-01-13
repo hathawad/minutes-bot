@@ -62,9 +62,9 @@ def ui_meeting(meeting_name: str, model: str):
         if not text:
             return
 
-        # Use timestamped text for transcript, plain text for minutes
+        # Use timestamped text for both transcript and minutes
         transcript_mgr.append(timestamped if timestamped else text, chunk_number)
-        minutes_gen.update_minutes(text, chunk_number)
+        minutes_gen.update_minutes(timestamped if timestamped else text, chunk_number)
         offline_store.save_queue(minutes_gen.offline_queue)
 
     recorder = UIRecorder(on_chunk_ready=on_chunk_ready)
@@ -129,8 +129,8 @@ def interactive_meeting(meeting_name: str, model: str):
         # Save transcript with timestamps
         transcript_mgr.append(timestamped if timestamped else text, chunk_number)
 
-        # Update minutes
-        success = minutes_gen.update_minutes(text, chunk_number)
+        # Update minutes (pass timestamped text so Claude can extract section times)
+        success = minutes_gen.update_minutes(timestamped if timestamped else text, chunk_number)
         if success:
             print(f"  ✅ Minutes updated")
         else:
