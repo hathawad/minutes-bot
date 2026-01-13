@@ -22,9 +22,60 @@ from transcriber import Transcriber, TranscriptManager
 from minutes_generator import MinutesGenerator, OfflineMinutesStore
 from interactive_recorder import InteractiveRecorder
 
+try:
+    from ui_recorder import UIRecorder
+    UI_AVAILABLE = True
+except ImportError:
+    UI_AVAILABLE = False
+
+
+def ui_meeting(meeting_name: str, model: str):
+    """Interactive recording with rich UI and audio level meter."""
+    if not UI_AVAILABLE:
+        print("UI dependencies not available. Install with: pip install sounddevice rich")
+        print("Falling back to basic interactive mode.\n")
+        interactive_meeting(meeting_name, model)
+        return
+
+    if not config.ANTHROPIC_API_KEY:
+        print("Warning: ANTHROPIC_API_KEY not set. Running in offline mode.\n")
+
+    transcriber = Transcriber(model=model)
+    transcript_mgr = None
+    minutes_gen = None
+    offline_store = None
+
+    def on_chunk_ready(audio_path, chunk_number):
+        nonlocal transcript_mgr, minutes_gen, offline_store
+
+        if transcript_mgr is None:
+            session_id = audio_path.parent.name
+            transcript_mgr = TranscriptManager(session_id)
+            minutes_gen = MinutesGenerator(meeting_name)
+            offline_store = OfflineMinutesStore(session_id)
+            minutes_gen.offline_queue = offline_store.load_queue()
+
+        result = transcriber.transcribe(audio_path)
+        text = result.get("text", "").strip()
+
+        if not text:
+            return
+
+        transcript_mgr.append(text, chunk_number)
+        minutes_gen.update_minutes(text, chunk_number)
+        offline_store.save_queue(minutes_gen.offline_queue)
+
+    recorder = UIRecorder(on_chunk_ready=on_chunk_ready)
+    recorder.run(meeting_name)
+
+    if minutes_gen:
+        print(f"\n📋 Minutes: {minutes_gen.minutes_file}")
+    if transcript_mgr:
+        print(f"📝 Transcript: {transcript_mgr.transcript_file}")
+
 
 def interactive_meeting(meeting_name: str, model: str):
-    """Interactive recording with spacebar-triggered chunks."""
+    """Interactive recording with spacebar-triggered chunks (basic mode)."""
 
     print(f"""
 ╔══════════════════════════════════════════════════════════════╗
@@ -276,6 +327,11 @@ Examples:
         choices=["tiny", "base", "small", "medium", "large"],
         help=f"Whisper model to use (default: {config.WHISPER_MODEL})"
     )
+    start_parser.add_argument(
+        "--basic", "-b",
+        action="store_true",
+        help="Use basic mode without UI (no audio level meter)"
+    )
 
     # Record command (timed chunks)
     record_parser = subparsers.add_parser("record", help="Record with timed chunks (auto-cut every N seconds)")
@@ -311,7 +367,10 @@ Examples:
     args = parser.parse_args()
 
     if args.command == "start":
-        interactive_meeting(args.meeting_name, args.model)
+        if args.basic:
+            interactive_meeting(args.meeting_name, args.model)
+        else:
+            ui_meeting(args.meeting_name, args.model)
 
     elif args.command == "record":
         if not config.ANTHROPIC_API_KEY:
