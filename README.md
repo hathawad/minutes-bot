@@ -42,9 +42,9 @@ Doug is secretary on two boards and needs to create meeting minutes. Current wor
 
 ## Quick Setup with Claude Code
 
-If you have [Claude Code](https://claude.ai/code) installed, just ask:
+If you have [Claude Code](https://claude.ai/code) installed, just say:
 
-> "Set up this project for me"
+> "set up the project"
 
 Claude will install all dependencies, download models, and configure everything.
 
