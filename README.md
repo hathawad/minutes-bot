@@ -40,7 +40,15 @@ Doug is secretary on two boards and needs to create meeting minutes. Current wor
 - **minute_bot.py**: Main CLI tying everything together
 - **config.py**: Configuration (paths, models, durations)
 
-## Prerequisites
+## Quick Setup with Claude Code
+
+If you have [Claude Code](https://claude.ai/code) installed, just ask:
+
+> "Set up this project for me"
+
+Claude will install all dependencies, download models, and configure everything.
+
+## Manual Prerequisites
 
 - macOS (Intel or Apple Silicon)
 - whisper-cpp: `brew install whisper-cpp`
