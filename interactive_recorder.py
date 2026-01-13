@@ -31,6 +31,7 @@ class InteractiveRecorder:
         self.recording_process: Optional[subprocess.Popen] = None
         self.running = False
         self._original_term_settings = None
+        self._processing_threads: list[threading.Thread] = []  # Track background threads
 
     def _get_chunk_path(self) -> Path:
         """Get path for current chunk."""
@@ -158,9 +159,10 @@ class InteractiveRecorder:
                         thread = threading.Thread(
                             target=self._process_chunk_background,
                             args=(chunk_path, current_chunk_num),
-                            daemon=True
+                            daemon=False  # Don't kill on exit - we'll wait for completion
                         )
                         thread.start()
+                        self._processing_threads.append(thread)
 
                 elif key.lower() == 'q' or ord(key) == 3:  # Q or Ctrl+C
                     self.running = False
@@ -174,9 +176,17 @@ class InteractiveRecorder:
             final_chunk = self._stop_recording()
             if final_chunk:
                 print(f"\n✂️  Final chunk {self.chunk_number - 1} saved")
-                # Process final chunk
+                # Process final chunk (in foreground since we're exiting)
                 if self.on_chunk_ready:
                     self._process_chunk_background(final_chunk, self.chunk_number - 1)
+
+            # Wait for all background processing to complete
+            pending = [t for t in self._processing_threads if t.is_alive()]
+            if pending:
+                print(f"\n⏳ Waiting for {len(pending)} chunk(s) to finish processing...")
+                for t in pending:
+                    t.join(timeout=120)  # Wait up to 2 min per chunk
+                print("✅ All chunks processed")
 
             print(f"\n{'='*60}")
             print("SESSION COMPLETE")
