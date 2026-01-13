@@ -29,6 +29,8 @@ class InteractiveRecorder:
 
         self.chunk_number = 0
         self.recording_process: Optional[subprocess.Popen] = None
+        self.backup_process: Optional[subprocess.Popen] = None  # Continuous backup recording
+        self.backup_file: Optional[Path] = None
         self.running = False
         self._original_term_settings = None
         self._processing_threads: list[threading.Thread] = []  # Track background threads
@@ -36,6 +38,39 @@ class InteractiveRecorder:
     def _get_chunk_path(self) -> Path:
         """Get path for current chunk."""
         return self.session_dir / f"chunk_{self.chunk_number:04d}.wav"
+
+    def _start_backup_recording(self):
+        """Start continuous backup recording for the entire session."""
+        self.backup_file = self.session_dir / "full_session_backup.wav"
+
+        cmd = [
+            "sox",
+            "-d",  # Default input device
+            "-c", str(config.CHANNELS),
+            "-r", str(config.SAMPLE_RATE),
+            "-b", "16",
+            str(self.backup_file),
+        ]
+
+        self.backup_process = subprocess.Popen(
+            cmd,
+            stdout=subprocess.DEVNULL,
+            stderr=subprocess.DEVNULL,
+        )
+
+    def _stop_backup_recording(self):
+        """Stop the continuous backup recording."""
+        if self.backup_process is None:
+            return
+
+        self.backup_process.terminate()
+        try:
+            self.backup_process.wait(timeout=2)
+        except subprocess.TimeoutExpired:
+            self.backup_process.kill()
+            self.backup_process.wait()
+
+        self.backup_process = None
 
     def _start_recording(self) -> Path:
         """Start recording to current chunk. Returns the path being recorded to."""
@@ -130,7 +165,11 @@ class InteractiveRecorder:
         print("  Q      - Quit recording")
         print(f"{'='*60}\n")
 
-        # Start first recording
+        # Start continuous backup recording (entire session)
+        self._start_backup_recording()
+        print(f"📼 Backup recording: {self.backup_file.name}")
+
+        # Start first chunk recording
         self._start_recording()
         print(f"🔴 Recording chunk {self.chunk_number}... (press SPACE to cut)")
 
@@ -180,6 +219,9 @@ class InteractiveRecorder:
                 if self.on_chunk_ready:
                     self._process_chunk_background(final_chunk, self.chunk_number - 1)
 
+            # Stop backup recording
+            self._stop_backup_recording()
+
             # Wait for all background processing to complete
             pending = [t for t in self._processing_threads if t.is_alive()]
             if pending:
@@ -188,11 +230,18 @@ class InteractiveRecorder:
                     t.join(timeout=120)  # Wait up to 2 min per chunk
                 print("✅ All chunks processed")
 
+            # Get backup file size
+            backup_size = ""
+            if self.backup_file and self.backup_file.exists():
+                size_mb = self.backup_file.stat().st_size / (1024 * 1024)
+                backup_size = f" ({size_mb:.1f} MB)"
+
             print(f"\n{'='*60}")
             print("SESSION COMPLETE")
             print(f"{'='*60}")
             print(f"Chunks recorded: {self.chunk_number}")
             print(f"Audio directory: {self.session_dir}")
+            print(f"Backup file: {self.backup_file.name}{backup_size}")
             print(f"{'='*60}\n")
 
         return self.session_dir
