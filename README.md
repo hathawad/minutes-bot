@@ -1,8 +1,8 @@
-# Minute Bot
+# Minutes Bot
 
 Automated meeting minutes generator for board meetings.
 
-![Minute Bot UI](docs/screenshot.png)
+![Minutes Bot UI](docs/screenshot.png)
 
 ## Problem Being Solved
 
