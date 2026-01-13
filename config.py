@@ -10,9 +10,11 @@ AUDIO_DIR = DATA_DIR / "audio"
 TRANSCRIPTS_DIR = DATA_DIR / "transcripts"
 MINUTES_DIR = DATA_DIR / "minutes"
 TEMPLATES_DIR = BASE_DIR / "templates"
+AGENDAS_DIR = BASE_DIR / "agendas"
+SAMPLES_DIR = BASE_DIR / "samples"
 
 # Create directories
-for d in [DATA_DIR, AUDIO_DIR, TRANSCRIPTS_DIR, MINUTES_DIR, TEMPLATES_DIR]:
+for d in [DATA_DIR, AUDIO_DIR, TRANSCRIPTS_DIR, MINUTES_DIR, TEMPLATES_DIR, AGENDAS_DIR, SAMPLES_DIR]:
     d.mkdir(parents=True, exist_ok=True)
 
 # Audio settings

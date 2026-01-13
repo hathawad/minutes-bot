@@ -8,6 +8,7 @@ FAIL-SAFE DESIGN:
 """
 
 import os
+import subprocess
 from pathlib import Path
 from datetime import datetime
 from typing import Optional
@@ -19,6 +20,63 @@ except ImportError:
     ANTHROPIC_AVAILABLE = False
 
 import config
+
+
+def read_file_content(file_path: Path) -> str:
+    """Read file content, converting .docx files using textutil."""
+    if file_path.suffix.lower() == '.docx':
+        try:
+            result = subprocess.run(
+                ['textutil', '-convert', 'txt', '-stdout', str(file_path)],
+                capture_output=True, text=True, timeout=10
+            )
+            return result.stdout
+        except Exception as e:
+            print(f"  [Warning] Could not read {file_path.name}: {e}")
+            return ""
+    else:
+        try:
+            return file_path.read_text()
+        except Exception as e:
+            print(f"  [Warning] Could not read {file_path.name}: {e}")
+            return ""
+
+
+def load_agenda() -> tuple[str, bool]:
+    """
+    Load agenda from agendas folder.
+    Returns (agenda_text, has_multiple_warning).
+    """
+    agenda_files = [f for f in config.AGENDAS_DIR.iterdir()
+                    if f.is_file() and not f.name.startswith('.')]
+
+    if not agenda_files:
+        return "", False
+
+    has_multiple = len(agenda_files) > 1
+
+    # Use the most recently modified agenda
+    agenda_files.sort(key=lambda f: f.stat().st_mtime, reverse=True)
+    agenda_content = read_file_content(agenda_files[0])
+
+    return agenda_content, has_multiple
+
+
+def load_sample_minutes() -> str:
+    """Load all sample minutes from samples folder."""
+    sample_files = [f for f in config.SAMPLES_DIR.iterdir()
+                    if f.is_file() and not f.name.startswith('.')]
+
+    if not sample_files:
+        return ""
+
+    samples = []
+    for f in sorted(sample_files, key=lambda x: x.stat().st_mtime, reverse=True):
+        content = read_file_content(f)
+        if content:
+            samples.append(f"=== Sample: {f.name} ===\n{content}")
+
+    return "\n\n".join(samples)
 
 # API timeout in seconds - don't wait forever
 API_TIMEOUT = 30
@@ -42,6 +100,17 @@ class MinutesGenerator:
 
         self.current_minutes = ""
         self.offline_queue = []  # Queue transcripts when offline
+
+        # Load agenda and samples for context
+        self.agenda, has_multiple_agendas = load_agenda()
+        self.sample_minutes = load_sample_minutes()
+
+        if has_multiple_agendas:
+            print(f"  [Warning] Multiple agendas found in agendas/ folder. Using most recent.")
+        if self.agenda:
+            print(f"  [Info] Loaded agenda for meeting structure")
+        if self.sample_minutes:
+            print(f"  [Info] Loaded sample minutes for style reference")
 
         # Try to create client, but don't fail if we can't
         self.client = None
@@ -125,7 +194,22 @@ class MinutesGenerator:
             return False
 
         try:
+            # Build context sections
+            context_parts = []
+
+            if self.sample_minutes:
+                context_parts.append(f"""STYLE REFERENCE (match this format and tone):
+{self.sample_minutes}""")
+
+            if self.agenda:
+                context_parts.append(f"""MEETING AGENDA (use this to organize topics):
+{self.agenda}""")
+
+            context_section = "\n\n".join(context_parts)
+
             prompt = f"""You are a meeting minutes assistant. Update the existing meeting minutes with new information from the latest transcript segment.
+
+{context_section}
 
 CURRENT MINUTES:
 {self.current_minutes}
@@ -136,10 +220,12 @@ NEW TRANSCRIPT SEGMENT (Chunk {chunk_number}):
 INSTRUCTIONS:
 1. Incorporate any new discussion points, decisions, or action items from the transcript
 2. Add any newly mentioned attendees
-3. Keep the existing structure and format
-4. Don't remove existing content, only add or refine
-5. If the transcript is unclear or contains small talk, you can skip it
-6. Return the complete updated minutes document
+3. Match the style and format of the sample minutes if provided
+4. Organize content according to the agenda topics if provided
+5. Keep the existing structure and format
+6. Don't remove existing content, only add or refine
+7. If the transcript is unclear or contains small talk, you can skip it
+8. Return the complete updated minutes document
 
 Return ONLY the updated minutes markdown, no explanations."""
 
