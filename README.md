@@ -1,44 +1,21 @@
 # Minutes Bot
 
-Automated meeting minutes generator for board meetings.
+A better way to take meeting minutes for any board, especially non-profits.
 
 ![Minutes Bot UI](docs/screenshot.png)
 
-## Problem Being Solved
+## What It Does
 
-Doug is secretary on two boards and needs to create meeting minutes. Current workflow:
-1. Record meetings with KRISP
-2. Manually stop/start KRISP to get incremental transcripts
-3. Write minutes from transcripts
+Minutes Bot records your meeting, transcribes it locally, and generates formatted meeting minutes automatically. It's designed for board secretaries who spend hours writing minutes after every meeting.
 
-**Goal**: Automate this so that every N minutes:
-1. Audio is captured and transcribed locally (Whisper - works offline)
-2. Minutes are updated incrementally via Claude API (when online)
-3. System is fault-tolerant (queues transcripts when offline)
-
-## Architecture
-
-```
-┌─────────────┐     ┌─────────────┐     ┌─────────────┐
-│   SoX       │────▶│   Whisper   │────▶│  Claude API │
-│  (record)   │     │ (transcribe)│     │  (minutes)  │
-└─────────────┘     └─────────────┘     └─────────────┘
-     │                    │                    │
-     ▼                    ▼                    ▼
-   audio/              transcripts/         minutes/
-   chunks               .txt files          .md files
-
-                    [Offline Queue]
-                    (persisted to disk)
-```
-
-## Components
-
-- **recorder.py**: Records audio in N-second chunks using SoX
-- **transcriber.py**: Transcribes audio using Whisper CLI (homebrew)
-- **minutes_generator.py**: Updates minutes via Claude API, queues when offline
-- **minute_bot.py**: Main CLI tying everything together
-- **config.py**: Configuration (paths, models, durations)
+**Key Features:**
+- **Interactive recording** with real-time audio level display
+- **Local transcription** using Whisper (works offline)
+- **AI-powered minutes** via Claude API (queues when offline)
+- **Agenda-aware** - organizes minutes around your agenda topics
+- **Style matching** - learns from your previous minutes format
+- **Wall clock timestamps** - tracks when each section started
+- **Fault-tolerant** - never loses audio, even if something crashes
 
 ## Quick Setup with Claude Code
 
@@ -48,92 +25,118 @@ If you have [Claude Code](https://claude.ai/code) installed, just say:
 
 Claude will install all dependencies, download models, and configure everything.
 
-## Manual Prerequisites
+## Manual Setup
 
-- macOS (Intel or Apple Silicon)
-- whisper-cpp: `brew install whisper-cpp`
-- SoX for audio recording: `brew install sox`
-- Python 3.x with venv (anthropic package)
+**Requirements:** macOS (Intel or Apple Silicon)
 
-Download a whisper model (small.en recommended):
 ```bash
+# Install dependencies
+brew install sox whisper-cpp
+
+# Download Whisper model
 mkdir -p ~/.cache/whisper-cpp
 curl -L -o ~/.cache/whisper-cpp/ggml-small.en.bin \
   "https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-small.en.bin"
+
+# Set up Python environment
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+
+# Configure API key
+echo 'ANTHROPIC_API_KEY=your-key-here' > .env
 ```
 
 ## Usage
 
 ```bash
-# Test microphone
-./run.sh test-mic
+# Start recording (interactive mode with UI)
+./run.sh start "Board Meeting"
 
-# Record a meeting (5-minute chunks by default)
-./run.sh record "Board Meeting"
-
-# Record with 3-minute chunks
-./run.sh record "HOA Meeting" --chunk-duration 180
-
-# Use a different Whisper model
-./run.sh record "Meeting" --model medium
-
-# Transcribe a single file
-./run.sh transcribe /path/to/audio.wav
+# Controls: SPACE to cut chunks, Q to quit
 ```
 
-## Configuration
+### Preparing for a Meeting
 
-Set your Anthropic API key (add to your shell profile for persistence):
+1. **Add your agenda** to `agendas/` (supports .docx, .md, .txt)
+2. **Add sample minutes** to `samples/` for style reference
+3. Run the bot - it will organize output around your agenda and match your format
+
+### Other Commands
+
 ```bash
-export ANTHROPIC_API_KEY="your-key-here"
+./run.sh test-mic                    # Test microphone
+./run.sh start "Meeting" --basic     # Text-only mode (no UI)
+./run.sh record "Meeting"            # Auto-chunk every 5 minutes
+./run.sh transcribe audio.wav        # Transcribe a file
+./run.sh process-queue               # Process offline queue
 ```
 
-Or create a `.env` file in this directory:
-```bash
-echo 'ANTHROPIC_API_KEY=your-key-here' > .env
+## How It Works
+
+```
+┌─────────────┐     ┌─────────────┐     ┌─────────────┐
+│   SoX       │────▶│   Whisper   │────▶│  Claude API │
+│  (record)   │     │ (transcribe)│     │  (minutes)  │
+└─────────────┘     └─────────────┘     └─────────────┘
+       │                   │                   │
+       ▼                   ▼                   ▼
+   audio/             transcripts/          minutes/
+   + backup           + timestamps         + agenda sections
+                                           + timing info
 ```
 
-Edit `config.py` to change:
-- `CHUNK_DURATION_SECONDS`: How often to process (default: 300 = 5 min)
-- `WHISPER_MODEL`: tiny, base, small, medium, large (default: small)
-- `DEFAULT_TEMPLATE`: Meeting minutes template
+1. **Record** - Press SPACE to mark section boundaries (topic changes)
+2. **Transcribe** - Whisper converts audio to text with timestamps
+3. **Generate** - Claude creates minutes matching your style and agenda
 
-## Offline / Fail-Safe Behavior
+## Output Format
 
-**Recording NEVER stops due to network issues.** The system is designed to be fault-tolerant:
+Minutes include wall clock timestamps for each section:
 
-1. **Audio always saved** - Chunks are saved to disk immediately
-2. **Raw transcript backup** - Every transcript is saved to `{session}_raw.txt` before API calls
-3. **Local transcription** - Whisper runs locally, works without internet
-4. **Automatic queuing** - If Claude API fails, transcripts queue to disk
-5. **Graceful errors** - Connection errors, timeouts, rate limits all handled
-6. **Later processing** - Run `./run.sh process-queue` when back online
+```markdown
+## 2. Opening (7:30 PM)
+- **Prayer:** John Smith
 
-What you'll see if offline:
-```
-  [Queued] no internet connection (queue size: 1)
-```
+## 3. Old Business (7:35 PM)
+### A. Budget Review
+- Q4 financials approved unanimously
+...
 
-To process queued transcripts when back online:
-```bash
-./run.sh process-queue
+## 7. Closing (8:45 PM)
+- **Adjournment:** 8:45 PM
 ```
 
 ## Files Generated
 
-After a session in `data/`:
-- `audio/{session_id}/chunk_XXXX.wav` - Audio chunks
-- `audio/{session_id}/full_session_backup.wav` - Continuous backup recording
-- `transcripts/{session_id}/chunk_XXXX.txt` - Individual chunk transcripts with timestamps
-- `transcripts/{session_id}/full_transcript.txt` - Combined transcript
-- `transcripts/{session_id}/raw_backup.txt` - Raw transcript backup (fail-safe)
-- `minutes/{session_id}_{meeting_name}.md` - Generated minutes (with start/end times)
-- `{session_id}_offline_queue.json` - Queued chunks (if offline)
+```
+data/
+  audio/{session}/
+    chunk_0000.wav              # Audio segments
+    full_session_backup.wav     # Complete recording
+  transcripts/{session}/
+    chunk_0000.txt              # Timestamped segments
+    full_transcript.txt         # Combined transcript
+  minutes/
+    {session}_{meeting}.md      # Final minutes
+```
 
-## Next Steps / TODO
+## Offline Support
 
-- [ ] Add custom templates per board (HOA vs other board)
-- [ ] Add speaker diarization (who said what)
-- [ ] Menu bar app version
-- [ ] Support for external microphones (Yeti selection)
-- [ ] Web interface to view/edit minutes in real-time
+**Recording never stops due to network issues.** The system is fault-tolerant:
+
+- Audio is always saved locally first
+- Transcription runs locally (no internet needed)
+- If Claude API fails, transcripts queue for later
+- Run `./run.sh process-queue` when back online
+
+## Configuration
+
+Edit `config.py` to customize:
+- `WHISPER_MODEL`: tiny, base, small, medium, large
+- `CHUNK_DURATION_SECONDS`: Auto-chunk interval (default: 300)
+- `DEFAULT_TEMPLATE`: Minutes template format
+
+## License
+
+MIT
