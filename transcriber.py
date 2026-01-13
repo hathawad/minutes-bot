@@ -3,10 +3,25 @@
 import subprocess
 import re
 from pathlib import Path
-from datetime import datetime
+from datetime import datetime, timedelta
 from typing import Optional
 
 import config
+
+
+def parse_whisper_timestamp(ts_str: str) -> timedelta:
+    """Parse whisper timestamp like '00:01:23.456' to timedelta."""
+    parts = ts_str.split(":")
+    hours = int(parts[0])
+    minutes = int(parts[1])
+    seconds = float(parts[2])
+    return timedelta(hours=hours, minutes=minutes, seconds=seconds)
+
+
+def format_wall_time(base_time: datetime, offset: timedelta) -> str:
+    """Format as wall clock time like '11:43 AM'."""
+    actual_time = base_time + offset
+    return actual_time.strftime("%-I:%M %p")
 
 # Model path for whisper-cpp ggml models
 WHISPER_CPP_MODEL_DIR = Path.home() / ".cache" / "whisper-cpp"
@@ -29,10 +44,24 @@ class Transcriber:
         self.transcripts_dir = config.TRANSCRIPTS_DIR
         self.model_path = WHISPER_CPP_MODEL_DIR / MODEL_MAP.get(model, f"ggml-{model}.bin")
 
-    def transcribe(self, audio_path: Path, output_dir: Optional[Path] = None) -> dict:
+    def transcribe(
+        self,
+        audio_path: Path,
+        output_dir: Optional[Path] = None,
+        chunk_start_time: Optional[datetime] = None
+    ) -> dict:
         """
         Transcribe an audio file using whisper-cpp CLI.
-        Returns dict with 'text' key.
+
+        Args:
+            audio_path: Path to the audio file
+            output_dir: Where to save transcript files
+            chunk_start_time: When this chunk started recording (for wall clock times)
+
+        Returns dict with:
+            - 'text': Plain text transcript
+            - 'timestamped_text': Text with wall clock timestamps like "[11:43 AM] Hello..."
+            - 'segments': List of (start_time, end_time, text) tuples
         """
         if output_dir is None:
             output_dir = self.transcripts_dir
@@ -40,7 +69,7 @@ class Transcriber:
         output_dir.mkdir(parents=True, exist_ok=True)
 
         if not self.model_path.exists():
-            return {"text": "", "error": f"Model not found: {self.model_path}"}
+            return {"text": "", "timestamped_text": "", "segments": [], "error": f"Model not found: {self.model_path}"}
 
         cmd = [
             "whisper-cli",
@@ -61,28 +90,54 @@ class Transcriber:
 
             if result.returncode != 0:
                 print(f"  Warning: {result.stderr[:200]}")
-                return {"text": "", "error": result.stderr}
+                return {"text": "", "timestamped_text": "", "segments": [], "error": result.stderr}
 
         except subprocess.TimeoutExpired:
-            return {"text": "", "error": "Transcription timed out"}
+            return {"text": "", "timestamped_text": "", "segments": [], "error": "Transcription timed out"}
 
         # Parse output - whisper-cpp outputs lines like:
         # [00:00:00.000 --> 00:00:02.980]   Test, test, one, two, three.
         text_lines = []
+        timestamped_lines = []
+        segments = []
+
         for line in result.stdout.split("\n"):
-            match = re.match(r'\[[\d:.]+ --> [\d:.]+\]\s*(.*)', line)
+            match = re.match(r'\[(\d+:\d+:\d+\.\d+) --> (\d+:\d+:\d+\.\d+)\]\s*(.*)', line)
             if match:
-                text_lines.append(match.group(1).strip())
+                start_ts = match.group(1)
+                end_ts = match.group(2)
+                text_content = match.group(3).strip()
+
+                if text_content:
+                    text_lines.append(text_content)
+
+                    # Parse timestamps
+                    start_offset = parse_whisper_timestamp(start_ts)
+                    end_offset = parse_whisper_timestamp(end_ts)
+
+                    # Convert to wall clock time if we have a start time
+                    if chunk_start_time:
+                        wall_time = format_wall_time(chunk_start_time, start_offset)
+                        timestamped_lines.append(f"[{wall_time}] {text_content}")
+                    else:
+                        timestamped_lines.append(f"[{start_ts}] {text_content}")
+
+                    segments.append((start_ts, end_ts, text_content))
 
         text = " ".join(text_lines)
+        timestamped_text = "\n".join(timestamped_lines)
         print(f"  Done: {len(text)} chars")
 
         # Save transcript to file
         txt_output = output_dir / f"{audio_path.stem}.txt"
         with open(txt_output, "w") as f:
-            f.write(text)
+            f.write(timestamped_text if timestamped_text else text)
 
-        return {"text": text}
+        return {
+            "text": text,
+            "timestamped_text": timestamped_text,
+            "segments": segments
+        }
 
     def transcribe_session(self, session_dir: Path) -> str:
         """Transcribe all chunks in a session directory."""
@@ -102,7 +157,10 @@ class TranscriptManager:
 
     def __init__(self, session_id: str):
         self.session_id = session_id
-        self.transcript_file = config.TRANSCRIPTS_DIR / f"{session_id}_full.txt"
+        # Nest transcripts by session_id like audio recordings
+        self.session_dir = config.TRANSCRIPTS_DIR / session_id
+        self.session_dir.mkdir(parents=True, exist_ok=True)
+        self.transcript_file = self.session_dir / "full_transcript.txt"
         self.chunks_processed = 0
 
     def append(self, text: str, chunk_number: int):
@@ -112,6 +170,11 @@ class TranscriptManager:
 
         with open(self.transcript_file, "a") as f:
             f.write(header + text)
+
+        # Also save individual chunk file
+        chunk_file = self.session_dir / f"chunk_{chunk_number:04d}.txt"
+        with open(chunk_file, "w") as f:
+            f.write(text)
 
         self.chunks_processed += 1
         print(f"  Transcript updated: {self.transcript_file}")

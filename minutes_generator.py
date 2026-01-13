@@ -27,12 +27,19 @@ API_TIMEOUT = 30
 class MinutesGenerator:
     """Generates and updates meeting minutes using Claude."""
 
-    def __init__(self, meeting_name: str, template: Optional[str] = None):
+    def __init__(self, meeting_name: str, session_id: Optional[str] = None, template: Optional[str] = None):
         self.meeting_name = meeting_name
         self.template = template or config.DEFAULT_TEMPLATE
-        self.session_id = datetime.now().strftime("%Y%m%d_%H%M%S")
+        self.session_id = session_id or datetime.now().strftime("%Y%m%d_%H%M%S")
+        self.session_start = datetime.now()
+        self.session_end: Optional[datetime] = None
         self.minutes_file = config.MINUTES_DIR / f"{self.session_id}_{meeting_name}.md"
-        self.raw_transcript_file = config.TRANSCRIPTS_DIR / f"{self.session_id}_raw.txt"
+
+        # Nest raw transcripts by session_id like audio
+        self.transcript_dir = config.TRANSCRIPTS_DIR / self.session_id
+        self.transcript_dir.mkdir(parents=True, exist_ok=True)
+        self.raw_transcript_file = self.transcript_dir / "raw_backup.txt"
+
         self.current_minutes = ""
         self.offline_queue = []  # Queue transcripts when offline
 
@@ -50,10 +57,22 @@ class MinutesGenerator:
     def _init_minutes(self):
         """Initialize minutes from template."""
         self.current_minutes = self.template.format(
-            date=datetime.now().strftime("%Y-%m-%d"),
-            meeting_name=self.meeting_name
+            date=self.session_start.strftime("%Y-%m-%d"),
+            meeting_name=self.meeting_name,
+            start_time=self.session_start.strftime("%-I:%M %p"),
+            end_time="(in progress)"
         )
         self._save()
+
+    def finalize(self):
+        """Mark the session as ended and update the end time in minutes."""
+        self.session_end = datetime.now()
+        if self.current_minutes:
+            self.current_minutes = self.current_minutes.replace(
+                "**Ended:** (in progress)",
+                f"**Ended:** {self.session_end.strftime('%-I:%M %p')}"
+            )
+            self._save()
 
     def _save(self):
         """Save current minutes to file."""

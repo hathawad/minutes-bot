@@ -73,11 +73,17 @@ class AudioLevelMonitor:
 class UIRecorder:
     """Interactive recorder with rich terminal UI."""
 
-    def __init__(self, on_chunk_ready: Optional[Callable[[Path, int], None]] = None):
+    def __init__(self, on_chunk_ready: Optional[Callable[[Path, int, datetime], None]] = None):
+        """
+        Args:
+            on_chunk_ready: Callback with (audio_path, chunk_number, chunk_start_time)
+        """
         self.on_chunk_ready = on_chunk_ready
-        self.session_id = datetime.now().strftime("%Y%m%d_%H%M%S")
+        self.session_start_time = datetime.now()
+        self.session_id = self.session_start_time.strftime("%Y%m%d_%H%M%S")
         self.session_dir = config.AUDIO_DIR / self.session_id
         self.session_dir.mkdir(parents=True, exist_ok=True)
+        self.chunk_start_time: Optional[datetime] = None  # When current chunk started
 
         self.chunk_number = 0
         self.recording_process: Optional[subprocess.Popen] = None
@@ -118,6 +124,7 @@ class UIRecorder:
 
     def _start_recording(self) -> Path:
         output_path = self._get_chunk_path()
+        self.chunk_start_time = datetime.now()  # Track when this chunk started
         cmd = [
             "sox", "-d", "-c", str(config.CHANNELS),
             "-r", str(config.SAMPLE_RATE), "-b", "16",
@@ -128,11 +135,13 @@ class UIRecorder:
         )
         return output_path
 
-    def _stop_recording(self) -> Optional[Path]:
+    def _stop_recording(self) -> tuple[Optional[Path], Optional[datetime]]:
+        """Stop recording and return (path, start_time) tuple."""
         if self.recording_process is None:
-            return None
+            return None, None
 
         current_path = self._get_chunk_path()
+        start_time = self.chunk_start_time
         self.recording_process.terminate()
         try:
             self.recording_process.wait(timeout=2)
@@ -144,14 +153,14 @@ class UIRecorder:
         self.chunk_number += 1
 
         if current_path.exists() and current_path.stat().st_size > 1000:
-            return current_path
-        return None
+            return current_path, start_time
+        return None, None
 
-    def _process_chunk_background(self, chunk_path: Path, chunk_num: int):
+    def _process_chunk_background(self, chunk_path: Path, chunk_num: int, chunk_start: datetime):
         self._pending_chunks += 1
         try:
             if self.on_chunk_ready:
-                self.on_chunk_ready(chunk_path, chunk_num)
+                self.on_chunk_ready(chunk_path, chunk_num, chunk_start)
             self._completed_chunks += 1
         except Exception as e:
             self._status_message = f"Error on chunk {chunk_num}: {str(e)[:30]}"
@@ -253,13 +262,13 @@ class UIRecorder:
                         if key == ' ':
                             # Cut chunk
                             current_chunk_num = self.chunk_number
-                            chunk_path = self._stop_recording()
+                            chunk_path, chunk_start = self._stop_recording()
                             self._start_recording()
 
-                            if chunk_path:
+                            if chunk_path and chunk_start:
                                 thread = threading.Thread(
                                     target=self._process_chunk_background,
-                                    args=(chunk_path, current_chunk_num),
+                                    args=(chunk_path, current_chunk_num, chunk_start),
                                     daemon=False
                                 )
                                 thread.start()
@@ -273,9 +282,9 @@ class UIRecorder:
             self.level_monitor.stop()
 
             # Stop final recording
-            final_chunk = self._stop_recording()
-            if final_chunk and self.on_chunk_ready:
-                self._process_chunk_background(final_chunk, self.chunk_number - 1)
+            final_chunk, final_start = self._stop_recording()
+            if final_chunk and final_start and self.on_chunk_ready:
+                self._process_chunk_background(final_chunk, self.chunk_number - 1, final_start)
 
             self._stop_backup_recording()
 
@@ -305,9 +314,9 @@ class UIRecorder:
 
 def test_ui():
     """Test the UI recorder."""
-    def on_chunk(path, num):
+    def on_chunk(path, num, start_time):
         time.sleep(2)  # Simulate processing
-        print(f"Processed: {path}")
+        print(f"Processed: {path} (started at {start_time})")
 
     recorder = UIRecorder(on_chunk_ready=on_chunk)
     recorder.run("Test Meeting")

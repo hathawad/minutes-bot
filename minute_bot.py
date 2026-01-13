@@ -45,30 +45,34 @@ def ui_meeting(meeting_name: str, model: str):
     minutes_gen = None
     offline_store = None
 
-    def on_chunk_ready(audio_path, chunk_number):
+    def on_chunk_ready(audio_path, chunk_number, chunk_start):
         nonlocal transcript_mgr, minutes_gen, offline_store
 
         if transcript_mgr is None:
             session_id = audio_path.parent.name
             transcript_mgr = TranscriptManager(session_id)
-            minutes_gen = MinutesGenerator(meeting_name)
+            minutes_gen = MinutesGenerator(meeting_name, session_id=session_id)
             offline_store = OfflineMinutesStore(session_id)
             minutes_gen.offline_queue = offline_store.load_queue()
 
-        result = transcriber.transcribe(audio_path)
+        result = transcriber.transcribe(audio_path, chunk_start_time=chunk_start)
         text = result.get("text", "").strip()
+        timestamped = result.get("timestamped_text", "").strip()
 
         if not text:
             return
 
-        transcript_mgr.append(text, chunk_number)
+        # Use timestamped text for transcript, plain text for minutes
+        transcript_mgr.append(timestamped if timestamped else text, chunk_number)
         minutes_gen.update_minutes(text, chunk_number)
         offline_store.save_queue(minutes_gen.offline_queue)
 
     recorder = UIRecorder(on_chunk_ready=on_chunk_ready)
     recorder.run(meeting_name)
 
+    # Finalize minutes with end time
     if minutes_gen:
+        minutes_gen.finalize()
         print(f"\n📋 Minutes: {minutes_gen.minutes_file}")
     if transcript_mgr:
         print(f"📝 Transcript: {transcript_mgr.transcript_file}")
@@ -97,7 +101,7 @@ def interactive_meeting(meeting_name: str, model: str):
     minutes_gen = None
     offline_store = None
 
-    def on_chunk_ready(audio_path, chunk_number):
+    def on_chunk_ready(audio_path, chunk_number, chunk_start):
         """Process a chunk in the background."""
         nonlocal transcript_mgr, minutes_gen, offline_store
 
@@ -105,15 +109,16 @@ def interactive_meeting(meeting_name: str, model: str):
         if transcript_mgr is None:
             session_id = audio_path.parent.name
             transcript_mgr = TranscriptManager(session_id)
-            minutes_gen = MinutesGenerator(meeting_name)
+            minutes_gen = MinutesGenerator(meeting_name, session_id=session_id)
             offline_store = OfflineMinutesStore(session_id)
             minutes_gen.offline_queue = offline_store.load_queue()
 
         print(f"\n  📝 Processing chunk {chunk_number}...")
 
-        # Transcribe
-        result = transcriber.transcribe(audio_path)
+        # Transcribe with wall clock timestamps
+        result = transcriber.transcribe(audio_path, chunk_start_time=chunk_start)
         text = result.get("text", "").strip()
+        timestamped = result.get("timestamped_text", "").strip()
 
         if not text:
             print(f"  ⚪ Chunk {chunk_number}: (no speech detected)")
@@ -121,8 +126,8 @@ def interactive_meeting(meeting_name: str, model: str):
 
         print(f"  📜 Transcript: {text[:80]}{'...' if len(text) > 80 else ''}")
 
-        # Save transcript
-        transcript_mgr.append(text, chunk_number)
+        # Save transcript with timestamps
+        transcript_mgr.append(timestamped if timestamped else text, chunk_number)
 
         # Update minutes
         success = minutes_gen.update_minutes(text, chunk_number)
@@ -140,8 +145,9 @@ def interactive_meeting(meeting_name: str, model: str):
     try:
         session_dir = recorder.run()
     finally:
-        # Print final summary
+        # Finalize minutes with end time
         if minutes_gen:
+            minutes_gen.finalize()
             print(f"\n📋 Minutes saved to: {minutes_gen.minutes_file}")
         if transcript_mgr:
             print(f"📝 Full transcript: {transcript_mgr.transcript_file}")
@@ -168,7 +174,7 @@ def record_meeting(meeting_name: str, chunk_duration: int, model: str):
     recorder = AudioRecorder(chunk_duration=chunk_duration)
     transcriber = Transcriber(model=model)
     transcript_mgr = TranscriptManager(recorder.session_id)
-    minutes_gen = MinutesGenerator(meeting_name)
+    minutes_gen = MinutesGenerator(meeting_name, session_id=recorder.session_id)
     offline_store = OfflineMinutesStore(recorder.session_id)
 
     # Load any previously queued transcripts
@@ -210,7 +216,8 @@ def record_meeting(meeting_name: str, chunk_duration: int, model: str):
     except KeyboardInterrupt:
         pass
     finally:
-        # Final save
+        # Finalize minutes with end time
+        minutes_gen.finalize()
         offline_store.save_queue(minutes_gen.offline_queue)
 
         print(f"""

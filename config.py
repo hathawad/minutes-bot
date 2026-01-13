@@ -9,9 +9,10 @@ DATA_DIR = BASE_DIR / "data"
 AUDIO_DIR = DATA_DIR / "audio"
 TRANSCRIPTS_DIR = DATA_DIR / "transcripts"
 MINUTES_DIR = DATA_DIR / "minutes"
+TEMPLATES_DIR = BASE_DIR / "templates"
 
 # Create directories
-for d in [DATA_DIR, AUDIO_DIR, TRANSCRIPTS_DIR, MINUTES_DIR]:
+for d in [DATA_DIR, AUDIO_DIR, TRANSCRIPTS_DIR, MINUTES_DIR, TEMPLATES_DIR]:
     d.mkdir(parents=True, exist_ok=True)
 
 # Audio settings
@@ -32,6 +33,8 @@ DEFAULT_TEMPLATE = """
 
 **Date:** {date}
 **Meeting:** {meeting_name}
+**Started:** {start_time}
+**Ended:** {end_time}
 
 ## Attendees
 - (To be filled based on transcript)

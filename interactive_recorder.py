@@ -16,10 +16,10 @@ import config
 class InteractiveRecorder:
     """Records audio with spacebar-triggered chunk boundaries."""
 
-    def __init__(self, on_chunk_ready: Optional[Callable[[Path, int], None]] = None):
+    def __init__(self, on_chunk_ready: Optional[Callable[[Path, int, datetime], None]] = None):
         """
         Args:
-            on_chunk_ready: Callback called with (audio_path, chunk_number) when a chunk is ready.
+            on_chunk_ready: Callback called with (audio_path, chunk_number, chunk_start_time) when a chunk is ready.
                            This is called in a background thread.
         """
         self.on_chunk_ready = on_chunk_ready
@@ -28,6 +28,7 @@ class InteractiveRecorder:
         self.session_dir.mkdir(parents=True, exist_ok=True)
 
         self.chunk_number = 0
+        self.chunk_start_time: Optional[datetime] = None  # When current chunk started
         self.recording_process: Optional[subprocess.Popen] = None
         self.backup_process: Optional[subprocess.Popen] = None  # Continuous backup recording
         self.backup_file: Optional[Path] = None
@@ -75,6 +76,7 @@ class InteractiveRecorder:
     def _start_recording(self) -> Path:
         """Start recording to current chunk. Returns the path being recorded to."""
         output_path = self._get_chunk_path()
+        self.chunk_start_time = datetime.now()  # Track when this chunk started
 
         cmd = [
             "sox",
@@ -94,12 +96,13 @@ class InteractiveRecorder:
 
         return output_path
 
-    def _stop_recording(self) -> Optional[Path]:
-        """Stop current recording. Returns path to the recorded file."""
+    def _stop_recording(self) -> tuple[Optional[Path], Optional[datetime]]:
+        """Stop current recording. Returns (path, start_time) tuple."""
         if self.recording_process is None:
-            return None
+            return None, None
 
         current_path = self._get_chunk_path()
+        start_time = self.chunk_start_time
 
         # Send SIGTERM for clean shutdown
         self.recording_process.terminate()
@@ -114,10 +117,10 @@ class InteractiveRecorder:
 
         # Verify file exists and has content
         if current_path.exists() and current_path.stat().st_size > 1000:
-            return current_path
-        return None
+            return current_path, start_time
+        return None, None
 
-    def _process_chunk_background(self, chunk_path: Path, chunk_num: int):
+    def _process_chunk_background(self, chunk_path: Path, chunk_num: int, chunk_start: datetime):
         """
         Process a chunk in background thread.
 
@@ -126,7 +129,7 @@ class InteractiveRecorder:
         """
         if self.on_chunk_ready:
             try:
-                self.on_chunk_ready(chunk_path, chunk_num)
+                self.on_chunk_ready(chunk_path, chunk_num, chunk_start)
             except Exception as e:
                 # Log error but NEVER crash - recording must continue
                 try:
@@ -182,7 +185,7 @@ class InteractiveRecorder:
                 if key == ' ':
                     # Spacebar: cut current chunk, start new one immediately
                     current_chunk_num = self.chunk_number
-                    chunk_path = self._stop_recording()
+                    chunk_path, chunk_start = self._stop_recording()
 
                     # Immediately start new recording (minimal gap)
                     self._start_recording()
@@ -194,10 +197,10 @@ class InteractiveRecorder:
                     self._setup_terminal()
 
                     # Process the saved chunk in background
-                    if chunk_path:
+                    if chunk_path and chunk_start:
                         thread = threading.Thread(
                             target=self._process_chunk_background,
-                            args=(chunk_path, current_chunk_num),
+                            args=(chunk_path, current_chunk_num, chunk_start),
                             daemon=False  # Don't kill on exit - we'll wait for completion
                         )
                         thread.start()
@@ -212,12 +215,12 @@ class InteractiveRecorder:
             self._restore_terminal()
 
             # Stop final recording
-            final_chunk = self._stop_recording()
-            if final_chunk:
+            final_chunk, final_start = self._stop_recording()
+            if final_chunk and final_start:
                 print(f"\n✂️  Final chunk {self.chunk_number - 1} saved")
                 # Process final chunk (in foreground since we're exiting)
                 if self.on_chunk_ready:
-                    self._process_chunk_background(final_chunk, self.chunk_number - 1)
+                    self._process_chunk_background(final_chunk, self.chunk_number - 1, final_start)
 
             # Stop backup recording
             self._stop_backup_recording()
@@ -249,8 +252,8 @@ class InteractiveRecorder:
 
 def test_interactive():
     """Test interactive recording without processing."""
-    def on_chunk(path, num):
-        print(f"  [Background] Would process: {path}")
+    def on_chunk(path, num, start_time):
+        print(f"  [Background] Would process: {path} (started at {start_time})")
 
     recorder = InteractiveRecorder(on_chunk_ready=on_chunk)
     recorder.run()
