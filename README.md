@@ -2,6 +2,8 @@
 
 Automated meeting minutes generator for board meetings.
 
+![Minute Bot UI](docs/screenshot.png)
+
 ## Problem Being Solved
 
 Doug is secretary on two boards and needs to create meeting minutes. Current workflow:
@@ -113,9 +115,11 @@ To process queued transcripts when back online:
 
 After a session in `data/`:
 - `audio/{session_id}/chunk_XXXX.wav` - Audio chunks
-- `transcripts/{session_id}_raw.txt` - Raw transcript backup (always saved)
-- `transcripts/{session_id}_full.txt` - Formatted transcript
-- `minutes/{session_id}_{meeting_name}.md` - Generated minutes
+- `audio/{session_id}/full_session_backup.wav` - Continuous backup recording
+- `transcripts/{session_id}/chunk_XXXX.txt` - Individual chunk transcripts with timestamps
+- `transcripts/{session_id}/full_transcript.txt` - Combined transcript
+- `transcripts/{session_id}/raw_backup.txt` - Raw transcript backup (fail-safe)
+- `minutes/{session_id}_{meeting_name}.md` - Generated minutes (with start/end times)
 - `{session_id}_offline_queue.json` - Queued chunks (if offline)
 
 ## Next Steps / TODO
