@@ -186,12 +186,38 @@ Armando Camejo, Clay Schmitt, David Zack, Emmanuel Uche, Eric Benk, Joe Barron, 
   3. Begin chest compressions — push hard, push fast, center of chest
   4. If an AED is available, turn it on and follow the voice prompts
   5. Continue until EMS arrives
-- Discussed location of AED on campus and importance of knowing where it is
+- Discussed location of AEDs on campus — currently two units on site; importance of knowing where they are
+- AED kits include scissors, a razor (for chest hair), and spare pads
 - Informational discussion only — not a formal training or certification
 
-## 5. Closing
+**Questions & Discussion:**
 
-- **Prayer:** *(TBD)*
+- **Adult vs. pediatric pads?** — AEDs have both sets of pads in the bag. Default pads are for adults. Pediatric pads are for children roughly under 5 years old (based on age, not weight).
+- **Do I need to do rescue breaths?** — Research shows compressions are the priority. There is enough oxygen in the system during the first few minutes of cardiac arrest. Focus on effective chest compressions rather than delaying to manage airway.
+- **How long can one person do compressions?** — About 2 minutes of effective compressions before fatigue sets in. Rotate with a partner if available — don't stop compressions during the switch.
+- **Can the AED shock the wrong rhythm?** — No. The AED analyzes the heart rhythm and will only deliver a shock if appropriate. You cannot override it. If no shock is needed, it will tell you to continue CPR.
+- **What if I'm not sure there's a pulse?** — Even medical professionals can struggle with pulse checks. If someone is unresponsive and you're not confident you feel a pulse, start compressions. Better to act than wait.
+- **What if I'm alone?** — Call 911 (or hit the emergency button on your phone), then start compressions. If the AED is just a few steps away, grab it first. If it's far, start compressions and call for someone to bring it.
+- **Should we move the patient?** — If they collapse in a tight space (bathroom, between pews), move them to an area with more room to work. Think about access for when EMS arrives.
+- **How close is EMS response?** — Fire/rescue is about two minutes away if units are not already on a call.
+- **What if it happens during a service?** — Deacons and elders should form a shield around the patient for privacy. One person takes charge and calls the shots. Directly point to one specific person to call 911 — don't say "somebody call 911."
+- **How hard do I push?** — About 2 inches deep. Hands interlaced, elbows straight, use your palms on the sternum. Breaking ribs is common, especially with older adults — keep going.
+- **Can I use adult pads on a child (or vice versa)?** — Adult pads on a child: the AED will detect the smaller body and adjust the energy down. Pediatric pads on an adult: won't generate enough energy — use adult pads if available.
+- **What if they're breathing but unconscious?** — Occasional gasping ("guppy breathing") is not effective breathing. If breathing seems ineffective and they're unresponsive, start compressions and put the AED on.
+- **What if they don't make it?** — Even with perfect response, not every patient survives. Don't assume you did something wrong. Do the best you can.
+- **How do I check the AED battery?** — Green light flashes every 3–4 seconds when battery is good. Rick checks them regularly; batteries replaced roughly every other year.
+- **Where are the AEDs on campus?** — One in the church office (corner, marked "AED"), one on the front desk area.
+- Rick and Jason offered to do a follow-up session on Stop the Bleed / wound care
+
+## 6. Other Business
+
+- Balcony closet has been cleaned out — items to go to the dumpster
+  - Doug Simpson taking some today; need a couple of volunteers to help with the rest
+  - Will Walker and Efrain Montesino to check what's there and verify nothing is being tossed that shouldn't be
+
+## 7. Closing
+
+- **Prayer:** Caleb Waller
 - **Adjournment**
 
 ---
