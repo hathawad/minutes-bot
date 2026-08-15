@@ -109,7 +109,7 @@ Dina has sent the chair a full event schedule for the remainder of this year and
 
 **Reformation Sunday Picnic, Sunday, October 25.** The chair expects to arrange food prep with Sports Grill again and will collect headcounts closer to the date. Layout is assumed to be the same as prior years. This is a large event needing broad participation: setup, cleanup, serving, transportation, and parking. More detail at the September and October meetings.
 
-A question was raised about whether the youth will be in the main building for the kickoff breakfast, which would remove the need to run materials back and forth. Indications are that they will be.
+A question was raised about whether the youth will be in the main building for the kickoff breakfast, which would remove the need to run materials back and forth as in past years. Indications are that they will be. Rossi Siewnarine is assisting with the breakfast, and the chair asked the group to make themselves available to him as needed.
 
 ## 5. Transition of Duties from Session
 
