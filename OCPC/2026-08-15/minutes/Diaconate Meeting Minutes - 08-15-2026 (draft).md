@@ -216,7 +216,3 @@ The chair asked Joe to post in the WhatsApp group when he schedules visits so av
 | 13 | CarePortal committee | Decide whether to split into multiple response teams by geography to distribute notification load |
 | 14 | CarePortal committee | Export request history to produce a CarePortal summary report for the Session |
 | 15 | Joseph Sirgany | Obtain hurricane sign-up list from Dina; begin preliminary home assessments this week; post visits to WhatsApp |
-
----
-
-*Drafting notes (remove before distribution). Per the OCPC drafting guide: a brief tangential 9:21 reference during the CarePortal Q&A was omitted; the family-composition question, the refunded transaction, an individual mercy case, and the reason for the hurricane ministry delay were summarized at the decision level rather than transcribed; and the projected scope and timing of the child-recovery operation were left out in favor of noting the church's contribution.*
