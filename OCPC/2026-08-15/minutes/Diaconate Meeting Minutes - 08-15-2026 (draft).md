@@ -20,7 +20,7 @@ Armando Camejo, Brian Pa'u, Bryon Snyder, Caleb Waller, Clayton Schmitt, Efrain 
 
 ## 2. Opening
 
-- **Opening Prayer:** *[TBD — confirm who opened]*
+- **Opening Prayer:** Rick Sanda
 - **Call to Order:** Adam Gaschott
 - **Previous minutes (July 12, 2026):** Presented for review. No corrections or objections were raised.
 
@@ -30,7 +30,7 @@ The chair thanked the group for meeting on a Saturday morning to accommodate the
 
 CJ, OCPC's CarePortal ambassador, presented the program's model and gave a live walkthrough of the platform. This session had been announced at the July 12 meeting.
 
-CJ opened by thanking the church for its support of a recent multi-agency effort to recover missing and trafficked children. OCPC's giving funded furnishings and supplies for the triage center receiving those children, a Citrus Family Care Network facility in Hialeah. CJ had visited the facility the previous day to confirm everything had arrived and passed along the agency's gratitude.
+CJ opened by thanking the church for its support of **Operation Shield**, a multi-agency effort to recover missing and trafficked children. OCPC's giving funded furnishings and supplies for the triage center receiving those children, a Citrus Family Care Network facility in Hialeah. CJ had visited the facility the previous day to confirm everything had arrived and passed along the agency's gratitude.
 
 ### A. The CarePortal Model
 
@@ -59,7 +59,7 @@ CJ framed the underlying philosophy: the aim is to care for children by caring f
 
 Money moves from the fund to the card only when the church responds to a request and commits to funding it. Whoever holds the card makes the purchase. A church may issue more than one card.
 
-**OCPC balances as presented:** CarePortal card, $707. CarePortal fund, approximately $2,442.
+Current balances for both the fund and the card are viewable on the church's CarePortal dashboard, along with the full transaction history.
 
 **Public giving page.** Each church has a public CarePortal page where anyone may give to that church's fund without a login, and those funds can only be used by that church. This came up in response to a question about members, peripheral attenders, and non-members who follow the ministry and want to contribute.
 
