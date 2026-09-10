@@ -34,8 +34,6 @@ Guests:
     the decision was to stay open. Earlier sites included Riverside and Village Pines; then Wayside opened.
     *(transcript renders Wayside as "Wayzata")*
 
-- **Jerry's birthday was yesterday (9/9).** Cake brought out, board sang. Meeting paused for dessert.
-
 ## 2. Approval of Agenda and Previous Meeting Minutes
 - **04/30/2026 minutes NOT approved. Deferred to the next meeting.**
   Jerry: he did not circulate them and the Board doesn't have access to the folder, so no one could
@@ -50,13 +48,59 @@ Guests:
 -
 
 ## 4. Finance Office Update — Kris Roth (on behalf of Ana Prinz)
-### Flourish Investment Update
--
 
-### May & June Reports
--
+*Numbers below transcribed from the handout scanned at 6:51pm
+(`attachments/Finance Documents - Sep 10 2026.pdf`). Discussion notes go under each.*
+
+### Flourish Investment Update
+**Flourish Cash Account** — held as *Kendall Continuing Presbyterian Church, Inc.*, acct 838842369
+Statement period **May 8 - June 7, 2026** (scan is page 1 of 4)
+
+| | Amount |
+|---|---|
+| Beginning account value | $1,735,949.32 |
+| Deposits and other credits | $0.00 |
+| Withdrawals and other debits | **($580,000.00)** |
+| Cash sweep interest paid | **$4,042.13** |
+| **Ending account value** | **$1,159,991.45** |
+
+Withdrawals, all ACH to BankUnited xxxx0758: 5/8 $30,000 · 5/12 $160,000 · 5/15 $77,000 ·
+5/26 $250,000 · 6/2 $63,000. Interest credited 6/2.
+
+- Interest is **up** from the ~$3,167/period reported at the April meeting.
+- $580K drawn down in a single period, no deposits. *(Ask: end-of-fiscal-year cash need, summer
+  payroll with no tuition inflow? Does this change the "leave it as a cushion" posture?)*
+- Discussion:
+
+### May 2026 Report — closes FY June 2025 - May 2026
+
+| | Actual May 2026 | Actual YTD (Jun 25 - May 26) | Budget May 2026 | Budget YTD |
+|---|---|---|---|---|
+| Revenue | $698,782.17 | $7,690,590.45 | $701,161.53 | $7,561,426.34 |
+| Expenses | $740,537.83 | $7,538,169.23 | $812,821.83 | $7,531,871.78 |
+| **Net Gain** | **($41,755.66)** | **$152,421.22** | ($111,660.30) | $29,554.56 |
+
+- **The fiscal year closed at +$152,421.22**, against a budgeted +$29,554.56. Favorable by
+  **~$122,867**.
+- Worth putting on the record: at the April 30 meeting the projection was a **gross loss of
+  ($57,386.45)**. The year finished more than $200K better than that projection. Ask what drove it
+  (the $56,424.86 UKnight reimbursement was the known open item).
+- Discussion:
+
+### June 2026 Report — month 1 of FY June 2026 - May 2027
+
+| | Actual June 2026 | Budget June 2026 |
+|---|---|---|
+| Revenue | $258,656.01 | $250,150.05 |
+| Expenses | $294,053.26 | $342,628.56 |
+| **Net Gain** | **($35,397.25)** | ($92,478.51) |
+
+- June ran a loss, as budgeted (no tuition in summer). Loss came in **$57,081 better than budget**:
+  revenue slightly over, expenses well under.
+- Discussion:
 
 ### Strategic Planning — Multiyear Financial Planning Update
+*(FCIS Warned Status item #3: strategic plan and multi-year financial plan must align)*
 -
 
 ## 5. Head of School Update — Terey Torralbas
@@ -84,40 +128,12 @@ Guests:
 
 ---
 
-## Pre-meeting / around the table (before call to order)
-*(informal, but some of this is real facilities business — decide what makes the minutes)*
+## Not for minutes
+Pre-meeting table talk (gate left open at night, AC setpoints, missing fan remotes, worship night,
+birthday cake, personnel news). Held out per Doug: official meeting business only. Still in the
+transcript if any of it resurfaces on the record under Open Floor.
 
-**Energy stewardship**
-- Campus was found **fully dark around 11:00pm-12:10am** last night: every light off, including
-  driveway and parking lot. Called out as a genuine change and a win on utility cost.
-- **Next phase: AC setpoints and timers.** Units found running at **69°F** with condensation on
-  windows and doors. Proposal to raise setpoints when spaces aren't in use and put units on timers.
-- Church side reports being cold on Sundays. Suggestion: leave the fan running continuously rather
-  than letting the compressor cycle hard on and off, which is both loud and hard on the equipment.
-
-**Media Center fan controls**
-- The fan remotes are missing. They were kept behind the front desk; they were moved after an
-  evening school event and haven't been seen since. Alice doesn't have them.
-  **Terey to locate them tomorrow.**
-
-**Campus security (front gate)**
-- The **front gate is being left open at night**. Campus is very dark, holds a lot of expensive
-  equipment (TVs, computers), and **has no alarm**.
-- Gate can be closed with a keypad code. The standing objection: people arriving for church events
-  without a code or remote can't get in.
-- Proposal: **first one in opens, last one out closes** (paired with the last one out killing the lights).
-  Noted that the closing mechanism doesn't work reliably and needs attention.
-- **Jerry: maintenance to confer with the security team** and get this resolved. Pushback from the
-  table that it should be immediate rather than a year-end goal.
-
-**Personnel note**
-- **Alexa DeAguero (Primary School Principal) is expecting.** Due **March 1**; planning to be back
-  before the end of May. *(personnel — confirm whether this goes in the minutes)*
-
-**Other**
-- Pastor James Drake is back from deployment.
-- Church hosted a multi-denominational worship night (Prayer Miami rotation). Good turnout,
-  mostly visitors from other churches. *(church business, likely omit)*
+---
 
 ## 9. Closing Prayer & Adjournment
 - Motion to adjourn: / Seconded: / Result:
