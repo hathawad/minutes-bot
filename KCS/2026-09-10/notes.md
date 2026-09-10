@@ -60,6 +60,8 @@ Guests:
 
 ### Flourish Investment Update
 **Flourish Cash Account** — held as *Kendall Continuing Presbyterian Church, Inc.*, acct 838842369
+*(Account is in the church's name by design: Constitution Art. IV §3 puts title to all KCS property
+in the name of Kendall Continuing Presbyterian Church.)*
 Statement period **May 8 - June 7, 2026** (scan is page 1 of 4)
 
 | | Amount |
@@ -211,7 +213,51 @@ Withdrawals, all ACH to BankUnited xxxx0758: 5/8 $30,000 · 5/12 $160,000 · 5/1
 -
 
 ### KCS Constitution Board Articles
--
+*(full text: `reference/KCS Constitution.docx` and `.txt`. **Revised 1/96 by Session action** —
+this is the 1996 document flagged at the April meeting as never substantively reviewed.)*
+
+**Article IV - Board of Trustees**
+- **Sec. 1 - Composition.** At least **7** members, no more than **12**. At least **60% must be
+  members of Kendall Presbyterian Church**. **All** must be communing members of a **PCA** church,
+  subscribing to Article II and to the limitations on Board participation.
+- **Sec. 2 - Terms.** **Three-year terms, no more than three consecutive terms.**
+  *(The tension flagged in April: several members are at or past this limit.)*
+- **Sec. 3 - Duties, powers, authorities.**
+  - Supervise all programs, finances, and properties. **Title to all property purchased by or given
+    to KCS is held in the name of Kendall Continuing Presbyterian Church.**
+  - Determine and execute school policies in harmony with the Constitution.
+  - Appoint and dismiss persons employed by KCS.
+  - Devise ways and means for obtaining funds and determine how they are expended (individuals,
+    foundations, estates, tuition and fees).
+  - **Appoint one of its own members to visit the school each month** to assure the Board that the
+    educational program and policies are being carried out.
+  - **Report semi-annually in writing to the Session** of Kendall Presbyterian Church.
+  - Promote the cause of Christian education in the community.
+  - Appoint committees. **Meet at least once each month.** Elect officers.
+
+**Article V - Officers:** President, Vice President, Secretary, Treasurer, Assistant
+Secretary-Treasurer. The **Secretary** keeps official documents, conducts correspondence, and
+**enters minutes into the records after they have been approved**.
+
+**Article III / VI / VII - the constraints that matter tonight**
+- KCS is an organization of **Kendall Continuing Presbyterian Church, Inc.**, operating **under the
+  jurisdiction of the Session**.
+- **Article II is not amendable.** All other amendments are **made only by the Session**, which must
+  first receive an **advisory opinion from the Board of Trustees**. Session must give the Board a
+  **minimum of one week's notice** when requesting that opinion.
+  **=> The Board cannot amend its own Constitution.** Any term-limit fix is a Session action that
+  the Board can only advise on. That shapes the succession/term-limit path from April.
+- On dissolution, assets transfer to Kendall Continuing Presbyterian Church.
+
+**Gaps between the Constitution and current practice** *(likely the substance of this agenda item)*
+- **Monthly meetings are required.** The Board last met April 30 and is meeting again September 10.
+- **Monthly school visit by a designated Board member** — is anyone appointed to this?
+- **Semi-annual written report to Session** — happening?
+- **Officer titles don't match.** The Constitution names a President; practice uses "Chair / Board
+  Moderator." Treasurer and Assistant Secretary-Treasurer roles vs. the current finance arrangement.
+- Composition test: **60% Kendall Presbyterian Church members, all PCA communing members.**
+
+- Discussion:
 
 ## 6. Joint Committees — Alfie Hernandez
 -
