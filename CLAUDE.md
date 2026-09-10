@@ -5,6 +5,7 @@
 When drafting minutes, consult the relevant org-level guide for standing rules (content to omit, formatting conventions, etc.):
 
 - **OCPC:** [OCPC/guide.md](OCPC/guide.md)
+- **KCS:** [KCS/guide.md](KCS/guide.md)
 
 When a user asks to "install", "set up", or "get started" with this project, follow these steps:
 

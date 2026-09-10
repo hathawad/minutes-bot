@@ -54,10 +54,20 @@ KCS is accredited by [FCIS (Florida Council of Independent Schools)](https://www
 ## About This Folder
 This folder contains meeting minutes, agendas, and other documentation related to Kendall Christian School board meetings and accreditation activities.
 
+One folder per meeting, named `YYYY-MM-DD`:
+
 ```
 KCS/
-├── README.md           # This file
-├── agendas/            # Meeting agendas
-├── minutes/            # Meeting minutes and summaries
-└── samples/            # Sample documents
+├── README.md              # This file
+├── guide.md               # Minutes drafting guide: house style, roster, standing rules
+├── samples/               # Reference minutes from before the per-meeting layout
+└── YYYY-MM-DD/            # One folder per board meeting
+    ├── agenda.pdf         # Agenda as distributed
+    ├── notes.md           # Live notes taken during the meeting
+    ├── minutes.md         # Full draft
+    ├── minutes-condensed.md  # Tightened version that goes out
+    ├── transcripts/       # Raw meeting transcripts (Plaude, or local recordings)
+    └── attachments/       # Handouts, financial reports, photos of whiteboards
 ```
+
+**Before drafting minutes, read [guide.md](guide.md).**
