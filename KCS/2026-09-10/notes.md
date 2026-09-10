@@ -26,7 +26,7 @@ Guests:
 - Devotion (text / theme):
 
 ## 2. Approval of Agenda and Previous Meeting Minutes
-- Minutes under approval: 04/30/2026 *(any summer Zoom meetings also pending?)*
+- Minutes under approval: **04/30/2026 only** (last meeting requiring minutes)
 - Moved by: / Seconded by: / Result:
 
 ## 3. FCIS Governance Standards Review — Std 2.4
