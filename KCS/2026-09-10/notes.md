@@ -44,8 +44,14 @@ Guests:
 ## 3. FCIS Governance Standards Review — Std 2.4
 > The Board demonstrates an understanding of its role in governance and the formulation of school policies. The Head of School understands his/her separate role and responsibilities for hiring, evaluating, and leading all administrators, faculty, and staff; implementing policies; and overseeing the day-to-day operations of the school.
 
-- Jerry read 2.4 aloud. Discussion starting as chunk 1 ends.
--
+- Jerry read Standard 2.4 aloud and asked whether there was any question as to its meaning.
+- Asked where the language comes from: **FCIS**. Terey explained FCIS requires the agenda to show
+  the Board is **actively reviewing governance**.
+- **A governance standard becomes a standing agenda item at every meeting**, and the minutes must
+  reflect the review each time. *(This is a Warned Status response item. Worth a permanent
+  agenda/minutes slot.)*
+- **No motion taken.** Jerry started to call for one; clarified that this is a review, not an action.
+- Further discussion of the Board's governance role deferred to the joint committees report (Alfie).
 
 ## 4. Finance Office Update — Kris Roth (on behalf of Ana Prinz)
 
@@ -68,9 +74,8 @@ Withdrawals, all ACH to BankUnited xxxx0758: 5/8 $30,000 · 5/12 $160,000 · 5/1
 5/26 $250,000 · 6/2 $63,000. Interest credited 6/2.
 
 - Interest is **up** from the ~$3,167/period reported at the April meeting.
-- $580K drawn down in a single period, no deposits. *(Ask: end-of-fiscal-year cash need, summer
-  payroll with no tuition inflow? Does this change the "leave it as a cushion" posture?)*
-- Discussion:
+- Kris confirmed **$4,042 in interest in June** and an ending balance of ~**$1.1M as of June 7**.
+- $580K drawn down in a single period with no deposits. Not raised at the table.
 
 ### May 2026 Report — closes FY June 2025 - May 2026
 
@@ -80,12 +85,14 @@ Withdrawals, all ACH to BankUnited xxxx0758: 5/8 $30,000 · 5/12 $160,000 · 5/1
 | Expenses | $740,537.83 | $7,538,169.23 | $812,821.83 | $7,531,871.78 |
 | **Net Gain** | **($41,755.66)** | **$152,421.22** | ($111,660.30) | $29,554.56 |
 
-- **The fiscal year closed at +$152,421.22**, against a budgeted +$29,554.56. Favorable by
-  **~$122,867**.
-- Worth putting on the record: at the April 30 meeting the projection was a **gross loss of
-  ($57,386.45)**. The year finished more than $200K better than that projection. Ask what drove it
-  (the $56,424.86 UKnight reimbursement was the known open item).
-- Discussion:
+> **These are not final numbers.** Kris flagged that May and June are both still preliminary.
+> Reviewing the reports Anna sent today, she found something that "still wasn't quite what I was
+> expecting" and corrections are still to come. **Minutes must carry this caveat.**
+
+- FY26 closed with a **~$152,000 surplus** against a budgeted **$29,000** surplus.
+- **Driver: UKnight Fund receipts came in well above budget.**
+- The delay in producing the May and year-end financials traces to the UKnight fundraising. See
+  restricted fund accounting below.
 
 ### June 2026 Report — month 1 of FY June 2026 - May 2027
 
@@ -95,13 +102,103 @@ Withdrawals, all ACH to BankUnited xxxx0758: 5/8 $30,000 · 5/12 $160,000 · 5/1
 | Expenses | $294,053.26 | $342,628.56 |
 | **Net Gain** | **($35,397.25)** | ($92,478.51) |
 
-- June ran a loss, as budgeted (no tuition in summer). Loss came in **$57,081 better than budget**:
-  revenue slightly over, expenses well under.
-- Discussion:
+- Budgeted loss **$92,000**; actual loss **$35,000**.
+- **Why June and July always run negative:** tuition is recognized only across the **10 months**
+  students are in seats, so there is no tuition revenue in June or July to offset expenses. The
+  school makes it up over the year through tuition revenue recognition. Teacher salaries are also
+  not paid in June or July.
+- **Georgina redistributed the budget by month.** The budget had been spread evenly at 1/12 per
+  month, which is not how expenses are actually incurred. She rebuilt the monthly distribution
+  from prior-year actuals. Under the old even-spread method, July showed an expected net loss of
+  about **$142,000** that was never real.
+- Kris: "I'm very happy with what I'm seeing so far."
+
+### UKnight Fund
+| | Amount |
+|---|---|
+| Raised through the spring appeal (incl. April pledges) | $165,000 |
+| Received June | ~$10,000 |
+| Received July | ~$50,000 |
+| Received August | ~$4,000 |
+| **Total to date** | **$229,000** |
+
+- **All $229,000 has been spent.**
+- A correction is coming: the balance on the summaries omitted **$1,110**. As of end of June the
+  UKnight Fund is **overdrawn by $58.88**, which will be backed out and covered from
+  **unrestricted funds**.
+- Against the $165,000 raised and the $152,000 surplus, the school went into UKnight funds by only
+  about **$10,000** more than total expenses.
+
+### Restricted Fund Accounting  *(new capability, and a compliance exposure)*
+- The UKnight campaign raised **restricted funds**, and **KCS had no restricted fund accounting set
+  up** in its accounting system. The finance office had to research how to record restricted funds,
+  **release the restriction as funds are spent**, and track work-in-progress capitalized expenses.
+  This is what delayed the May and year-end close. Cleanup is still in progress.
+- **What restricted funds may pay for depends on how the appeal was worded.** The last appeal was
+  worded well but **narrower than the Board would have liked**.
+- **Open question: can Raiser's Edge be paid from UKnight funds?** Kris's read is **no**, given that
+  campaign's wording.
+  - **Technology and smartboards *are* within the appeal's wording.** So a **swap** is available: if
+    smartboards were bought with unrestricted funds, charge them to the restricted funds instead and
+    free up unrestricted budget for Raiser's Edge.
+  - Paying Raiser's Edge **directly** out of funds donated for other stated purposes would be
+    **out of compliance**.
+  - Kris: if the Board does want fundraised money to pay for the platform, **the appeal has to say
+    so up front**. She is wary of the solicitation style that keeps most of each dollar for the cost
+    of fundraising. Preference is to fund it from the budget if possible.
+- **Distinction drawn: event fundraising vs. donor-restricted giving.** A PTF dance that sells
+  $20,000 in tickets against $12,000 of expenses nets $8,000 for the school, and that is fine, since
+  a ticket buyer is not designating a purpose. Restricted gifts solicited for stated purposes are
+  different and the money must follow the stated purpose.
+- **Process change agreed in principle: the Board reviews appeal wording before an appeal goes out**,
+  so finance and advancement agree in advance what the funds can be used for.
+- **Why now:** this was the school's **first major fundraising with designated funds**. Kris wants it
+  right while the school is small, since the program will only grow. Risk raised plainly: it takes
+  one complaint to the press or the state to create a serious problem. Alfie: "We need to do the
+  heavy lifting" and ensure compliance and best practices.
+- **Merchandise:** the school is now selling merch. Open question on **what is taxable and what is
+  not**. Research underway.
+- **Action:** finance and advancement to research restricted-fund use and merch tax treatment, then
+  bring something back. Alfie placed this in the **advancement and development workstream**; Kris
+  noted it is **finance and advancement jointly**. Mrs. Donate's experience with appeal wording to
+  be used.
 
 ### Strategic Planning — Multiyear Financial Planning Update
 *(FCIS Warned Status item #3: strategic plan and multi-year financial plan must align)*
--
+
+- **The accreditation finding, restated:** the strategic plan had goals but **no financial means to
+  accomplish them**.
+- **Kris built a spreadsheet mapping the strategic plan to money.** Every goal pulled out and
+  grouped by section, with the timeline for each and any dollar amount attached.
+- Kris and Terey worked through it Tuesday night until about **10:15-10:30pm**, after the finance
+  meeting and the joint stewardship committee meeting, asking of each goal: **are the dates
+  reasonable, and where is the funding coming from?** Budget, fundraising, capital campaign, PTF,
+  UKnight Fund, or something else.
+- Purpose is to be able to show FCIS that the goals are actually **budgeted**.
+- Spreadsheet has gone to the strategic plan committee. **Kris to drop the Excel into the shared
+  folder** so there aren't five or six copies floating around. Only a PDF is there now.
+- **Current plan is 2023-2028 and is roughly half elapsed.** Many items are complete. Some were
+  "dreams" that likely will not happen inside this plan and may roll into the next one. That
+  progression sets up planning for the following five-year plan.
+  *(transcript garbles the next plan's years — CHECK: 2028-2033?)*
+- **Sequencing question raised:** the **$5 million middle school building** versus moving the
+  **gymnasium / "pool barn" concept ahead of it**, since basketball courts may be needed sooner.
+- **Alfie's governance framing:** reconfirm the strategic plan annually. From the roughly twenty
+  goals, adopt a defined set of **initiatives**, then issue a **charging memo** assigning each area
+  what it is charged to accomplish. At each review, drop what is stale, replace it, and keep the
+  plans documented and supported. Also suggested documenting horizons explicitly: a five-year plan
+  alongside a twenty-year master plan.
+- **Terey:** the plan is a goal, not written in concrete. Two years in, priorities can be re-ranked
+  and the plan adapts.
+- **Kris:** before building the **2027-28 budget**, the Board decides which strategic plan items
+  actually go into that budget. Being in the plan for that period does not automatically mean
+  funding it; items can be pushed a year or dropped.
+- Remaining strategic planning discussion deferred to the **joint committees** report.
+
+### Board document access
+- Folder access is still unsettled. Multiple shared folders in play, and members could not locate
+  the strategic plan. Terey shared folders yesterday and today.
+- Same root cause as the deferred April minutes. **Worth a decision on one canonical folder.**
 
 ## 5. Head of School Update — Terey Torralbas
 ### Admissions Update
