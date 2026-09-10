@@ -2,12 +2,14 @@
 # Pull new transcript files into a meeting's transcripts/ folder.
 #
 #   ./ingest-transcripts.sh KCS/2026-09-10
-#   ./ingest-transcripts.sh KCS/2026-09-10 --plaud    # force everything to plaud/
+#   ./ingest-transcripts.sh KCS/2026-09-10 --plaud    # the Plaud device export
 #
 # Sources scanned, newest first:
 #   data/transcripts/   local recorder output  -> incremental/
-#   ~/Downloads/        Plaud exports, uploads -> plaud/ (or incremental/ if it
-#                       looks like a timestamped chunk)
+#   ~/Downloads/        laptop chunks          -> incremental/
+#
+# Everything defaults to incremental/, since during the meeting every drop is
+# a chunk. Pass --plaud for the device export at the end.
 #
 # Copies, never moves. Skips files already ingested. Safe to run repeatedly
 # mid-meeting.
@@ -45,13 +47,9 @@ classify() {
     --plaud)       echo plaud; return ;;
     --incremental) echo incremental; return ;;
   esac
-  if [[ "$origin" == "recorder" ]]; then
-    echo incremental
-  elif [[ "$name" =~ ^[0-9]{4}-[0-9]{2}-[0-9]{2}\ [0-9]{2}_[0-9]{2}_[0-9]{2}-transcript\.txt$ ]]; then
-    echo incremental
-  else
-    echo plaud
-  fi
+  # Default to incremental: during the meeting every drop is a chunk. The
+  # Plaud device export lands once, at the end, and gets --plaud.
+  echo incremental
 }
 
 scan() {
