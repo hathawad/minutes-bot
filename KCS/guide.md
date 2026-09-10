@@ -71,14 +71,14 @@ Transcripts mangle these consistently. Fix on the way in. Variants marked **(see
 | **Terey Torralbas** | Terry **(seen, 18x)**, Terri, Torralba | Head of School |
 | **Gerald "Jerry" Zeidler** | Zeidel, Zidler, Zeigler | Chair and Board Moderator |
 | **Kris Roth** | Chris Roth **(seen)** | Board Member (finance) |
-| **Alfie Hernandez** | Alfy, Alfi | Board Member |
+| **Alfie Hernandez** | **Elby, Alki (seen)**, Alfy | Board Member |
 | **Jim Sue** | Jim Su, Jim Sioux | Board Member |
 | **Diane Lee** | Dianne | Board Member |
 | **Doug Hathaway** | Hathway, Hathoway | Board Secretary |
 | **Alexa DeAguero** | De Aguero, Aguero, Diaguero | Primary School Principal |
 | **Jessica Diaz** | - | Lower School Principal |
 | **Ana Prinz** | Anna **(seen)**, Prince | Finance Office |
-| **Georgina** | Georgena | Business office |
+| **Georgina** | Georgena | Business office (builds the monthly budget distribution) |
 | **Jacky Donate** | Jackie **(seen, 10x)**, Donatti | Director of Development |
 | **Mrs. Balcarce** | Balcarcel, Balkarse | Longtime preschool teacher |
 | **Pastor James Drake** | - | Deployed overseas as military chaplain |
@@ -91,10 +91,12 @@ Institutions and terms:
 | **Raiser's Edge** | **Razor's Edge / Razor Edge (seen, 11x)** | Blackbaud fundraising CRM. See caveat below. |
 | **Blackbaud** | Black Bod, Blackboard | Vendor behind Raiser's Edge |
 | **OneCause** | One Cause | Peer-to-peer fundraising platform |
-| **UKnight Fund** | Unite **(seen)**, You Night, U Knight | KCS annual fund (play on "Knights") |
+| **UKnight Fund** | **Unite, the night fund (seen)**, You Night | KCS annual fund (play on "Knights") |
 | **Flourish** | - | Interest-bearing investment account |
 | **Step Up** | Step-Up, StepUp | Step Up For Students scholarship funding |
 | **KPC** | - | Kendall Presbyterian Church |
+| **Ron Clark Academy** | Anna Ron, Ron Clark | Atlanta school leaders visit; cited as a fundraising example |
+| **PTF** | - | Parent-Teacher Fellowship |
 | **ISM / BoardSource** | Board Source | Governance subscription services |
 
 ### Two spellings to confirm with Doug
