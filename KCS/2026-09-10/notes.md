@@ -197,17 +197,129 @@ Withdrawals, all ACH to BankUnited xxxx0758: 5/8 $30,000 · 5/12 $160,000 · 5/1
   funding it; items can be pushed a year or dropped.
 - Remaining strategic planning discussion deferred to the **joint committees** report.
 
+### Reporting format — year-over-year comparisons
+- Jerry said he likes the simplicity of the new reports, and asked why there is no prior-year
+  comparison or the projections the Board used to get.
+- **Why they were dropped:** last year the school changed accounting methods, so year-over-year
+  comparison told a distorted story and was more confusing than helpful. Two changes:
+  - **Revenue recognition** moved from spreading tuition evenly over 12 months to the
+    **students-in-seats month method** (10 months).
+  - **Payroll** moved from monthly to **biweekly**, requiring **payroll accrual**.
+- This year is being accounted for the same way as last year, so comparisons are meaningful again.
+- **AGREED: add a quarterly report** showing prior-year budget vs. current-year budget and
+  prior-year actual, so members not on the finance committee can see year-over-year performance and
+  get an explanation of any surprises.
+
+### Pledge revenue recognition
+*(raised out of the finance committee meeting)*
+- **A pledge is recognized as revenue when it is made**, even when payment is spread over one or two
+  years. This is the **GAAP** treatment, and the school is on **accrual**, not cash.
+- A pledge is a **legally binding obligation**. Whether the school ever pursues it is the school's
+  choice. Jacky Donate confirmed the obligation but noted that suing is **not common practice** for
+  a school like KCS; the normal path is to write it off.
+- Mechanically it behaves like **accounts receivable**: book it, collect over time, write off if it
+  goes bad.
+- **Why the obligation matters:** the school **detrimentally relies** on pledges in building a
+  multi-year budget. In a capital campaign you take a pledge report to a bank to get a **bridge
+  loan** and start construction before the cash is collected.
+- **AGREED in principle: make the binding nature clear in the ask**, framed positively. Something to
+  the effect of "we rely on these pledges to plan our multi-year budget, and your pledge matters for
+  executing it," rather than treating a pledge as a soft commitment.
+- **Bad debt:** no bad debt problem this year and no bad debt reserve has been needed. A few
+  write-offs a long time ago. As fundraising grows, a **bad debt reserve** may become necessary.
+
+### Spending against uncollected pledges  *(the policy question on the table)*
+- **Current position: the UKnight Fund is fully spent, and $77,000 of it is still uncollected.**
+  - **$49,973 is owed by Christ Church.** The Session approved it; it is now a matter of submitting
+    invoices. The school is assembling all the bills rather than requesting a lump check. The final
+    figure will be **somewhat more than $48,000**.
+  - The remaining ~**$27,000** is from donors on payment plans. One pledge was made in mid-July and
+    so is not reflected in the June report at all.
+- **Jerry framed the question: do we spend money before we actually have it, or do we hold back?**
+- **Kris's proposed hybrid policy:** spend **up to what has been collected**, consistent with the
+  purpose the funds were raised for. To spend funds **not yet collected**, bring it to the **Board
+  for approval** first. Received as reasonable.
+- Jim asked to see a **cash flow of the revenue stream**. Pushback that this is too granular for the
+  Board.
+- Kris confirmed the UKnight accounting now carries cash flow, actual fund balance, collected
+  year-to-date, and **uncollected AR** as a column. She added those columns this evening.
+- **Terey's timing proposal:** the UKnight appeal runs in **February**, and the big projects happen
+  over the **summer**. By end of February, or April at the latest, the school knows cash on hand and
+  what should arrive by June, so the Board can set a **summer spending ceiling** in advance.
+- **Designated fund accounting is in place for UKnight but not yet for the other restricted funds.**
+  Kris gave Anna a written procedure three weeks ago and Anna has implemented it. The mechanics are
+  a two-step entry: record the restricted funds, then **release from designated to undesignated** as
+  they are spent, analogous to inventory and sales.
+- **Outside expertise: not needed.** Jerry asked whether ~$7,000 should be budgeted for help.
+  Answer was no, the expertise exists in-house.
+- Caution raised: on upcoming capital work, contractors want roughly **half up front** before they
+  mobilize, which is when the large exposures appear.
+
+> **ACTION:** a **forward-looking policy on spending against uncollected funds**, to come back to the
+> Board **next month**. Jerry asked the **finance committee** to make the recommendation. Alfie's
+> refinement, which the table liked: make it a **named deliverable** for the appropriate workstream
+> under the strategic plan, let that group do the research and bring a recommendation for the Board
+> to adopt or reject. *(Confirm which body owns it: finance committee, or a strategic-plan workstream.)*
+
 ### Board document access
 - Folder access is still unsettled. Multiple shared folders in play, and members could not locate
   the strategic plan. Terey shared folders yesterday and today.
 - Same root cause as the deferred April minutes. **Worth a decision on one canonical folder.**
+- **Terey offered one-on-one training** for any member who wants it, on their own machine or hers.
+- **Printed copies** of the documents under review, including the Constitution, were provided for
+  members who prefer paper. Terey offered to enter members' handwritten comments into the shared
+  documents on their behalf so no one is blocked from contributing.
+- Some members **cannot upload** to the shared folders. Permissions to be fixed.
+- **Request for future meetings: display documents on the Media Center screen** so the Board can
+  work through them together once rather than revisiting them separately.
 
 ## 5. Head of School Update — Terey Torralbas
 ### Admissions Update
--
+> **Judgment call for Doug.** This is formally on the agenda and was reported to the Board, so it
+> belongs in the minutes. It is also the most sensitive item of the night. Drafted factually and
+> without characterizing the family. Tell me how much of it you want to survive into the minutes.
+
+- Background, reported to the Board at a **Zoom meeting over the summer**: a **same-sex couple had
+  applied**. Terey sought guidance from the church, and the church supported proceeding, on the
+  stated principle that **the school does not penalize children for the sins of the parents**.
+- **Outcome: the family withdrew on their own.** They visited for two and a half days. They told
+  Terey they did not want to hurt the school, thought it was a lovely school, and given that there
+  was pushback this early they did not want to proceed. They were seeking a Christian education for
+  their child.
+- About a week later a **joint church and school statement** went to all families, restating the
+  position of both and confirming that nothing had changed. Issued on a combined letterhead carrying
+  both school and church colors.
+- **Reception was strongly positive.** Terey reported far more positive than negative feedback, and
+  characterized the negative response as a **loud minority**. Common theme in the responses was
+  trust in the school and its leadership.
+- **Changes to the admissions process:**
+  - The **statement of faith has been added to the application itself.** Previously it appeared only
+    at enrollment, since the application collected contact information and referral links. The
+    school's identity, beliefs, and what it teaches are now stated **from the moment of application**.
+  - **KCS is not a covenant school**, and Terey clarified what that means: a student does not have to
+    declare that they are a Christian in order to attend.
+  - Further language is being added to the **handbook**, including on gender. Acknowledged that not
+    everything can be anticipated, but the intent is to get ahead of it.
+- Discussion noted the harder case is **parental involvement in leadership or PTF**, as distinct from
+  the child's enrollment, with the parallel drawn to church practice: open door for attendance,
+  but not for leadership.
+- Noted that a similar situation had arisen once before, and that applicant withdrew during the
+  interview process.
 
 ### Septic/Sewer Project Update
--
+- **Permits are approved.** The school is cleared to move forward. Permitting ran from **December
+  until last month**.
+- **Next step is bids.** Three bids exist but need to be revisited, since the bids have to match the
+  option presented to the engineer. Put a dollar value on it first, then determine the funding source.
+- **Funding:** money is available from the earlier campaign run when **Alex Gisbert** was here. Those
+  funds are restricted to **expansion** and cannot be used for anything else.
+  *(CHECK: the septic/sewer work was treated at the table as qualifying under expansion. Worth
+  confirming explicitly, given tonight's whole discussion about restricted-fund compliance.)*
+- **Alfie to raise it with the joint stewardship committee** on **cost sharing**, since the work is a
+  campus enhancement.
+- **Jerry's recommendation, agreed:** when rebidding, ask how long each bid is honored and build in
+  as long a window as possible, up to a year, so the bids hold while the Board decides. Described at
+  the table as a **sunset clause**.
 
 ### Proposed Increase in School Tuition 2027-2028
 -
