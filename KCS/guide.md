@@ -104,6 +104,16 @@ Institutions and terms:
 
 ## Confidentiality and Content to Omit
 
+- **Official meeting business only.** The Board eats dinner together and the recording runs through
+  all of it. Table talk before the call to order, and social asides during the meeting, stay out:
+  birthdays and cake, family news, church events, who ate what, catching up. Even when a real topic
+  comes up in that window (facilities, security, costs), it doesn't go in the minutes unless it is
+  raised again on the record. If it seems too useful to lose, park it in the meeting's `notes.md`
+  under a "Not for minutes" heading rather than drafting it in.
+- **No personnel or family news.** Pregnancies, illnesses, leave plans, and similar belong nowhere in
+  the minutes, even when announced to the whole table. Coverage arrangements go in only when the
+  Board formally acts on them.
+
 - **FCIS Warned Status is confidential.** The school was placed on Warned Status by letter dated 04/25/2026 for up to three years. Board members are under confidentiality agreements; the designation is not published on the website and does not change the public accreditation listing. It belongs in the minutes (it's Board business), but never in anything that leaves the Board, and never in a public-facing summary.
 - **Personnel specifics.** Named teachers tied to credentialing gaps, evaluations, or employment decisions get handled at the level of "the Board discussed rationale documentation for two teachers." Names only where the record genuinely requires them.
 - **Donor identities and individual gift amounts.** Donor data access is limited to Jacky, Terey, Georgina, and Ana. The Board sees aggregate campaign totals only. Minutes follow the same rule: aggregates, not individual donors.
