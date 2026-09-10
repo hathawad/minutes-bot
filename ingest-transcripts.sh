@@ -11,8 +11,12 @@
 # Everything defaults to incremental/, since during the meeting every drop is
 # a chunk. Pass --plaud for the device export at the end.
 #
-# Copies, never moves. Skips files already ingested. Safe to run repeatedly
-# mid-meeting.
+# Incremental chunks are renumbered in arrival order as they land:
+#   01 - School Operations, Security, and Governance-transcript.txt
+#   02 - Governance Review Standard, Financial Update...-transcript.txt
+#
+# Copies, never moves. Skips files already ingested (matched by content, so a
+# rename won't cause a duplicate). Safe to run repeatedly mid-meeting.
 
 set -euo pipefail
 
@@ -52,19 +56,52 @@ classify() {
   echo incremental
 }
 
+# Highest sequence number already used in a bucket, plus one.
+next_seq() {
+  local bucket="$1" hi=0 n
+  for existing in "$DEST/$bucket"/[0-9][0-9]\ -\ *; do
+    [[ -e "$existing" ]] || continue
+    n=$(basename "$existing" | cut -c1-2)
+    n=$((10#$n))
+    (( n > hi )) && hi=$n
+  done
+  echo $((hi + 1))
+}
+
+# True if this exact content is already in the bucket, whatever it got named.
+already_have() {
+  local bucket="$1" src="$2"
+  for existing in "$DEST/$bucket"/*; do
+    [[ -f "$existing" ]] || continue
+    cmp -s "$src" "$existing" && return 0
+  done
+  return 1
+}
+
 scan() {
   local dir="$1" origin="$2"
   [[ -d "$dir" ]] || return 0
   while IFS= read -r -d '' f; do
-    local name bucket target
+    local name bucket clean target
     name="$(basename "$f")"
     bucket="$(classify "$name" "$origin")"
-    target="$DEST/$bucket/$name"
-    if [[ -e "$target" ]] && cmp -s "$f" "$target"; then
+
+    # Already ingested under any sequence number? Skip.
+    if already_have "$bucket" "$f"; then
       continue
     fi
+
+    if [[ "$bucket" == "incremental" ]]; then
+      # Strip the recorder's date prefix, then number in arrival order:
+      # "09-10 Meeting_ Finance Policy-transcript.txt" -> "03 - Finance Policy-transcript.txt"
+      clean="$(printf '%s' "$name" | sed -E 's/^[0-9]{2}-[0-9]{2}( Meeting_)? *//; s/^[0-9]{4}-[0-9]{2}-[0-9]{2} [0-9]{2}_[0-9]{2}_[0-9]{2}-/session-/')"
+      target="$DEST/$bucket/$(printf '%02d' "$(next_seq "$bucket")") - $clean"
+    else
+      target="$DEST/$bucket/$name"
+    fi
+
     cp -p "$f" "$target"
-    echo "  $bucket/$name"
+    echo "  $bucket/$(basename "$target")"
     ingested=$((ingested + 1))
   done < <(find "$dir" -maxdepth 1 -type f \
              \( -name '*.txt' -o -name '*.md' -o -name '*.vtt' -o -name '*.srt' \) \
