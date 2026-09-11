@@ -352,7 +352,9 @@ Secretary-Treasurer. The **Secretary** keeps official documents, conducts corres
   The Board cannot amend its own Constitution; amendments are a Session action.
 - On dissolution, assets transfer to Kendall Continuing Presbyterian Church.
 
-**Presented by Alfie for the Governance and Board Development Committee.**
+**Presented by Alfie for the Governance & Board Development Committee.**
+*Document: "Governance Review & Committee Charter Recommendations," prepared by Alfie Hernandez,
+dated 7/20/2026. Full text in `reference/KCS Governance Review.pdf`.*
 
 - The committee's assigned deliverable was a **governance review**: how does the school exist, why
   does it exist, and what governing documents support it.
@@ -374,9 +376,71 @@ Secretary-Treasurer. The **Secretary** keeps official documents, conducts corres
   succession planning, strategic oversight, committee effectiveness, financial alignment,
   advancement capacity, and institutional continuity.
 - **Recommends formalizing charters for three principal board workstreams:**
-  1. **Governance and Board Development**
-  2. **Strategic Planning and Financial Alignment**
-  3. **Advancement and Development**
+  1. **Governance & Board Development**
+  2. **Strategic Planning & Financial Alignment**
+  3. **Advancement & Development**
+
+**The document's five governance findings:**
+1. **Build systems, not dependence on individuals** — governance that provides continuity regardless
+   of changes in Board membership, school administration, or church leadership.
+2. **Strengthen Board development** — orientation, continuing education, succession planning,
+   committee effectiveness, and documented expectations for Board service.
+3. **Align governance with strategy and finances** — realistic timelines, measurable outcomes,
+   multi-year financial planning.
+4. **Preserve mission alignment** — reinforce the school's Christian mission, Reformed foundation,
+   and relationship with Christchurch Miami.
+5. **Develop only the policies that are needed** — avoid an excessive number of stand-alone policies;
+   write one only against a demonstrated governance, operational, legal, financial, accreditation, or
+   risk-management need.
+
+**Constitution and bylaws review, as recorded in the document:**
+- The **Constitution remains functional** and provides sufficient authority and direction. **No
+  substantive constitutional amendments recommended at this time.** Future consideration may be
+  given to modernizing terminology, clarifying officer responsibilities, and aligning supporting
+  governance documents with the Constitution.
+- The **church bylaws adequately support** the school's existence and operation as a ministry of the
+  church. **No substantive revisions recommended at this time.**
+
+**A proposed mission statement is included but explicitly NOT part of this review**, offered only for
+future discussion and refinement.
+
+**Governance Roadmap:**
+- **Phase 1 — Governance Foundation (2026-2027):** Constitution and church bylaws review, committee
+  charter adoption, Board Governance Manual development, board orientation framework, board
+  recruitment and succession planning, annual board calendar.
+- **Phase 2 — Strategic Alignment (2027-2028):** strategic plan review, identification and sequencing
+  of realistic priorities, multi-year financial alignment, KPI dashboard and progress reporting,
+  advancement strategy and Annual Fund framework, capital project readiness and preliminary
+  feasibility work.
+- **Phase 3 — Future Readiness (2028-2030):** formal capital campaign planning if approved, middle
+  school facility expansion planning, leadership continuity, long-term facilities and sustainability
+  planning, campaign implementation and donor stewardship if authorized.
+
+**The document's closing recommendation** is that the Board receive the Governance Review Report,
+approve each of the three committee charters, direct the Governance Committee to continue developing
+the Board Governance Manual, and continue implementing the institutional strengthening framework
+through the established workstreams.
+
+**Charters — common structure.** Each carries Purpose, Responsibilities, Membership, Meetings,
+Authority, Reporting and Accountability, Current Priority Deliverables (2026-2027), and Future
+Matters for Consideration. Permanent provisions stay stable; priority deliverables update as needs
+evolve. Deliverables are tracked as Not Started, In Progress, or Complete.
+- **All three committees are advisory.** None can independently bind the school, the Board, the
+  church, the corporation, or the Session. Recommendations requiring action go to the Board and,
+  where applicable, to the Session.
+- **Governance & Board Development** deliverables include completing the Constitution and bylaws
+  reviews, finalizing charter templates, the Governance Manual, an orientation framework, a
+  recruitment and succession framework, a governance workshop, an annual board calendar, and folding
+  the **already-completed Conflict of Interest policy** into the Manual.
+- **Strategic Planning & Financial Alignment** deliverables include reviewing the strategic plan,
+  identifying near-term initiatives, sequencing priorities, aligning to a multi-year financial plan,
+  and establishing KPIs and a Board-level dashboard.
+- **Advancement & Development** deliverables include an advancement strategy framework, assessment of
+  development infrastructure, an Annual Fund framework, donor engagement and stewardship strategy, a
+  capital project readiness assessment, a preliminary campaign feasibility review, a documented needs
+  assessment for the **proposed middle school expansion and potential two-story facility**, and a
+  preliminary cost range and funding model **currently estimated at approximately $5 million, subject
+  to professional validation**. Jacky Donate may provide operational input and professional guidance.
 
 **New language added after pushback at the summer Zoom meeting — the dissolution asymmetry:**
 - The committee **notes an asymmetry meriting future attention**.
@@ -450,7 +514,7 @@ Secretary-Treasurer. The **Secretary** keeps official documents, conducts corres
 > six, as a draft, with additional edits as discussed by the board this night."
 > Jerry then asked that it identify "the addition of information from the stewardship liaison
 > committee," which Alfie accepted into the motion.
-> *(CONFIRM the document date off the document: transcript says July 20, 2026.)*
+> **Date confirmed off the document: 7/20/2026.** Prepared by Alfie Hernandez.
 
 - Discussion:
 
