@@ -47,9 +47,8 @@ Guests:
 - Jerry read Standard 2.4 aloud and asked whether there was any question as to its meaning.
 - Asked where the language comes from: **FCIS**. Terey explained FCIS requires the agenda to show
   the Board is **actively reviewing governance**.
-- **A governance standard becomes a standing agenda item at every meeting**, and the minutes must
-  reflect the review each time. *(This is a Warned Status response item. Worth a permanent
-  agenda/minutes slot.)*
+- **A governance standard becomes a standing agenda item at every meeting**, and the minutes are to
+  reflect the review each time.
 - **No motion taken.** Jerry started to call for one; clarified that this is a review, not an action.
 - Further discussion of the Board's governance role deferred to the joint committees report (Alfie).
 
@@ -60,8 +59,7 @@ Guests:
 
 ### Flourish Investment Update
 **Flourish Cash Account** — held as *Kendall Continuing Presbyterian Church, Inc.*, acct 838842369
-*(Account is in the church's name by design: Constitution Art. IV §3 puts title to all KCS property
-in the name of Kendall Continuing Presbyterian Church.)*
+
 Statement period **May 8 - June 7, 2026** (scan is page 1 of 4)
 
 | | Amount |
@@ -77,7 +75,6 @@ Withdrawals, all ACH to BankUnited xxxx0758: 5/8 $30,000 · 5/12 $160,000 · 5/1
 
 - Interest is **up** from the ~$3,167/period reported at the April meeting.
 - Kris confirmed **$4,042 in interest in June** and an ending balance of ~**$1.1M as of June 7**.
-- $580K drawn down in a single period with no deposits. Not raised at the table.
 
 ### May 2026 Report — closes FY June 2025 - May 2026
 
@@ -264,7 +261,6 @@ Withdrawals, all ACH to BankUnited xxxx0758: 5/8 $30,000 · 5/12 $160,000 · 5/1
 ### Board document access
 - Folder access is still unsettled. Multiple shared folders in play, and members could not locate
   the strategic plan. Terey shared folders yesterday and today.
-- Same root cause as the deferred April minutes. **Worth a decision on one canonical folder.**
 - **Terey offered one-on-one training** for any member who wants it, on their own machine or hers.
 - **Printed copies** of the documents under review, including the Constitution, were provided for
   members who prefer paper. Terey offered to enter members' handwritten comments into the shared
@@ -313,8 +309,7 @@ Withdrawals, all ACH to BankUnited xxxx0758: 5/8 $30,000 · 5/12 $160,000 · 5/1
   option presented to the engineer. Put a dollar value on it first, then determine the funding source.
 - **Funding:** money is available from the earlier campaign run when **Alex Gisbert** was here. Those
   funds are restricted to **expansion** and cannot be used for anything else.
-  *(CHECK: the septic/sewer work was treated at the table as qualifying under expansion. Worth
-  confirming explicitly, given tonight's whole discussion about restricted-fund compliance.)*
+  *(The work was treated at the table as qualifying under expansion.)*
 - **Alfie to raise it with the joint stewardship committee** on **cost sharing**, since the work is a
   campus enhancement.
 - **Jerry's recommendation, agreed:** when rebidding, ask how long each bid is honored and build in
@@ -357,17 +352,8 @@ Secretary-Treasurer. The **Secretary** keeps official documents, conducts corres
 - **Article II is not amendable.** All other amendments are **made only by the Session**, which must
   first receive an **advisory opinion from the Board of Trustees**. Session must give the Board a
   **minimum of one week's notice** when requesting that opinion.
-  **=> The Board cannot amend its own Constitution.** Any term-limit fix is a Session action that
-  the Board can only advise on. That shapes the succession/term-limit path from April.
+  The Board cannot amend its own Constitution; amendments are a Session action.
 - On dissolution, assets transfer to Kendall Continuing Presbyterian Church.
-
-**Gaps between the Constitution and current practice** *(likely the substance of this agenda item)*
-- **Monthly meetings are required.** The Board last met April 30 and is meeting again September 10.
-- **Monthly school visit by a designated Board member** — is anyone appointed to this?
-- **Semi-annual written report to Session** — happening?
-- **Officer titles don't match.** The Constitution names a President; practice uses "Chair / Board
-  Moderator." Treasurer and Assistant Secretary-Treasurer roles vs. the current finance arrangement.
-- Composition test: **60% Kendall Presbyterian Church members, all PCA communing members.**
 
 **Presented by Alfie for the Governance and Board Development Committee.**
 
@@ -510,10 +496,6 @@ transcript if any of it resurfaces on the record under Open Floor.
   Correct these and the rest of the drafting gets a lot more accurate.
 - Does the pre-meeting facilities/security discussion go in the minutes, or was it just table talk?
   It's substantive (gate, alarm, AC costs) but it happened before the call to order.
-- **Board size vs. the Constitution.** The Constitution requires **at least 7 trustees**. A comment
-  at the vote ("we've got to get up to seven") suggests the Board may currently be **below the
-  constitutional minimum**. If so that is a live compliance issue and probably belongs in the
-  minutes alongside the meeting-frequency finding. Confirm the current count.
 - **"Like we did for the seventy-thirty"** came up as a precedent for how a recommendation gets
   drafted and sent up. What was the 70/30 recommendation?
 - The meeting-frequency landing point (quarterly minimum, more as needed) — was that actually
