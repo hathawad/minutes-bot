@@ -1,0 +1,110 @@
+09-10 Board Meeting: Governance, Finance, and Strategic Planning
+
+Date: September 10, 2026
+Location: [Insert Location]
+Participants: [Speaker 1] [Speaker 2] [Speaker 3] [Speaker 4] [Speaker 5] [Speaker 6] [Speaker 7] [Speaker 8]
+---
+### Meeting Notes
+- Opening Devotional
+  - Psalm 32 was referenced, emphasizing confession, forgiveness, and trust in God’s guidance through highs and lows, including enrollment and financial faithfulness.
+- Personal and Staff Updates
+  - Introduction of Lisa Peretz as new principal.
+  - Lexa (primary principal) is pregnant, due around March 1, planning leave to return by end of May.
+  - Miss Diaz (lower school principal) experienced the passing of her father.
+  - James returned from his trip.
+- Campus Facilities, Energy Use, and Security
+  - Energy reduction discussed: lights left on late; recent observation noted lights off after 11 PM. Suggested higher AC setpoints when rooms are unused; low settings causing condensation were flagged.
+  - Missing fan remotes; location unknown.
+  - Security concerns: main gate often left open at night, risking theft of TVs/computers. Proposed policy: last person out closes gate; consider an alarm system.
+- Technology Access and Document Sharing
+  - Shared folder access issues noted; recommendation to use Google Chrome (Firefox may work). Offer for private training sessions; printed copies available. Speaker 6 can input comments for members preferring paper.
+  - Agreement to collectively review and comment via Google Docs; clarify that shared links are live to avoid duplicates.
+  - Future meetings should have proper digital access set up.
+- Governance Standard Review and Board Governance
+  - FCIS Governance Standard 2.4 reviewed: Board governs/formulates policy; Head of School manages staff, implements policy, oversees operations. A governance standard review will be added to each agenda and documented in minutes.
+  - Adoption of the “Governance Review and Committee Charter Recommendations” (dated July 20, 2026) as a draft “living document,” with a note to include stewardship liaison committee information.
+  - Governance document review areas: Articles Four, Five, Six, Seven; documents affirm biblical foundation, purpose, partnership model, session authority, and Board of Trustees responsibilities.
+  - Board composition constraints discussed: 60% trustees must be Kendall Presbyterian Church members; all trustees must be PCA members. Governance Committee to present options to amend Article 4; advisory opinion process to session required.
+  - Officer roles misalignment: bylaws list President, Vice President, Treasurer; current practice uses Chair and lacks VP/Treasurer. Consider generalizing role language (e.g., “a board member responsible for finances”) or amend bylaws to reflect current structure.
+  - Board meeting frequency: bylaws require monthly meetings; current practice is every six weeks, causing noncompliance. Consensus leaned toward minimum quarterly meetings with flexibility (including online), but no formal change adopted.
+- Church Bylaws and Dissolution Protection
+  - Discrepancy identified: school constitution protects church if school dissolves; church bylaws lack reciprocal protection for school if church dissolves. Proposed amending Article Seven to protect school assets (e.g., first right of refusal) and exploring incorporation under the church’s umbrella; legal/tax implications (e.g., sales tax exemption) require counsel.
+- Special Congregational Meeting for Bylaw Changes
+  - Timing discussed: aim for a special meeting before year-end (not wait until January). Requires petition from 25 members, one-week notice, and at least 25 attendees for a vote. Confidence expressed in passing changes with current board composition.
+- Committee Charters and Governance Roadmap
+  - Working drafts of committee charters presented for committee review and return for board approval. Permanent provisions stable; deliverables can evolve.
+    - Governance & Board Development: strengthens governance, leadership, succession, continuity; membership at least three board members; Head of School as resource; deliverables include constitution/bylaw review, governance manual, annual calendar.
+    - Advancement & Development: strengthens financial sustainability via advancement strategy, donor engagement, infrastructure.
+  - Governance Roadmap:
+    - Phase 1 (2026–2027): Foundation—constitution/bylaw review, charter adoption, governance manual, orientation.
+    - Phase 2 (2027–2028): Strategic alignment—strategic review, financial alignment, KPI dashboard, advancement strategy.
+- Accessing Shared Documents and Browser Compatibility
+  - Confirmed training support, printed copies, and Speaker 6 entering comments for those not using digital tools. Publish guidance on supported browsers/settings.
+- Financial Update and Accounting Practices
+  - May/June financials not final due to learning curve with restricted fund accounting (Unite Fund). Unite Fund overdrawn by $58.88 end of June; correction needed.
+  - FY2026 surplus $152,000 vs budgeted $29,000 due to higher Unite donations; June 2026 net loss $35,000 vs budgeted $92,000 loss; negative net asset expected in June/July due to tuition recognition timing.
+  - Budget distribution adjusted to align with expense timing rather than equal monthly allocation.
+  - Year-over-year comparisons were previously avoided due to accounting method changes (tuition recognition by seats/month; payroll biweekly with accruals). Now consistent; consider reintroducing comparisons, potentially quarterly, with summaries for non-finance members.
+- Unite Fund and Donor-Restricted Funds
+  - Unite Fund total raised $229,000; fully spent. Clarify whether restricted funds can cover fundraising software (Raiser’s Edge); current appeal likely restricts usage to campus improvements/technology (e.g., smartboards), not fundraising costs. Best practice: do not pay fundraising costs from restricted funds unless appeal states it; suggestion to swap: use restricted funds for approved purchases and fund Raiser’s Edge with freed unrestricted dollars. Future appeal wording to be board-reviewed for clarity and compliance.
+  - Designated fund accounting implemented in QuickBooks for Unite; internal expertise sufficient.
+- Fundraising Pledges: Recognition and Spending Policy
+  - GAAP approach: recognize pledge revenue at commitment (similar to receivables); uncollectible pledges written off; legal enforceability noted but action discretionary. Donor communications should clarify binding nature and budgeting reliance.
+  - Current status: $77,000 uncollected pledges; Unite fund overspent by $58.88; $49,973 from Christchurch viewed as reliable. Organization historically has minimal bad debt; some write-offs occur due to donor hardship; no current delinquencies.
+  - Consensus to develop a formal policy: hybrid approach allowing spending up to collected amounts; spending beyond collections requires specific board approval. Consider establishing a bad debt reserve as fundraising grows; request made for cash flow projections, though depth of detail debated.
+- Strategic Plan and 2027–2028 Budget Alignment
+  - Initial review of 2023–2028 strategic plan to align goals with financial planning (addressing accreditation critique). Spreadsheet created listing goals, timelines, funding sources (budget, fundraising, capital campaign). Many goals complete; larger items (e.g., $5M middle school building) being reevaluated; prioritization discussion favored gymnasium or pole barn structure. Plan remains a living document; initiatives for 2027–2028 budget to be further discussed and prioritized.
+- Admissions Update – SpaceX Family Case
+  - Applied family attended briefly then withdrew due to concerns about pushback; policy reaffirmed: do not penalize children for parents’ beliefs. Joint church/school statement clarified beliefs; overall positive reception with a loud minority negative response.
+  - Admissions updates: Statement of Faith added to application (previously only in enrollment); clarify school is not a Covenant School (Christian declaration not required for attendance). Handbook updates (gender and related topics) under consideration; parents in non-affirming situations cannot hold leadership roles (e.g., PTA), consistent with church membership policies.
+- Septic/Sewer Project
+  - Permits approved after lengthy process; return to three existing bids for updates aligned to current scope/options. Expansion funds from prior era cannot be used; project categorized as campus enhancement; funding approach to be discussed with joint stewardship committee. Aim to include a bid-hold clause (up to one year) to allow time for financial decisions.
+- Tuition Decisions
+  - Open enrollment begins October 1, 2026; board approved a 5% tuition increase across preschool, elementary, middle school, consistent with prior communication (cap of 4–5% per year for two years). ~85–86% of students on Step Up scholarships; tuition remains among lowest locally. Discussion noted estimated ~$1,500/year impact for full-pay families.
+  - A separate tuition-related motion approving a $750 annual figure (equivalent to $75/month over ten months) passed unanimously and was deemed reasonable relative to peers.
+- Joint Committee: Cost Sharing and Campus Space Planning
+  - Approved a 70/30 one-year cost-sharing arrangement; recommendation submitted and approved by session. Focus shifted to space usage and campus reconfiguration options.
+  - Proposed domino plan: relocate church staff from school admin building to sanctuary wings (convert wings to offices), freeing school admin building space; move middle school admin staff into freed space to open classrooms; potentially reduces need for $5M construction.
+  - Post-septic project, consider developing area behind entrance for a smaller expandable building (grades 26–28) and a large multi-functional covered structure with fans/lights/courts (pickleball, volleyball, basketball). Portables remain an option; permitting under review.
+  - Construction/utility considerations: any church construction (e.g., bathrooms) implicates sewer/septic issues; utility costs to be shared; preference for smaller phased construction to avoid upfront $5M spend.
+  - Confidentiality agreements reaffirmed; discussions on property reconfiguration strictly confidential.
+- Scheduling and Housekeeping
+  - Next joint committee/board meeting tentatively October 15, 2026; finance sub-meeting proposed October 6, 2026. Speaker 2 traveling October 16–end of October; financial reports to be submitted ahead of the board meeting.
+  - Motion to adjourn passed; meeting adjourned at 9:00. Minutes to be finalized; confidentiality agreements circulated and added to shared folder.
+---
+### Next Arrangements
+- [ ] Email April 2026 minutes to participants for review; postpone approval until next meeting.
+- [ ] Maintenance/security teams to address open main gate and energy consumption; establish “last out closes gate” procedure; evaluate alarm system.
+- [ ] Locate missing fan remotes.
+- [ ] Add governance standard review to every meeting agenda and document in minutes.
+- [ ] Correct Unite Fund overdraft of $58.88; finalize May/June 2026 financials.
+- [ ] Research taxable handling of bar sales.
+- [ ] Review and approve wording of future fundraising appeals for donor-restricted fund compliance; consider fund-swapping approach for Raiser’s Edge.
+- [ ] Finance team to evaluate reintroducing year-over-year comparisons (proposed quarterly) and define cadence/format for non-finance members.
+- [ ] Draft and legally review standardized donor pledge language clarifying binding commitment and budgeting reliance; establish policy for uncollectible pledges (write-off criteria, legal action).
+- [ ] Finance Committee to draft formal policy on spending uncollected funds: allow spending up to collected amounts; board approval required beyond that; consider bad debt reserve; assess cash flow projection needs.
+- [ ] Strategic plan committee to use and share the goals/timeline/funding spreadsheet; drop into shared folder; align 2027–2028 budget with prioritized initiatives (e.g., gym/pole barn vs middle school building).
+- [ ] Set up digital access (logins/permissions) for in-meeting shared documents; publish supported browser guidance; schedule optional training; provide printed copies; Speaker 6 to collect/input comments for non-digital users.
+- [ ] Update admissions application with Statement of Faith; complete handbook revisions (gender policy, etc.); clarify leadership role policies; communicate tuition increase ahead of October 1 open enrollment.
+- [ ] Obtain updated septic/sewer bids; negotiate bid-hold validity (target up to one year); schedule joint stewardship committee discussion on funding; resolve sewer/septic blockers and permitting for portables/other options.
+- [ ] Governance and Board Development Committee to draft recommendations to amend Article Seven (church bylaws) for dissolution protection and Article Four (board composition); investigate legal/tax implications of incorporating the school under church structure; prepare formal recommendation for corporate board and congregation vote; consider bylaw updates on officer roles and meeting frequency.
+- [ ] Consider calling a special congregational meeting before year-end for bylaw changes (petition, notice, quorum requirements).
+- [ ] Joint committee sub-panels (Alice, Bill, Terry, others) to prepare 2–3 campus reconfiguration options; finance sub-group to develop shared-cost methodology; Speaker 2 to upload campus reconfiguration PowerPoint; confirm October 6 finance sub-meeting and October 15 full meeting dates.
+- [ ] Ensure timely financial report distribution; Speaker 3 to finalize and distribute minutes; all board members to sign confidentiality agreements.
+---
+### AI Suggestions
+- Campus security and energy use lack owners/timelines; define responsibility and deadlines; evaluate alarm system feasibility and costs.
+- Formalize AC/lighting energy reduction plan with monitoring and setpoint standards.
+- Confirm supported browsers/settings for shared folders; publish guidance; assign owner to enable in-meeting digital access.
+- Decide cadence/format and owner for year-over-year budget comparisons; include narrative variance explanations for non-finance members.
+- Unite Fund: finalize approach to funding Raiser’s Edge (unrestricted vs fund-swapping), assign owner, and deadline.
+- Spending uncollected pledges: determine whether to establish a bad debt reserve; define reporting of cash flow projections in regular financial packets.
+- Assign owner and timeline to invoice/collect the Christchurch pledge (~$49,973) and other outstanding pledges.
+- Septic/sewer funding source unresolved; schedule joint stewardship discussion; assign owner and deadline to update bids; define bid refresh timeline and responsible party.
+- Admissions handbook revisions (gender policy, related items) need owners and completion dates before next enrollment cycle; quantify and communicate dollar impact by family tier for tuition increase.
+- Board meeting frequency noncompliant with bylaws; propose amendment or schedule changes; clarify officer role changes or fill positions.
+- Mailing list/document sharing issues reported (email from Sept 9 not received); verify distribution lists and access permissions.
+- Article Four Section 2 (three-year board terms) flagged for reevaluation; assign review and recommendation.
+- Clarify working group membership for campus space assessment to ensure accountability and deliverables before October deadlines.
+- $5M construction project: define criteria for defer/minimize/greenlight; establish decision thresholds and review timeline.
+- Ensure finance reports are delivered timely; assign corrective action and responsible party.

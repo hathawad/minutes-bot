@@ -577,6 +577,45 @@ evolve. Deliverables are tracked as Not Started, In Progress, or Complete.
 
 ---
 
+## From the Plaud summary only — NOT in any incremental chunk
+*These fall in the gaps between Doug's cuts, so I have no verbatim transcript for them. The Plaud
+summary is AI-generated and demonstrably unreliable (see the fabricated motion note below).
+**Confirm each before it goes in the minutes.***
+
+- **Lisa Peretz introduced as new principal.** *(Which campus/level? Chunk 1 has a garbled mention
+  of "Lisa" during dinner.)*
+- **Special congregational meeting for bylaw changes** — discussed targeting a meeting **before
+  year-end** rather than waiting until January. Mechanics cited: **petition from 25 members,
+  one week's notice, and at least 25 in attendance** to vote. Confidence expressed that changes
+  would pass.
+- **Dissolution protection, further detail:** amending the church bylaws' Article Seven to protect
+  school assets, with a **first right of refusal** mentioned. Also raised: exploring **incorporating
+  the school under the church's umbrella**, with **legal and tax implications (sales tax exemption)**
+  needing counsel.
+- **Officer roles:** option floated to **generalize the role language** in the governing documents
+  (for example "a board member responsible for finances") rather than amend to match current
+  practice.
+- **Jessica Diaz's father passed away.** *(Pastoral. Your call whether it belongs in the minutes;
+  by the no-personnel rule it would stay out, but a death is often noted.)*
+
+**Corroborated by the chunks, filling in things that were cut off or garbled:**
+- **Open enrollment begins October 1, 2026.** (Chunk 3 cut off mid-sentence on this.)
+- **Finance sub-meeting proposed for October 6, 2026** — the Tuesday before the board meeting.
+- **Meeting frequency: consensus leaned to a quarterly minimum with flexibility, including online,
+  but NO formal change was adopted.** Settles the open question from chunk 4.
+- The structure discussed for athletics is a **pole barn**, not "pool barn."
+- Expansion is for **grades 6-8**.
+- Designated fund accounting for UKnight was implemented in **QuickBooks**.
+- Financial reports to be distributed ahead of the board meeting.
+
+> **DO NOT USE — the Plaud summary invents a second tuition motion.** It reports "a separate
+> tuition-related motion approving a $750 annual figure... passed unanimously." That did not happen.
+> The verbatim transcript shows **one** motion (5% across the board). The $1,500 and $750 figures
+> were members working out the dollar impact aloud during discussion. The summary also renders the
+> admissions item as a "SpaceX Family Case," which is nonsense.
+
+---
+
 ## Not for minutes
 Pre-meeting table talk (gate left open at night, AC setpoints, missing fan remotes, worship night,
 birthday cake, personnel news). Held out per Doug: official meeting business only. Still in the
