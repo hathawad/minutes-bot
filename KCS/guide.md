@@ -104,6 +104,19 @@ Institutions and terms:
 - **"Razor's Edge" vs "Raiser's Edge."** Every KCS transcript renders it "Razor's Edge," and that spelling carried into the 04/30 minutes. Blackbaud's product is actually *Raiser's Edge*. Almost certainly a transcription error that got ratified. Confirm before correcting prior minutes.
 - **"Ana" vs "Anna" Prinz.** The agendas say "Ana"; the 04/30 minutes body says "Anna" eleven times. Pick one and make it consistent.
 
+## Record, Don't Audit
+
+Minutes report what the Board said and did. They are not a compliance review.
+
+- Write down findings, positions, and decisions **as the Board stated them**. If someone says the
+  Board is out of compliance with the Constitution, that goes in, attributed to the discussion.
+- **Don't add your own analysis.** No gap-hunting between the governing documents and current
+  practice, no flagging of risks nobody raised, no "this belongs in the minutes alongside X."
+- **Don't chase implications.** An offhand remark is not a finding. If it matters, someone at the
+  table will say so on the record.
+- Open questions are fine in `notes.md` when they affect the accuracy of the draft (a garbled
+  number, an unclear motion outcome). They are not fine as governance recommendations.
+
 ## Confidentiality and Content to Omit
 
 - **Official meeting business only.** The Board eats dinner together and the recording runs through
