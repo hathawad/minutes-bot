@@ -369,6 +369,92 @@ Secretary-Treasurer. The **Secretary** keeps official documents, conducts corres
   Moderator." Treasurer and Assistant Secretary-Treasurer roles vs. the current finance arrangement.
 - Composition test: **60% Kendall Presbyterian Church members, all PCA communing members.**
 
+**Presented by Alfie for the Governance and Board Development Committee.**
+
+- The committee's assigned deliverable was a **governance review**: how does the school exist, why
+  does it exist, and what governing documents support it.
+- **There are only two governing documents.** The corporate document (bylaws) of **Kendall
+  Continuing Presbyterian Church, Inc.**, and the **KCS Constitution**. That is the whole set.
+- The committee reviewed both, drafted a report of findings, and circulated it for comment. The
+  report is to be **adopted and added to the manual**, becoming effectively **the first page of the
+  Board handbook**, with more built onto it over time.
+- It also carries **committee chair charter recommendations**: for each committee, its marching
+  orders, authority, deliverables, and timelines. Explicitly a **living document**.
+
+**Executive summary, as read:**
+- The current governance framework **remains fundamentally sound**.
+- The committee **does not recommend significant revisions** to either the school Constitution or the
+  church bylaws **at this time**. ("At this time," not ever.)
+- The governing documents continue to provide an adequate foundation for the school's mission,
+  authority, oversight, and relationship to the church.
+- **The greater opportunity is in strengthening governance systems**: leadership development,
+  succession planning, strategic oversight, committee effectiveness, financial alignment,
+  advancement capacity, and institutional continuity.
+- **Recommends formalizing charters for three principal board workstreams:**
+  1. **Governance and Board Development**
+  2. **Strategic Planning and Financial Alignment**
+  3. **Advancement and Development**
+
+**New language added after pushback at the summer Zoom meeting — the dissolution asymmetry:**
+- The committee **notes an asymmetry meriting future attention**.
+- The **KCS Constitution's disbandment provision protects the church**: if the school dissolves,
+  remaining accounts and goodwill go to Kendall Continuing Presbyterian Church.
+- The **church bylaws' dissolution article contains no corresponding provision protecting the
+  school.** Remaining assets are dispersed generally *"for religious or church purposes"* **without
+  reference to the school specifically**. So if the corporation dissolves, nothing directs anything
+  back to KCS.
+- The committee **anticipates a future recommendation** to the Board of Trustees of the corporation,
+  for referral to the corporation membership under **bylaws Article V**, to consider amending the
+  **dissolution article to address institutional continuity for the school**.
+- Framing: this is twenty-year thinking.
+- Alfie noted the pushback that produced this change was welcome and improved the document.
+
+**Board composition — recommendation to go to Session:**
+- The committee will bring the **Session** recommendations on **Board composition under Constitution
+  Article IV**.
+- The finding: requiring **at least 60% of trustees to be communing members of Kendall Presbyterian
+  Church, and all trustees to be communing members of a PCA church**, **may present a growing
+  constraint on the pool of qualified candidates**.
+- The committee will present the **Session with options**, not a single prescribed change.
+- Process: Board gives an **advisory opinion**, then amendment proceeds under **Article VI**.
+  **Article II is the only article that cannot be amended.** This goes to the **Session**, not to the
+  corporation membership.
+- **Terey raised this directly:** the Board needs to grow and would benefit from members with other
+  kinds of experience and expertise. The PCA membership requirement has always been the limiting
+  factor. She asked to reopen the question of allowing **Bible-believing, actively churched members**
+  to serve, and asked that it stop being a recurring conversation and become an actual recommendation.
+- **Alfie: prioritize this as a deliverable for next month** — governance committee to bring the
+  recommendation ready to go.
+
+**Article IV walkthrough — specific items raised:**
+- **§1 Composition / qualifications** — the central item, above.
+- **§2 Terms** — needs to be rethought. Currently three-year terms, maximum three consecutive, i.e.
+  **nine years total**. Not in the committee's draft yet; being added.
+- **§3(d)** — **typo in the Constitution itself**: "determine how these *filnds* shall be expended"
+  should read **funds**.
+- **§3(i) Meeting frequency — the Board is out of compliance.**
+  - The Constitution requires meeting **at least once each month**. The Board actually meets about
+    **every six weeks**.
+  - **FCIS does not require a specific number**, only **consistency**. But the school **was written
+    up** on this, because the Constitution sets an absolute requirement the Board does not meet.
+  - Options discussed: keep monthly, formalize six weeks, or "as needed."
+  - **Direction of travel: a minimum of once per quarter, with additional meetings as needed**,
+    to give flexibility while staying compliant. *(Confirm this is the agreed recommendation.)*
+- **Article V officer titles don't match practice.** The Constitution names a **President and Vice
+  President**; the Board has a **Chair** and no vice chair. As written it reads as mandatory. Noted
+  that there should always be a deputy once there are enough people to fill it.
+
+**How the document is being adopted:**
+- Proposed: **adopt the governance review as a draft, incorporating the changes discussed** — a
+  living document, "a draft with proposed changes," so it can keep evolving. It is an internal
+  document and does not bind anything yet.
+- **Working method going forward:** work the wording collectively in the shared Google Doc,
+  circulate to the group, resolve comments asynchronously, so that by the time the Board meets the
+  item is ready for a motion instead of being hashed out live. Approved recommendations then go onto
+  the next **Session** meeting agenda.
+- Terey suggested listing every topic the governance committee should take up, with **opening board
+  membership** at the top so the Board can actually grow.
+
 - Discussion:
 
 ## 6. Joint Committees — Alfie Hernandez
@@ -376,6 +462,8 @@ Secretary-Treasurer. The **Secretary** keeps official documents, conducts corres
 
 ## 7. Key Dates
 - Proposed future meeting date: **October 15, 2026** — confirmed?
+- Governance committee to bring the **board composition recommendation** next month.
+- Finance to bring the **spending-against-uncollected-funds policy** next month.
 -
 
 ## 8. Open Floor
@@ -422,4 +510,13 @@ transcript if any of it resurfaces on the record under Open Floor.
   Correct these and the rest of the drafting gets a lot more accurate.
 - Does the pre-meeting facilities/security discussion go in the minutes, or was it just table talk?
   It's substantive (gate, alarm, AC costs) but it happened before the call to order.
-- Alexa's pregnancy: in or out?
+- **Board size vs. the Constitution.** The Constitution requires **at least 7 trustees**. A comment
+  at the vote ("we've got to get up to seven") suggests the Board may currently be **below the
+  constitutional minimum**. If so that is a live compliance issue and probably belongs in the
+  minutes alongside the meeting-frequency finding. Confirm the current count.
+- **"Like we did for the seventy-thirty"** came up as a precedent for how a recommendation gets
+  drafted and sent up. What was the 70/30 recommendation?
+- The meeting-frequency landing point (quarterly minimum, more as needed) — was that actually
+  agreed, or just where the discussion drifted?
+- Speaker numbers reset in every transcript file, so Speaker 4 in chunk 3 is not Speaker 4 in
+  chunk 4. Attributions below are only where the transcript names someone or the role is obvious.
