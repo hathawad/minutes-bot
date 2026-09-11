@@ -2,21 +2,18 @@
 **Thursday, September 10, 2026, 6:00 PM — Media Center**
 
 ## Attendance
-*(check off / correct as people arrive)*
 
-- [ ] Gerald "Jerry" Zeidler — Chair / Board Moderator
-- [ ] Terey Torralbas — Head of School
-- [ ] Kris Roth — Board Member
-- [ ] Alfie Hernandez — Board Member
-- [ ] Jim Sue — Board Member
-- [ ] Diane Lee — Board Member
-- [ ] Doug Hathaway — Board Secretary
-- [ ] Alexa DeAguero — Primary School Principal
-- [ ] Jessica Diaz — Lower School Principal
-- [ ] Ana Prinz — Finance Office *(agenda has Kris reporting on her behalf)*
+**Attending:**
+- Gerald Zeidler, Chair and Board Moderator
+- Terey Torralbas, Head of School
+- Kris Roth, Board Member
+- Alfie Hernandez, Board Member
+- Jim Sue, Board Member
+- Diane Lee, Board Member
+- Doug Hathaway, Board Secretary
 
-Guests:
--
+**Also present:**
+- Tom Gonzales *(not yet a Board member)*
 
 ---
 

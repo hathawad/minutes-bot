@@ -81,7 +81,8 @@ Transcripts mangle these consistently. Fix on the way in. Variants marked **(see
 | **Georgina** | Georgena | Business office (builds the monthly budget distribution) |
 | **Jacky Donate** | Jackie **(seen, 10x)**, Donatti | Director of Development |
 | **Mrs. Balcarce** | Balcarcel, Balkarse | Longtime preschool teacher |
-| **Pastor James Drake** | - | Deployed overseas as military chaplain |
+| **Tom Gonzales** | Tom Gonzalez, Ben | CPA. Present at meetings, not yet a Board member |
+| **Pastor James Drake** | - | Military chaplain |
 
 Institutions and terms:
 
