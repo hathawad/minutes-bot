@@ -591,11 +591,8 @@ transcript if any of it resurfaces on the record under Open Floor.
   reconfiguration discussion, and noted the Session holds itself to the same standard.
 - Jerry noted a goal of getting meetings down to an hour and a half.
 
+- **Motion to adjourn: Doug moved; Diane seconded. M/S/P.** Adjourned at approximately **9:00pm**.
 - **Closing prayer led by Doug Hathaway.**
-
-> **GAP:** no **motion to adjourn** and no vote on one was captured. The chair was invited to either
-> adjourn or take a motion, and the conversation moved to the confidentiality forms. Check the full
-> Plaud transcript.
 
 ---
 
