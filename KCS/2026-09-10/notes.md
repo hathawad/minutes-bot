@@ -591,11 +591,11 @@ transcript if any of it resurfaces on the record under Open Floor.
   reconfiguration discussion, and noted the Session holds itself to the same standard.
 - Jerry noted a goal of getting meetings down to an hour and a half.
 
-> **GAPS — not captured in the incremental chunks:**
-> - No **motion to adjourn** and no vote on one. The chair was invited to either adjourn or take a
->   motion, and the conversation moved to the confidentiality forms.
-> - **No closing prayer** is on the recording, though it is on the agenda.
-> Check the full Plaud transcript for both.
+- **Closing prayer led by Doug Hathaway.**
+
+> **GAP:** no **motion to adjourn** and no vote on one was captured. The chair was invited to either
+> adjourn or take a motion, and the conversation moved to the confidentiality forms. Check the full
+> Plaud transcript.
 
 ---
 
