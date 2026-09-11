@@ -506,23 +506,68 @@ evolve. Deliverables are tracked as Not Started, In Progress, or Complete.
 > Committee Charter Recommendations*, dated July 20, 2026, as a draft living document,
 > incorporating the edits discussed by the Board this evening, including the addition of the
 > stewardship liaison committee.**
-> **Moved: Alfie. Seconded: Diane.**
-> *(Vote result pending — chunk 5 ends before the vote is called.)*
+> **Moved: Alfie. Seconded: Diane. No discussion. All in favor. M/S/P.**
 >
 > As spoken: "To adopt the Kendall Christian School Board Governance and Board Development
 > Committee governance review and committee charter recommendations, dated July twentieth, twenty
 > six, as a draft, with additional edits as discussed by the board this night."
 > Jerry then asked that it identify "the addition of information from the stewardship liaison
-> committee," which Alfie accepted into the motion.
-> **Date confirmed off the document: 7/20/2026.** Prepared by Alfie Hernandez.
+> committee," which Alfie accepted into the motion. Alfie asked that "as a living document, so that
+> we can always go back to it" be part of it.
+> **Date: the document itself reads 7/20/2026** (prepared by Alfie Hernandez). At the table it was
+> read aloud as "7/26," which appears to be shorthand for July 2026. *(Use 7/20/2026 in the minutes
+> unless you want the spoken version.)*
 
 - Discussion:
 
 ## 6. Joint Committees — Alfie Hernandez
--
+
+### Cost sharing — 70/30 approved
+- The **70/30 cost-sharing split was approved**, as a **one-time arrangement for one year**,
+  requested by the school so it could build its budget. The committee drafted the recommendation, it
+  went up to the **Session**, and the Session approved it.
+
+### Use of space — campus reconfiguration study
+- With that settled, the joint committee has moved to **use of space**. The school is growing and
+  needs more office space.
+- **The concept: a domino effect that could shrink or defer the $5 million two-story build.**
+  - Move the church staff currently housed in the **school administrative building** over to the
+    **sanctuary**. Both wings of the sanctuary, where the picnic tables were, become administrative
+    offices. That becomes the **church administrative building**.
+  - That frees space in the school administrative building to absorb the administrative staff
+    currently sitting in the **middle school area**.
+  - That in turn **opens up classrooms**, reducing the need for new construction.
+- **Terey's detail:** it would mean moving everyone currently inside the church, including the nurse
+  and the offices along the long corridor, plus two additional offices. Renovation would be required
+  around Pastor Keller's office and the office Pastor Drake uses. Closing that off yields the school
+  administrative office and frees classroom space.
+- **The septic project unlocks land.** The area behind the building, near one of the septic tank
+  lids, cannot be used today. **Once the septic work is complete that area opens up** and could
+  support a larger classroom building.
+- **All options are on the table, including portables.** Alfie to check what is allowable under
+  permitting.
+- **Aim:** something at a much smaller scale that still lets the school expand through grades 6, 7,
+  and 8, which is the ultimate goal, without the $5 million building. The larger project could still
+  happen later.
+- **Athletics:** Terey noted she needs the courts, since sports is a significant draw. Concept
+  discussed is a **large multifunctional covered surface** with a wide overhang, fans, and lights,
+  usable for pickleball, volleyball, and basketball, and for ceremonies and events. Alfie cited the
+  fire department's version as the model. Materially cheaper than a building.
+- **Working group directed to study it:** Alice, Bill, Terey, and others. Their charge is to look at
+  the space **factually** and return **two or three options** showing how relocations could meet the
+  need while minimizing construction cost.
+- **Church-side construction** (bathrooms were mentioned) carries **sewer implications**, and there is
+  an existing sewer issue there. That would become a **cost-shared expense**.
+- **This is explicitly a fact-gathering stage, not a recommendation.** Gather the facts on space,
+  finances, and who uses what; then integrate; then make recommendations; then to the Session.
+- **Stated goal: establish a real methodology for calculating what shared cost looks like.**
+- Alfie presented a **PowerPoint** to the joint group on Tuesday and will put it in the shared folder.
+- **Wayside** was raised as a possible location for expansion. Alfie confirmed it came up in the
+  committee meeting and that every possibility is being considered. Some reservations were voiced.
 
 ## 7. Key Dates
-- Proposed future meeting date: **October 15, 2026** — confirmed?
+- **Next Board meeting: Thursday, October 15, 2026 — confirmed.** Alfie is out of the country from
+  October 16 for the remainder of the month.
 - Governance committee to bring the **board composition recommendation** next month.
 - Finance to bring the **spending-against-uncollected-funds policy** next month.
 -
@@ -540,8 +585,17 @@ transcript if any of it resurfaces on the record under Open Floor.
 ---
 
 ## 9. Closing Prayer & Adjournment
-- Motion to adjourn: / Seconded: / Result:
-- Closing prayer:
+- **Meeting ended at approximately 9:00pm.**
+- **Housekeeping: annual confidentiality agreements were signed** by those present. Jerry reminded
+  the Board that nothing discussed leaves the room, with particular emphasis on the campus
+  reconfiguration discussion, and noted the Session holds itself to the same standard.
+- Jerry noted a goal of getting meetings down to an hour and a half.
+
+> **GAPS — not captured in the incremental chunks:**
+> - No **motion to adjourn** and no vote on one. The chair was invited to either adjourn or take a
+>   motion, and the conversation moved to the confidentiality forms.
+> - **No closing prayer** is on the recording, though it is on the agenda.
+> Check the full Plaud transcript for both.
 
 ---
 
@@ -571,8 +625,10 @@ transcript if any of it resurfaces on the record under Open Floor.
   Correct these and the rest of the drafting gets a lot more accurate.
 - Does the pre-meeting facilities/security discussion go in the minutes, or was it just table talk?
   It's substantive (gate, alarm, AC costs) but it happened before the call to order.
-- **"Like we did for the seventy-thirty"** came up as a precedent for how a recommendation gets
-  drafted and sent up. What was the 70/30 recommendation?
+- A committee or finance meeting on **October 6** was mentioned ("the Tuesday before"). Garbled —
+  confirm the date and which body.
+- ~~**"Like we did for the seventy-thirty"** — **answered:** the 70/30 one-year cost-sharing
+  split, drafted by the joint committee and approved by the Session.~~
 - The meeting-frequency landing point (quarterly minimum, more as needed) — was that actually
   agreed, or just where the discussion drifted?
 - Speaker numbers reset in every transcript file, so Speaker 4 in chunk 3 is not Speaker 4 in
