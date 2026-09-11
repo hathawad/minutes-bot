@@ -438,6 +438,20 @@ Secretary-Treasurer. The **Secretary** keeps official documents, conducts corres
 - Terey suggested listing every topic the governance committee should take up, with **opening board
   membership** at the top so the Board can actually grow.
 
+> **MOTION: To adopt the Governance and Board Development Committee's *Governance Review and
+> Committee Charter Recommendations*, dated July 20, 2026, as a draft living document,
+> incorporating the edits discussed by the Board this evening, including the addition of the
+> stewardship liaison committee.**
+> **Moved: Alfie. Seconded: Diane.**
+> *(Vote result pending — chunk 5 ends before the vote is called.)*
+>
+> As spoken: "To adopt the Kendall Christian School Board Governance and Board Development
+> Committee governance review and committee charter recommendations, dated July twentieth, twenty
+> six, as a draft, with additional edits as discussed by the board this night."
+> Jerry then asked that it identify "the addition of information from the stewardship liaison
+> committee," which Alfie accepted into the motion.
+> *(CONFIRM the document date off the document: transcript says July 20, 2026.)*
+
 - Discussion:
 
 ## 6. Joint Committees — Alfie Hernandez
