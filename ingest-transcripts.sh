@@ -108,7 +108,24 @@ scan() {
              -newer "$NEWER" -print0 2>/dev/null)
 }
 
+# Files dropped straight into incremental/ by hand arrive unnumbered. Number
+# them in place before ingesting anything new, so the sequence stays correct.
+normalize() {
+  local clean
+  for f in "$DEST/incremental"/*; do
+    [[ -f "$f" ]] || continue
+    local name; name="$(basename "$f")"
+    [[ "$name" == .* || "$name" == README.md ]] && continue
+    [[ "$name" =~ ^[0-9]{2}\ -\  ]] && continue
+    clean="$(printf '%s' "$name" | sed -E 's/^[0-9]{2}-[0-9]{2}( Meeting_)? *//')"
+    mv "$f" "$DEST/incremental/$(printf '%02d' "$(next_seq incremental)") - $clean"
+    echo "  renumbered: $clean"
+    ingested=$((ingested + 1))
+  done
+}
+
 echo "ingesting into $MEETING/transcripts/"
+normalize
 scan "$BASE/data/transcripts" recorder
 scan "$HOME/Downloads" downloads
 
