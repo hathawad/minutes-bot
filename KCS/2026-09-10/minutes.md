@@ -102,7 +102,7 @@ Jerry read the standard:
 | **Total raised to date** | **$229,000** |
 
 * The full **$229,000 has been spent**.
-* A correction is pending. The balance presented on the summaries did not include **$1,110**, which leaves the UKnight Fund **overdrawn by $58.88** as of the end of June. That amount will be backed out and covered from **unrestricted funds**.
+* A correction is pending. An amount was omitted from the balance presented on the summaries, which leaves the UKnight Fund **overdrawn by $58.88** as of the end of June. That amount will be backed out and covered from **unrestricted funds**.
 
 **Restricted Fund Accounting**
 
@@ -215,6 +215,8 @@ Alfie presented the **Governance Review and Committee Charter Recommendations**,
 * The **KCS Constitution's disbandment provision protects the church.** If the school dissolves, the remaining accounts and goodwill transfer to Kendall Continuing Presbyterian Church.
 * The **church bylaws contain no corresponding provision protecting the school.** On dissolution of the corporation, remaining assets are dispersed generally *"for religious or church purposes"* without reference to the school specifically.
 * The committee anticipates bringing a future recommendation to the Board of Trustees of the corporation, for referral to the corporation membership, to consider whether the dissolution article should be amended to address **institutional continuity for the school**. Alfie framed this as twenty-year thinking.
+* Alfie noted that he and Jerry, as directors of the corporation, had previously come close to adding a **first right of refusal** for the school. Two mechanisms were discussed: incorporating the school under the corporation's umbrella, or describing the beneficiary as the existing educational school occupying the property without naming it. Alfie recommended obtaining **legal counsel** on the best approach.
+* Alfie recommended pursuing the bylaw change through a **special congregational meeting before year-end**, and the committee will bring a recommendation to the Board.
 
 **Board composition.** The committee anticipates bringing recommendations to the **Session** regarding Board composition under Constitution Article IV.
 
@@ -230,7 +232,7 @@ Alfie presented the **Governance Review and Committee Charter Recommendations**,
 * **Article IV, Section 3(i), meeting frequency.** The Constitution requires the Board to meet at least once each month. The Board currently meets approximately every six weeks and is therefore not in compliance with its own Constitution. Terey noted that FCIS does not require a specific number of meetings, only consistency, and that the school was written up because the Constitution sets a requirement the Board does not meet. The discussion favored a **minimum of once per quarter with additional meetings as needed**, including online, to provide flexibility. **No formal change was adopted.**
 * **Article V, officer roles.** The Constitution provides for a President, Vice President, Secretary, Treasurer, and Assistant Secretary-Treasurer. Current practice uses a Chair, with no Vice President or Treasurer in place. Options discussed were to generalize the role language or to amend the documents to reflect the current structure.
 
-**Approach to adoption.** Alfie proposed adopting the report as a **draft with the changes discussed**, so that it remains a living document capable of continued development. He described the working method going forward: work the wording collectively in the shared document, circulate it to the Board, and resolve comments in advance, so that by the time the Board convenes an item is ready for a motion rather than being worked out at the table. Approved recommendations then go onto the agenda of the next Session meeting.
+**Approach to adoption.** Alfie proposed adopting the report as a **draft with the changes discussed**, so that it remains a living document capable of continued development. He described the working method going forward: work the wording collectively in the shared document, circulate it to the Board, and resolve comments in advance, so that by the time the Board convenes an item is ready for a motion rather than being worked out at the table. Approved recommendations then go onto the agenda of the next Session meeting. Jerry asked that each committee give a **brief two-minute status update at every Board meeting**, covering what has been accomplished, what is in progress, and what has not started.
 
 Jerry asked that the motion also identify the addition of information from the **stewardship liaison committee**, and Alfie accepted this into the motion.
 
@@ -256,7 +258,7 @@ Jerry asked that the motion also identify the addition of information from the *
 * **All options are on the table, including portables.** Alfie will review what is allowable under permitting.
 * The aim is a solution at a **much smaller scale** that still allows the school to expand through **grades six, seven, and eight**, which remains the ultimate goal, without incurring the $5 million building. The larger project could still be undertaken later.
 * **Athletics.** Terey noted the need for courts, as sports is a significant draw. The concept discussed is a **large multifunctional covered structure** with a wide overhang, fans, and lighting, suitable for pickleball, volleyball, and basketball, and usable for ceremonies and events. Alfie cited the fire department's version as a working model, and noted it is materially less expensive than a building.
-* **A working group has been directed to study the space**, including Alice, Bill, and Terey. Their charge is to examine the campus factually and return **two or three options** showing how relocations could meet the need while minimizing construction cost.
+* **A working group has been directed to study the space**, including Alice, Bill, and Terey, among others. Their charge is to examine the campus factually and return **two or three options** showing how relocations could meet the need while minimizing construction cost.
 * Any **construction on the church side**, such as additional bathrooms, carries **sewer implications**, and there is an existing sewer issue in that area. Such work would become a **cost-shared expense**.
 * Alfie emphasized that this is a **fact-gathering stage and not a recommendation**. The committee is gathering facts on space, finances, and who uses what. Those facts will then be integrated, recommendations developed, and the result taken to the Session.
 * **A stated goal of the work is to establish a real methodology for calculating what shared cost looks like.**
@@ -273,7 +275,7 @@ Jerry asked that the motion also identify the addition of information from the *
 **Key Dates**
 
 * **Next Board meeting: Thursday, October 15, 2026.** Confirmed. Alfie will be out of the country from October 16 for the remainder of the month.
-* **Finance sub-meeting proposed for Tuesday, October 6, 2026.**
+* **Finance committee meeting: Tuesday, October 6, 2026.**
 
 **Open Floor**
 
@@ -290,7 +292,7 @@ Jerry asked that the motion also identify the addition of information from the *
 
 **Next scheduled meetings:**
 
-* **Finance sub-meeting:** Tuesday, October 6, 2026
+* **Finance Committee:** Tuesday, October 6, 2026
 * **Board Meeting:** Thursday, October 15, 2026 - 6:00pm
 
 ---
