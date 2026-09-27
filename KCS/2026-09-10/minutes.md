@@ -26,7 +26,7 @@ Jerry called the meeting to order and opened in prayer. Dinner was served, and J
 
 Jerry shared from **Psalm 32**, one of the seven penitential psalms of repentance (Psalms 6, 32, 38, 51, 102, 130, and 143). These psalms begin with the author confessing his sin before God and hearing that God forgives. Psalm 32 comes out of David's heaviest season, following his sin with Bathsheba and the killing of her husband Uriah, and moves through to his receiving God's forgiveness.
 
-Jerry read **verses 7 and 8**: *"You are my hiding place; you will protect me from trouble and surround me with songs of deliverance. I will instruct you and teach you in the way you should go; I will counsel you with my loving eye on you."*
+Jerry read **verses 7 and 8**: *"You are my hiding place; you will protect me from trouble and surround me with songs of deliverance. You will instruct me and teach me in the way I should go. You will counsel me with your loving eyes upon me."*
 
 **Application.** David encourages every reader of the psalm to keep a **short list** before God, confessing readily and on a moment-by-moment basis. Jerry drew a contrast he has found helpful in his own life: when the Holy Spirit convicts, He is **very clear in identifying the specific sin**. When the enemy accuses, it is everything at once, one thing piled on another, and it is meant to tear down. The ministry of the Holy Spirit is meant to build up.
 
@@ -65,7 +65,7 @@ Jerry read the standard:
 | Cash sweep interest paid | **$4,042.13** |
 | **Ending account value** | **$1,159,991.45** |
 
-* Interest of **$4,042.13** was credited in June, up from approximately $3,167 per period reported at the April meeting.
+* Interest of **$4,042.13** was credited in June.
 
 **May 2026 Report - Close of Fiscal Year June 2025 to May 2026**
 
@@ -114,7 +114,7 @@ Jerry read the standard:
   * Paying for Raiser's Edge **directly** from funds donated for other stated purposes would put the school out of compliance.
   * If the Board wants fundraised dollars to pay for the platform, **the appeal must say so at the time of the ask**. Kris expressed a preference for funding it from the budget if possible, and reservation about solicitation language of the kind used by organizations that retain most of each dollar raised to cover the cost of fundraising.
 * **Distinction drawn between event fundraising and donor-restricted giving.** A PTF dance that sells $20,000 in tickets against $12,000 in expenses nets $8,000 for the school, and netting expenses in that way is appropriate, because a ticket buyer is not designating a purpose. A restricted gift solicited for stated purposes is different, and the money must follow the purpose stated.
-* **Process change agreed in principle: the Board will review appeal wording before an appeal goes out**, so that finance and advancement agree in advance on what the funds may be used for. Mrs. Donate's experience in wording appeals is to be drawn on.
+* **Kris proposed, with no objection raised, that the Board review appeal wording before an appeal goes out**, so that finance and advancement agree in advance on what the funds may be used for. Mrs. Donate's experience in wording appeals is to be drawn on.
 * Kris noted this was the school's **first major fundraising effort with designated funds**, and that she wants the practice right while the school is still small, since the program will only grow. She observed that as the school grows it becomes more visible, and that it takes only one complaint to the press or to the state to create a serious problem. Alfie agreed that the Board needs to do the heavy lifting and ensure compliance with best practices.
 * **Merchandise sales.** The school is now selling merchandise, and the treatment of what is and is not taxable needs to be determined. Research is underway.
 
@@ -122,7 +122,7 @@ Jerry read the standard:
 
 * Raised from the finance committee meeting: when a donor pledges, the pledge is recognized as income at the time it is made, even where payment is spread over one or two years.
 * This is the **GAAP treatment**, and the school is on an **accrual** basis rather than cash. A pledge is a **legally binding obligation**, though whether the school would ever pursue it is the school's own decision.
-* Jacky Donate confirmed the obligation, and noted that pursuing a donor is **not common practice** in a school like KCS. The normal course would be to write the pledge off.
+* Terey reported that she had asked Jacky Donate, who confirmed the obligation but noted that pursuing a donor is **not common practice** in a school like KCS. The normal course would be to write the pledge off.
 * Mechanically, a pledge behaves like **accounts receivable**: it is booked, collected over time, and written off if it goes bad.
 * **The reason the obligation matters** is that the school **detrimentally relies** on pledges in building a multi-year budget. In a capital campaign, a pledge report is taken to a bank to obtain a **bridge loan** so construction can begin before the cash is in hand.
 * **Agreed in principle: the binding nature of a pledge should be made clear in the ask**, framed positively, along the lines of thanking the donor and explaining that the school relies on pledges to plan its multi-year budget and that the pledge matters to executing it.
@@ -131,8 +131,8 @@ Jerry read the standard:
 **Spending Against Uncollected Pledges**
 
 * **The UKnight Fund is fully spent, and $77,000 of it remains uncollected.**
-  * **$49,973 is owed by Christchurch Miami.** The Session approved the commitment, and it is now a matter of submitting invoices. The school is assembling the full set of bills rather than requesting a lump sum check, and the final figure will be somewhat higher than the amount committed.
-  * The remaining balance is owed by donors on payment plans. One pledge was made in mid-July and is therefore not reflected in the June report.
+  * **$49,973 is owed by Christchurch Miami.** The Session approved the commitment in mid-July, so it is not reflected in the June report. It is now a matter of submitting invoices. The school is assembling the full set of bills rather than requesting a lump sum check, and the final figure will be somewhat higher than the amount committed.
+  * The remaining balance is owed by donors on payment plans.
 * Jerry framed the question for the Board: **does the school want to spend money before it actually has it, or does it adjust its pace to collections?**
 * **Kris proposed a hybrid approach:** spend up to the amount collected, consistent with the purpose for which the funds were raised. Where there is a need to spend funds not yet collected, bring the request **to the Board for approval**. This was received as reasonable.
 * A request was made to see a **cash flow of the revenue stream**. Others felt that level of detail sits below the Board.
@@ -141,7 +141,7 @@ Jerry read the standard:
 * Jerry asked whether outside expertise was needed and whether roughly **$7,000** should be budgeted for help. The Board agreed the expertise exists in-house and that the expenditure is not necessary.
 * It was noted that on upcoming capital work, contractors typically require a substantial payment before mobilizing, which is where the larger exposures will appear.
 
-> **ACTION:** A forward-looking policy on spending against uncollected funds is to come back to the Board **next month**. Jerry asked that the recommendation be developed and brought to the full Board. Alfie proposed that it be carried as a **named deliverable** within the appropriate committee workstream, with that group doing the research and returning a recommendation for the Board to adopt or decline.
+> **ACTION:** A forward-looking policy on spending against uncollected funds is to come back to the Board **next month**. Jerry asked the **finance committee** to develop the recommendation and bring it to the full Board. Alfie proposed that it be carried as a **named deliverable** within the appropriate committee workstream, with that group doing the research and returning a recommendation for the Board to adopt or decline.
 
 **Reporting Format**
 
@@ -179,7 +179,7 @@ Terey reported changes to the admissions process:
 * **The next step is bids.** Three bids are in hand but need to be revisited, as the bids must correspond to the option presented to the engineer. The sequence is to establish a dollar value first, then determine where the funding comes from.
 * Funds are available from the earlier campaign conducted when Alex Gisbert was at the school. Those funds were raised for **expansion** and are restricted to that purpose.
 * **Alfie will raise the project with the joint stewardship committee** in the context of **cost sharing**, as the work is an enhancement to the campus.
-* **Jerry recommended, and the Board agreed, that on rebid the school ask how long each bid is honored and negotiate as long a window as possible, up to a year**, so that the bids remain valid while the Board makes its funding decision.
+* **Jerry recommended, and Alfie agreed, that on rebid the school ask how long each bid is honored and negotiate as long a window as possible, up to a year**, so that the bids remain valid while the Board makes its funding decision.
 
 **Proposed Increase in School Tuition 2027-2028**
 
@@ -225,7 +225,7 @@ Alfie presented the **Governance Review and Committee Charter Recommendations**,
 
 **Other articles discussed:**
 
-* **Article IV, Section 2 (terms).** Board terms are three years with a maximum of three consecutive terms, or nine years in total. The Board agreed the term structure should be revisited, and Alfie confirmed it would be added to the committee's list.
+* **Article IV, Section 2 (terms).** Board terms are three years with a maximum of three consecutive terms, or nine years in total. It was raised that the term structure needs to be rethought, and Alfie confirmed it would be added to the committee's list.
 * **Article IV, Section 3(d).** A typographical error in the Constitution was identified and is to be corrected.
 * **Article IV, Section 3(i), meeting frequency.** The Constitution requires the Board to meet at least once each month. The Board currently meets approximately every six weeks and is therefore not in compliance with its own Constitution. Terey noted that FCIS does not require a specific number of meetings, only consistency, and that the school was written up because the Constitution sets a requirement the Board does not meet. The discussion favored a **minimum of once per quarter with additional meetings as needed**, including online, to provide flexibility. **No formal change was adopted.**
 * **Article V, officer roles.** The Constitution provides for a President, Vice President, Secretary, Treasurer, and Assistant Secretary-Treasurer. Current practice uses a Chair, with no Vice President or Treasurer in place. Options discussed were to generalize the role language or to amend the documents to reflect the current structure.
@@ -274,7 +274,6 @@ Jerry asked that the motion also identify the addition of information from the *
 
 * **Next Board meeting: Thursday, October 15, 2026.** Confirmed. Alfie will be out of the country from October 16 for the remainder of the month.
 * **Finance sub-meeting proposed for Tuesday, October 6, 2026.**
-* Financial reports are to be distributed to the Board in advance of the meeting.
 
 **Open Floor**
 
@@ -285,7 +284,7 @@ Jerry asked that the motion also identify the addition of information from the *
 * **Motion to adjourn:** Doug moved. Diane seconded. **M/S/P.**
 * The meeting **adjourned at approximately 9:00pm**.
 * **Doug led the closing prayer.**
-* **Housekeeping.** Annual confidentiality agreements were signed by those present. Jerry reminded the Board that nothing discussed in the meeting leaves the room, with particular emphasis on the campus reconfiguration discussion, and noted that the Session holds itself to the same standard.
+* **Housekeeping.** Annual confidentiality agreements were signed by those present. Jerry reminded the Board that nothing discussed in the meeting leaves the room, with particular emphasis on the campus reconfiguration discussion. Alfie added that the Session holds itself to the same standard.
 
 ---
 
