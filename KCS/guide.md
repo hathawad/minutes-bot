@@ -100,10 +100,11 @@ Institutions and terms:
 | **PTF** | - | Parent-Teacher Fellowship |
 | **ISM / BoardSource** | Board Source | Governance subscription services |
 
-### Two spellings to confirm with Doug
+### Settled spellings
 
-- **"Razor's Edge" vs "Raiser's Edge."** Every KCS transcript renders it "Razor's Edge," and that spelling carried into the 04/30 minutes. Blackbaud's product is actually *Raiser's Edge*. Almost certainly a transcription error that got ratified. Confirm before correcting prior minutes.
-- **"Ana" vs "Anna" Prinz.** The agendas say "Ana"; the 04/30 minutes body says "Anna" eleven times. Pick one and make it consistent.
+- **Raiser's Edge**, never "Razor's Edge." The April 30, 2026 minutes were corrected before approval.
+- **Ana Prinz**, not Anna.
+- **Christchurch Miami** for the church, matching the agenda header.
 
 ## Record, Don't Audit
 

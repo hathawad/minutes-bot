@@ -40,13 +40,13 @@ Terey introduced Jacky to Kris, Jim, and Alfie (who were not at the March 19 mee
 
 **Key Q&A:**
 
-* **Razor's Edge platform (Alfie):** Industry-leading CRM in philanthropy. Will scale into middle school, integrate with the school website, and consolidate One Cause peer-to-peer fundraising. ~16-week implementation with testing.
+* **Raiser's Edge platform (Alfie):** Industry-leading CRM in philanthropy. Will scale into middle school, integrate with the school website, and consolidate One Cause peer-to-peer fundraising. ~16-week implementation with testing.
 * **Reconciliation with QuickBooks (Doug/Kris):** The two systems will interface; someone will need to reconcile and validate data quality. Future migration to Blackbaud's full accounting suite remains a possibility.
 * **Donor data access (Jerry):** Limited to Jacky, Terey, Georgina, and Anna. Board sees aggregate campaign totals only. Donors choose their recognition (named, in-honor-of, anonymous). Jacky is licensed by the State of Florida and bound by donor-privacy ethics. Kris noted single-person access is itself a risk; the four-person model balances confidentiality and accountability.
 * **Gift acknowledgments:** Timely, signed by Terey. Larger gifts get mailed/handwritten letters tailored to donor preference.
 * **Board involvement in fundraising:** Jacky's expectation is **100% Board participation** in giving at any amount. *"Ten thousand one-dollar gifts beat one ten-thousand-dollar gift — it shows unity."* Alfie added that leveraging personal relationships matters more than dollar amount.
-* **5-year vision for Razor's Edge:** Alumni tagging by graduating class, reunions, targeted outreach. Already happening organically: 32 of 37 prior-year fifth-grade alumni returned to Knights Fest this year.
-* **Person- vs. system-dependent (Alfie):** Razor's Edge is portable; any future development hire will know it. Internal backfill is not appropriate for a specialized fundraising role.
+* **5-year vision for Raiser's Edge:** Alumni tagging by graduating class, reunions, targeted outreach. Already happening organically: 32 of 37 prior-year fifth-grade alumni returned to Knights Fest this year.
+* **Person- vs. system-dependent (Alfie):** Raiser's Edge is portable; any future development hire will know it. Internal backfill is not appropriate for a specialized fundraising role.
 * **Outside philanthropists:** Build the inside-school culture first; reach outside only strategically for specific projects.
 * **Year-one commitments:** +10% philanthropic goals, increased participation and parent involvement.
 
@@ -104,7 +104,7 @@ The Board welcomed Jacky enthusiastically.
 
 * **P&L Treatment of Fundraising Funds:** Anna had moved fundraising entirely to the balance sheet; Kris clarified the intent is to keep it on the P&L but on a **separate line below operating revenue/expenses**. Once the $56,424.86 in UKnight-reimbursable expenses is properly handled, the school is expected to **break even or end the year in the black**.
 
-* **$56,424.86 UKnight-Reimbursable Breakdown:** Marketing $6,000 + acrylic sign $5,234.50 + fundraising $10,000 + Razor's Edge platform $16,000 + strategic plan / Razor's Edge $916 + accreditation $8,345 + marketing $9,929.13. Anna will send Kris a summary breakdown.
+* **$56,424.86 UKnight-Reimbursable Breakdown:** Marketing $6,000 + acrylic sign $5,234.50 + fundraising $10,000 + Raiser's Edge platform $16,000 + strategic plan / Raiser's Edge $916 + accreditation $8,345 + marketing $9,929.13. Anna will send Kris a summary breakdown.
 
 * **Process:** Kris asked that financial revisions be sent more than an hour before meetings going forward. Jim recommended a working session between Kris and Anna to align on accounting treatment.
 

@@ -63,14 +63,14 @@ Terey introduced Mrs. Jacky Donate to Kris and Jim (who were not present at the 
 
 **Q&A**
 
-* **Platform - Razor's Edge (Alfie):**
-  * Razor's Edge is a long-established and well-respected CRM in the philanthropic world. Jacky has used it her entire career (20+ years).
+* **Platform - Raiser's Edge (Alfie):**
+  * Raiser's Edge is a long-established and well-respected CRM in the philanthropic world. Jacky has used it her entire career (20+ years).
   * Will scale with the school as it grows into middle school. Tracks total and individual giving, generates tax receipts, and integrates with the school website for online donations.
-  * **One Cause** (the platform used for UKnight Fund week peer-to-peer fundraising) will feed into Razor's Edge so all giving consolidates in one system.
+  * **One Cause** (the platform used for UKnight Fund week peer-to-peer fundraising) will feed into Raiser's Edge so all giving consolidates in one system.
   * Implementation is approximately a **sixteen-week process** with a testing period.
 
 * **Reconciliation with QuickBooks (Doug / Kris):**
-  * Razor's Edge and QuickBooks will interface with each other. Kris noted that whenever two systems interface, things can fail to flow cleanly, so someone will need to reconcile the two and check data quality. Blackbaud's full accounting system (a future possibility) would simplify this, but for now Razor's Edge + QuickBooks is the working configuration.
+  * Raiser's Edge and QuickBooks will interface with each other. Kris noted that whenever two systems interface, things can fail to flow cleanly, so someone will need to reconcile the two and check data quality. Blackbaud's full accounting system (a future possibility) would simplify this, but for now Raiser's Edge + QuickBooks is the working configuration.
 
 * **Donor Data Access (Jerry):**
   * Access will be limited to **Jacky, Terey, Georgina, and Anna** (the latter two for financial purposes). The Board will not receive monthly donor-level reports — only aggregate campaign totals (e.g., "the campaign raised $50,000").
@@ -86,12 +86,12 @@ Terey introduced Mrs. Jacky Donate to Kris and Jim (who were not present at the 
   * Faculty and staff modeled this in the last UKnight campaign, with near-100% participation, gifts ranging from $5 to 1973 Society pledges.
   * Alfie added that Board involvement also means **leveraging personal relationships** to encourage others to give. The amount matters less than the engagement.
 
-* **Long-Term Vision for Razor's Edge (Jerry):**
+* **Long-Term Vision for Raiser's Edge (Jerry):**
   * Tagging students by graduating class to enable **alumni reunions** and affinity building. Querying alumni by graduation year for targeted outreach (e.g., inviting specific cohorts back for the middle school launch).
   * Alumni engagement has already begun organically: **32 of the 37** fifth-grade graduates from last year's class returned for Knights Fest this year and were celebrated with a stage photo. Alumni families have been added to the UKnight newsletter, and one family who heard about the Ron Clark Academy Atlanta trip volunteered that they would have given if asked. The light bulb is on: KCS has alumni who want to give.
 
 * **Person-Dependent vs. System-Dependent (Alfie):**
-  * The system is portable — Razor's Edge is the dominant platform in development, and most professional development hires already know it. If Jacky were to leave, the school would hire another development professional with Razor's Edge experience rather than try to backfill from internal staff (development is a specialized skillset distinct from teaching or administration).
+  * The system is portable — Raiser's Edge is the dominant platform in development, and most professional development hires already know it. If Jacky were to leave, the school would hire another development professional with Raiser's Edge experience rather than try to backfill from internal staff (development is a specialized skillset distinct from teaching or administration).
 
 * **Outside Philanthropists (Jerry):**
   * Jacky's strategy is to **build the culture inside the school family first**, then reach outside only **strategically** for specific projects or named needs. Going outside before the inside foundation is built looks disorganized.
@@ -164,8 +164,8 @@ Anna Prinz joined via Zoom for this section. She had sent updated financial repo
   * Marketing: $6,000
   * Acrylic sign: $5,234.50
   * Fundraising: $10,000
-  * Platform (Razor's Edge): $16,000
-  * Strategic plan / Razor's Edge: $916
+  * Platform (Raiser's Edge): $16,000
+  * Strategic plan / Raiser's Edge: $916
   * Accreditation: $8,345
   * Marketing expense: $9,929.13
   * **Total: $56,424.86.** Some items are already in the P&L; others are scheduled before year-end. Anna will send Kris a summary breakdown.
@@ -271,7 +271,7 @@ Terey distributed the FCIS Standard 2 (Governance) and Standard 3 (Strategic and
   * **Board meetings need to shift focus.** Terey deliberately removed the admissions update from tonight's agenda because it does not pertain to Board governance work. Going forward, Board meetings should focus on the strategic plan: which goals are we executing this period, what resources are required, who is accountable. Day-to-day operational updates belong in newsletters or other channels, not the Board agenda.
 
 * **Development Committee of the Board (Standard 2.8):**
-  * Mrs. Donate handles the day-to-day fundraising program (events, donor cultivation, Razor's Edge, communications). FCIS expects the Board to set the **strategic initiatives** that fundraising is then executed against (e.g., "we will build a gymnasium," "we will fund a middle school capital plan").
+  * Mrs. Donate handles the day-to-day fundraising program (events, donor cultivation, Raiser's Edge, communications). FCIS expects the Board to set the **strategic initiatives** that fundraising is then executed against (e.g., "we will build a gymnasium," "we will fund a middle school capital plan").
   * Jerry cited the **soccer field** as a counter-example: the school identified a need (children getting dirty/dusty in the field), administration ran a fundraiser, and the field was built — the Board only saw it after the fact. Going forward, that pattern needs to flip: the Board sees needs, sets initiatives, and Mrs. Donate executes against them.
 
 * **Review of Bylaws / KCS Constitution (Standard 2.2):**

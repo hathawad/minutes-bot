@@ -107,7 +107,7 @@ Jerry read the standard:
 **Restricted Fund Accounting**
 
 * The UKnight campaign raised **restricted funds**, and the school did not have restricted fund accounting established in its accounting system. The finance office had to research how to record restricted funds correctly, **release the restriction as funds are spent**, and track work in progress that is capitalized. This work is what delayed the May and year-end financials, and cleanup is continuing.
-* Kris provided Anna with a written procedure approximately three weeks ago. Anna has implemented it and set up the accounting in **QuickBooks**. The method is now in place for the UKnight Fund and needs to be applied to the school's other restricted funds.
+* Kris provided Ana with a written procedure approximately three weeks ago. Ana has implemented it and set up the accounting in **QuickBooks**. The method is now in place for the UKnight Fund and needs to be applied to the school's other restricted funds.
 * **What restricted funds may be spent on depends on how the appeal was worded.** The last appeal was worded well, but not as broadly as the Board would have preferred.
 * **Open question: whether Raiser's Edge may be paid from UKnight funds.** Kris's assessment is that it may not, given the wording of that particular campaign.
   * **Technology, including smartboards, is within the appeal's wording.** A swap is therefore available: charge qualifying technology purchases to the restricted funds and use the freed unrestricted dollars for the platform.
@@ -167,16 +167,11 @@ Jerry read the standard:
 
 **Admissions Update**
 
-* Terey reported back on the matter brought to the Board at its summer Zoom meeting, when the Board was informed that a same-sex couple had applied to the school. Terey had sought guidance from the church, and the church supported proceeding, on the stated principle that the school **does not penalize children for the sins of the parents**.
-* **The family subsequently withdrew their application.** They visited the school for two and a half days. They told Terey they did not want to hurt the school in any way, that they thought it was a lovely school, and that given there was pushback this early they did not wish to proceed. They were seeking a Christian education for their child.
-* Approximately a week later, a **joint statement from the church and the school** was sent to all families, setting out the position of both, who the school is, what it believes, and confirming that nothing had changed. It was issued on a combined letterhead carrying both the school and church colors.
-* **The statement was received well.** Terey reported considerably more positive feedback than negative, and characterized the negative response as a loud minority. A recurring theme in the responses was trust in the school and its leadership, including from families who noted that while they do not affirm or agree, they understood the school's position.
-* **Changes to the admissions process:**
-  * The **statement of faith has been added to the application itself**. Previously it appeared only at enrollment, since the application collected contact information and referral links. The school's identity, beliefs, and what it teaches are now stated from the moment a family applies.
-  * Terey clarified for the Board that **KCS is not a covenant school**. A student is not required to declare that they are a Christian in order to attend. A covenant school, depending on how it is set up, does require that.
-  * Further language is being added to the **family handbook**, including on gender. It was acknowledged that not every situation can be anticipated, but the intent is to get ahead of what can be.
-* Discussion noted that the more complex question is **parental involvement in leadership or PTF**, which is distinct from a child's enrollment, and that the parallel is the church's own practice of an open door for attendance but not for leadership.
-* It was noted that a similar situation had arisen previously, and that the applicant in that instance withdrew during the interview process.
+Terey reported changes to the admissions process:
+
+* The **statement of faith has been added to the application itself**. Previously it appeared only at enrollment, since the application collected contact information and referral links. The school's identity, beliefs, and what it teaches are now stated from the moment a family applies.
+* Terey clarified for the Board that **KCS is not a covenant school**. A student is not required to declare that they are a Christian in order to attend. A covenant school, depending on how it is set up, does require that.
+* Further language is being added to the **family handbook**, including on gender.
 
 **Septic/Sewer Project Update**
 
@@ -304,19 +299,3 @@ Jerry asked that the motion also identify the addition of information from the *
 Respectfully submitted,
 Doug Hathaway
 KCS School Board Member Secretary
-
----
-
-**Drafting notes - remove before circulating**
-
-* **Admissions section.** Drafted at moderate length, factually and without characterizing the family. Compress the narrative further if you want, but the process changes (statement of faith on the application, handbook language, not a covenant school) are worth keeping in full.
-* **Items from the Plaud summary only, not in any incremental transcript. Confirm before keeping:**
-  * **Lisa Peretz introduced as new principal.** Not included above. Which campus, and should it be in?
-  * **Special congregational meeting for bylaw changes.** Reported as targeting a meeting before year-end rather than January, requiring a petition of 25 members, one week's notice, and at least 25 in attendance to vote. Not included above; it belongs in the governance section if accurate.
-  * **Dissolution detail:** a first right of refusal, and exploring incorporating the school under the church's umbrella, with sales tax and other legal implications requiring counsel. Not included above.
-  * **Jessica Diaz's father passed away.** Not included, per the no-personnel-news rule. Say the word if the Board wants it noted.
-* **The Plaud summary reports a second tuition motion approving "a $750 annual figure."** That did not happen. There was one motion, for 5%. The $750 and $1,500 figures were members working out the dollar impact during discussion. Not included.
-* **Church naming.** Used "Christchurch Miami" per the agenda and the governance review document. The KCS README uses "Christ Church Miami." Pick one.
-* **"Raiser's Edge"** used throughout. Transcripts render it "Razor's Edge," and the April minutes carry that spelling. Blackbaud's product is Raiser's Edge. Confirm, and decide whether to correct the April minutes.
-* **Ana vs Anna Prinz.** Used "Anna" in the body to match the April minutes; the agendas say "Ana." Pick one.
-* The **Article IV §3(d) typo** is "filnds" for "funds," if you want it named explicitly in the minutes.
