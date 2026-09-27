@@ -2,7 +2,7 @@
 
 Roster: 29 deacons. Quorum: 15.
 
-## Around the room (18)
+## Around the room (19)
 
 | # | Name | Notes |
 |---|------|-------|
@@ -24,11 +24,12 @@ Roster: 29 deacons. Quorum: 15.
 | 16 | Christian Vega | arrived late |
 | 17 | Joseph Barron | arrived late |
 | 18 | David Zack | arrived late |
+| 19 | Clayton Schmitt | arrived late |
 
 ## Quorum
 
-**18 of 29 present. Quorum met** (15 at start; Christian Vega, Joseph Barron, and David Zack arrived late).
+**19 of 29 present. Quorum met** (15 at start; Christian Vega, Joseph Barron, David Zack, and Clayton Schmitt arrived late).
 
-## Not present (11)
+## Not present (10)
 
-Felix Aguiar, Jason Bogk, Adam Robbins, Iain Kelso, Efrain Montesino, Clayton Schmitt, Rossi Siewnarine, Joseph Sirgany, Mike Tunez, Emmanuel Uche, Will Walker
+Felix Aguiar, Jason Bogk, Adam Robbins, Iain Kelso, Efrain Montesino, Rossi Siewnarine, Joseph Sirgany, Mike Tunez, Emmanuel Uche, Will Walker
