@@ -73,7 +73,7 @@ Terey introduced Mrs. Jacky Donate to Kris and Jim (who were not present at the 
   * Raiser's Edge and QuickBooks will interface with each other. Kris noted that whenever two systems interface, things can fail to flow cleanly, so someone will need to reconcile the two and check data quality. Blackbaud's full accounting system (a future possibility) would simplify this, but for now Raiser's Edge + QuickBooks is the working configuration.
 
 * **Donor Data Access (Jerry):**
-  * Access will be limited to **Jacky, Terey, Georgina, and Anna** (the latter two for financial purposes). The Board will not receive monthly donor-level reports — only aggregate campaign totals (e.g., "the campaign raised $50,000").
+  * Access will be limited to **Jacky, Terey, Georgina, and Ana** (the latter two for financial purposes). The Board will not receive monthly donor-level reports — only aggregate campaign totals (e.g., "the campaign raised $50,000").
   * Jerry raised a concern about access modeled on the church's practice (only one person knows individual giving, to prevent favoritism by the pastor). Kris pushed back that single-person access is itself a risk and accountability requires more than one person knowing. Consensus landed on the four-person access list above.
   * Donors choose how they are recognized when giving (family name, in honor of someone, or anonymous), and the school respects those preferences. The **1973 Society** is published only with member consent.
   * Jacky is **licensed by the State of Florida** as a professional solicitor and is bound by privacy and ethical standards she has practiced for two decades.
@@ -118,7 +118,7 @@ The Board welcomed Jacky and expressed enthusiasm for the work ahead.
 
 * **February 2026 Report:**
 
-Anna Prinz joined via Zoom for this section. She had sent updated financial reports late in the afternoon, which had not been reviewed by the Board prior to the meeting.
+Ana Prinz joined via Zoom for this section. She had sent updated financial reports late in the afternoon, which had not been reviewed by the Board prior to the meeting.
 
 > **[NOTE: Add February 2026 financial tables to Google Doc manually - tables included below for reference]**
 
@@ -157,10 +157,10 @@ Anna Prinz joined via Zoom for this section. She had sent updated financial repo
 ---
 
 * **Discussion - P&L Treatment of Fundraising Funds:**
-  * At the prior meeting Kris asked that fundraising funds be excluded from operating revenue. Anna interpreted this as moving them entirely to the balance sheet. Kris clarified the intent: fundraising revenue **should remain on the P&L**, but reported on a **separate line below operating revenue/expenses** so that operating performance is clearly distinguishable from fundraising performance.
+  * At the prior meeting Kris asked that fundraising funds be excluded from operating revenue. Ana interpreted this as moving them entirely to the balance sheet. Kris clarified the intent: fundraising revenue **should remain on the P&L**, but reported on a **separate line below operating revenue/expenses** so that operating performance is clearly distinguishable from fundraising performance.
   * Revised projections (with fundraising moved off the P&L) showed a projected **$57,386 loss** for the year vs. the previously expected $29,442 gain. Once the $56,424.86 in UKnight-reimbursable expenses is properly handled, the school is expected to **break even or end the year in the black**. Terey noted the bulk of expensive seasonal events (e.g., the show) have already occurred, supporting a positive outlook.
 
-* **Breakdown of $56,424.86 UKnight-Reimbursable Expenses (per Anna):**
+* **Breakdown of $56,424.86 UKnight-Reimbursable Expenses (per Ana):**
   * Marketing: $6,000
   * Acrylic sign: $5,234.50
   * Fundraising: $10,000
@@ -168,19 +168,19 @@ Anna Prinz joined via Zoom for this section. She had sent updated financial repo
   * Strategic plan / Raiser's Edge: $916
   * Accreditation: $8,345
   * Marketing expense: $9,929.13
-  * **Total: $56,424.86.** Some items are already in the P&L; others are scheduled before year-end. Anna will send Kris a summary breakdown.
+  * **Total: $56,424.86.** Some items are already in the P&L; others are scheduled before year-end. Ana will send Kris a summary breakdown.
 
 * **Process Concerns (Kris):**
   * Kris asked that any future financial revisions be sent earlier than the day-of, so the Board has time to review. Receiving updated financials roughly an hour before the meeting made it difficult to give a meaningful report.
-  * Jim suggested a **working session** between Kris and Anna outside of board meetings to align on accounting treatment.
+  * Jim suggested a **working session** between Kris and Ana outside of board meetings to align on accounting treatment.
 
 * **Bookkeeping Going Forward (Kris):**
   * Move toward more granular reporting that clearly separates **operating expenses** (salaries, supplies, tuition-funded items) from **project/fundraising-funded expenses** (turf, field, capital projects).
   * Develop a **cash flow statement** so the Board can see where cash is going (operations vs. investment vs. depreciable assets), particularly because depreciable items hit cash all at once but expense over many years.
 
-* **Discussion - Adding Financial Advisors (Jerry → Anna):**
+* **Discussion - Adding Financial Advisors (Jerry → Ana):**
   * Jerry asked whether bringing on additional **advisors** (non-board members) to support the finance function would be helpful, given the accreditation push to expand committees and the year-long process required to train new board members.
-  * Anna affirmed Georgina's capabilities highly. On adding an outside financial advisor beyond Kris and Georgina, she said the current setup is workable as long as misunderstandings can be addressed: *"too many cooks spoil the broth."*
+  * Ana affirmed Georgina's capabilities highly. On adding an outside financial advisor beyond Kris and Georgina, she said the current setup is workable as long as misunderstandings can be addressed: *"too many cooks spoil the broth."*
   * Jerry acknowledged the trade-off but reiterated the concern about not burning out current finance staff.
 
 * **Cost Analysis - Shared Expenses:**
@@ -194,7 +194,7 @@ Anna Prinz joined via Zoom for this section. She had sent updated financial repo
     * Common allocation methods: square footage for facilities/utilities/maintenance, headcount for admin/shared staffing, usage hours for classrooms, or actual usage metrics. Alternatives include a facility-use fee (rent model) or a church subsidy model (not applicable at KPC).
     * Industry benchmarks: facilities/occupancy 10-20%; total shared cost (facilities + admin) 15-30%. KCS is paying 80-90% of these categories.
 
-  * **Anna's Per-Student Comparison (Kendall vs. Wayside):**
+  * **Ana's Per-Student Comparison (Kendall vs. Wayside):**
     * **Cost per student at Kendall (KPC campus): $2,370.97**
     * **Cost per student at Wayside: $1,640**
     * KCS pays roughly **40%+ more per student at Kendall** than at Wayside, *despite* not being a ministry of the church at Wayside. The Wayside number includes elevated current-year renovation costs that are expected to decline.
@@ -223,8 +223,8 @@ Anna Prinz joined via Zoom for this section. She had sent updated financial repo
     * The deeper structural concern is unbudgeted shared repairs: when something fails (e.g., AC, roof), both parties are caught off guard and the school is expected to absorb roughly 80% of the cost. Kris emphasized she is not arguing the school *shouldn't* carry a larger share — she is arguing the Board does not yet have enough data to know what *fair* and *defensible* looks like.
 
   * **Next Steps:**
-    * Schedule a joint **deacons + finance committee** meeting during the **week of Memorial Day** — proposed dates: **Tuesday, May 26 or Thursday, May 28**. Wednesdays are off the table due to the church midweek schedule. Jerry will encourage **multiple deacons** to attend (the last three meetings each had three deacons participate, rotating). Anna and Georgina should attend so the detail-level questions can be answered in the room.
-    * Anna to provide additional reporting: per-student cost comparison details and a year-over-year increase report tied to the revitalization period (Alfie's request).
+    * Schedule a joint **deacons + finance committee** meeting during the **week of Memorial Day** — proposed dates: **Tuesday, May 26 or Thursday, May 28**. Wednesdays are off the table due to the church midweek schedule. Jerry will encourage **multiple deacons** to attend (the last three meetings each had three deacons participate, rotating). Ana and Georgina should attend so the detail-level questions can be answered in the room.
+    * Ana to provide additional reporting: per-student cost comparison details and a year-over-year increase report tied to the revitalization period (Alfie's request).
     * Continue the conversation about transitioning the church to accrual-basis accounting, with potential involvement from Tom Gonzales (CPA, in deacon training).
 
 **Head of School Update - Ms. Terey Torralbas**
@@ -311,7 +311,7 @@ Terey distributed the FCIS Standard 2 (Governance) and Standard 3 (Strategic and
 
 **Key Dates**
 
-* **Joint Deacons + Finance Committee meeting:** Proposed for **Tuesday, May 26 or Thursday, May 28, 2026** (Memorial Day week). Specific date to be confirmed by email/WhatsApp poll. Anna and Georgina to attend.
+* **Joint Deacons + Finance Committee meeting:** Proposed for **Tuesday, May 26 or Thursday, May 28, 2026** (Memorial Day week). Specific date to be confirmed by email/WhatsApp poll. Ana and Georgina to attend.
 * **Next Board Meeting (Zoom):** **Thursday, June 11, 2026, 7:00-8:00 PM**. Targeted, decision-oriented, one hour.
 * Kris is unavailable June 4-13 (cruise); the Board confirmed it will proceed on June 11 and brief her separately. Jim is unavailable May 14-21 and June 4-13.
 * Subsequent summer Zoom meetings to be scheduled as needed, following the same one-hour, single-topic model.

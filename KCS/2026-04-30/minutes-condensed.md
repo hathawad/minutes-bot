@@ -42,7 +42,7 @@ Terey introduced Jacky to Kris, Jim, and Alfie (who were not at the March 19 mee
 
 * **Raiser's Edge platform (Alfie):** Industry-leading CRM in philanthropy. Will scale into middle school, integrate with the school website, and consolidate One Cause peer-to-peer fundraising. ~16-week implementation with testing.
 * **Reconciliation with QuickBooks (Doug/Kris):** The two systems will interface; someone will need to reconcile and validate data quality. Future migration to Blackbaud's full accounting suite remains a possibility.
-* **Donor data access (Jerry):** Limited to Jacky, Terey, Georgina, and Anna. Board sees aggregate campaign totals only. Donors choose their recognition (named, in-honor-of, anonymous). Jacky is licensed by the State of Florida and bound by donor-privacy ethics. Kris noted single-person access is itself a risk; the four-person model balances confidentiality and accountability.
+* **Donor data access (Jerry):** Limited to Jacky, Terey, Georgina, and Ana. Board sees aggregate campaign totals only. Donors choose their recognition (named, in-honor-of, anonymous). Jacky is licensed by the State of Florida and bound by donor-privacy ethics. Kris noted single-person access is itself a risk; the four-person model balances confidentiality and accountability.
 * **Gift acknowledgments:** Timely, signed by Terey. Larger gifts get mailed/handwritten letters tailored to donor preference.
 * **Board involvement in fundraising:** Jacky's expectation is **100% Board participation** in giving at any amount. *"Ten thousand one-dollar gifts beat one ten-thousand-dollar gift — it shows unity."* Alfie added that leveraging personal relationships matters more than dollar amount.
 * **5-year vision for Raiser's Edge:** Alumni tagging by graduating class, reunions, targeted outreach. Already happening organically: 32 of 37 prior-year fifth-grade alumni returned to Knights Fest this year.
@@ -64,7 +64,7 @@ The Board welcomed Jacky enthusiastically.
   * Statement period Jan 8 - Feb 7, 2026. Beginning value $1,161,896.63 / ending $1,165,064.07. Period interest **$3,167.44**; YTD ~$6,964; running ~$3,000/month (~$36K annualized) at approximately 3.2%.
   * Interest is not in the budget (preferred as a cushion). Kris asked Jim to consider whether a cash-flow study might justify moving a portion into a longer-term, government-guaranteed instrument.
 
-* **February 2026 Report:** Anna joined via Zoom. Updated reports were sent late afternoon and were not pre-reviewed by the Board.
+* **February 2026 Report:** Ana joined via Zoom. Updated reports were sent late afternoon and were not pre-reviewed by the Board.
 
 > **[NOTE: Add February 2026 financial tables to Google Doc manually - tables included below for reference]**
 
@@ -102,15 +102,15 @@ The Board welcomed Jacky enthusiastically.
 
 ---
 
-* **P&L Treatment of Fundraising Funds:** Anna had moved fundraising entirely to the balance sheet; Kris clarified the intent is to keep it on the P&L but on a **separate line below operating revenue/expenses**. Once the $56,424.86 in UKnight-reimbursable expenses is properly handled, the school is expected to **break even or end the year in the black**.
+* **P&L Treatment of Fundraising Funds:** Ana had moved fundraising entirely to the balance sheet; Kris clarified the intent is to keep it on the P&L but on a **separate line below operating revenue/expenses**. Once the $56,424.86 in UKnight-reimbursable expenses is properly handled, the school is expected to **break even or end the year in the black**.
 
-* **$56,424.86 UKnight-Reimbursable Breakdown:** Marketing $6,000 + acrylic sign $5,234.50 + fundraising $10,000 + Raiser's Edge platform $16,000 + strategic plan / Raiser's Edge $916 + accreditation $8,345 + marketing $9,929.13. Anna will send Kris a summary breakdown.
+* **$56,424.86 UKnight-Reimbursable Breakdown:** Marketing $6,000 + acrylic sign $5,234.50 + fundraising $10,000 + Raiser's Edge platform $16,000 + strategic plan / Raiser's Edge $916 + accreditation $8,345 + marketing $9,929.13. Ana will send Kris a summary breakdown.
 
-* **Process:** Kris asked that financial revisions be sent more than an hour before meetings going forward. Jim recommended a working session between Kris and Anna to align on accounting treatment.
+* **Process:** Kris asked that financial revisions be sent more than an hour before meetings going forward. Jim recommended a working session between Kris and Ana to align on accounting treatment.
 
 * **Bookkeeping going forward (Kris):** Separate operating expenses from project/fundraising-funded expenses, and develop a cash-flow statement so the Board can see where cash is going (operations vs. investment vs. depreciable assets).
 
-* **Adding financial advisors (Jerry → Anna):** Anna affirmed Georgina's capabilities highly. On adding outside advisors, *"too many cooks spoil the broth"* — current setup is workable as long as misunderstandings can be addressed.
+* **Adding financial advisors (Jerry → Ana):** Ana affirmed Georgina's capabilities highly. On adding outside advisors, *"too many cooks spoil the broth"* — current setup is workable as long as misunderstandings can be addressed.
 
 **Cost Analysis - Shared Expenses**
 
@@ -118,7 +118,7 @@ The Board welcomed Jacky enthusiastically.
 
 * **Industry benchmarks (Kris's research):** In healthy church/school relationships where the school is a ministry, schools typically pay **10-20%** of budget on shared costs. KCS pays ~9% in total but **also funds its own admin and janitorial**. Across categories the split is roughly **82% school / 18% church** — heavy on the school. Standard allocation methods: square footage, headcount, usage hours, or actual usage. KCS is paying 80-90% of shared facility/admin categories.
 
-* **Per-student comparison (Anna):**
+* **Per-student comparison (Ana):**
   * Kendall (KPC): **$2,370.97/student**
   * Wayside: **$1,640/student**
   * KCS pays ~40%+ more per student at Kendall, despite not being a ministry of the church at Wayside. The Wayside number includes elevated current-year renovations expected to decline.
@@ -134,8 +134,8 @@ The Board welcomed Jacky enthusiastically.
 * **Recent adjustments:** Last three church/school finance meetings have been cordial and produced minor adjustments, including 50/50 splits on the **roof** and the **pool air conditioner**. By December the school was already $8-9K over budget on utilities, projecting ~$30K of unbudgeted utility spend over the year — alone consuming the budgeted surplus.
 
 * **Next steps:**
-  * Joint **deacons + finance committee** meeting during the **week of Memorial Day** — Tuesday, May 26 or Thursday, May 28. Anna and Georgina to attend.
-  * Anna to provide per-student cost comparison detail and a year-over-year increase report tied to the revitalization period (Alfie's request).
+  * Joint **deacons + finance committee** meeting during the **week of Memorial Day** — Tuesday, May 26 or Thursday, May 28. Ana and Georgina to attend.
+  * Ana to provide per-student cost comparison detail and a year-over-year increase report tied to the revitalization period (Alfie's request).
   * Continue the conversation about church accrual transition.
 
 **Head of School Update - Ms. Terey Torralbas**
@@ -205,7 +205,7 @@ Terey distributed the FCIS Standard 2 (Governance) and Standard 3 (Strategic and
 
 **Key Dates**
 
-* **Joint Deacons + Finance Committee meeting:** Tuesday, May 26 or Thursday, May 28, 2026 (Memorial Day week). Anna and Georgina to attend.
+* **Joint Deacons + Finance Committee meeting:** Tuesday, May 26 or Thursday, May 28, 2026 (Memorial Day week). Ana and Georgina to attend.
 * **Next Board Meeting (Zoom):** **Thursday, June 11, 2026, 7:00-8:00 PM**.
 * Kris is unavailable June 4-13 (cruise); the Board will proceed on June 11 and brief her separately. 
 

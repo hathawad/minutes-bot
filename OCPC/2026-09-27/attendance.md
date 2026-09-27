@@ -2,7 +2,7 @@
 
 Roster: 29 deacons. Quorum: 15.
 
-## Around the room (16)
+## Around the room (18)
 
 | # | Name | Notes |
 |---|------|-------|
@@ -22,11 +22,13 @@ Roster: 29 deacons. Quorum: 15.
 | 14 | Caleb Waller | |
 | 15 | Douglas Hathaway | |
 | 16 | Christian Vega | arrived late |
+| 17 | Joseph Barron | arrived late |
+| 18 | David Zack | arrived late |
 
 ## Quorum
 
-**16 of 29 present. Quorum met** (15 at start; Christian Vega arrived late).
+**18 of 29 present. Quorum met** (15 at start; Christian Vega, Joseph Barron, and David Zack arrived late).
 
-## Not present (13)
+## Not present (11)
 
-Felix Aguiar, Joseph Barron, Jason Bogk, Adam Robbins, Iain Kelso, Efrain Montesino, Clayton Schmitt, Rossi Siewnarine, Joseph Sirgany, Mike Tunez, Emmanuel Uche, Will Walker, David Zack
+Felix Aguiar, Jason Bogk, Adam Robbins, Iain Kelso, Efrain Montesino, Clayton Schmitt, Rossi Siewnarine, Joseph Sirgany, Mike Tunez, Emmanuel Uche, Will Walker
