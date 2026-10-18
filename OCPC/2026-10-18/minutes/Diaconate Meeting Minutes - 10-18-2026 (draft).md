@@ -21,14 +21,14 @@ Armando Camejo, Clayton Schmitt, Efrain Montesino, Emmanuel Uche, Felix Aguiar, 
 - **Call to Order:** Adam Gaschott
 - **Previous minutes (September 27, 2026):** The chair circulated the minutes with the agenda. **Approved** with no corrections.
 
-**Guests.** Carlos, who recently completed seminary and is in the final stages of ordination, attended as a listener; visiting a diaconate meeting is part of the ordination process. Having served as a deacon himself, he thanked the deacons for serving as "the hands and feet of Jesus." Pastor Greg Foss attended his first diaconate meeting since completing his own ordination process.
+**Guests.** Carlos, who recently completed seminary and is in the final stages of ordination, attended as a listener; visiting a diaconate meeting is part of the ordination process. Having served as a deacon himself, he thanked the deacons for serving as "the hands and feet of Jesus." Pastor Greg Foss attended his first diaconate meeting.
 
 ## 3. Resource Directory
 
 Pastor Greg Foss has compiled a community resource directory (seven to eight pages) to help deacons and elders assist people whose needs fall outside what the Mercy Ministry can provide: shelter for the night, hospitals, social services, food, pregnancy resources, and similar. Each entry includes a clickable link to the provider's website, along with suggestions for how deacons can sit with and help people. He also highlighted **2-1-1**, a hotline that connects callers with more than 4,000 resources in Miami.
 
 - The directory was attached to the agenda email. Pastor Greg will make hard copies for the deacons and email it again.
-- The chair suggested keeping a hard copy at the welcome desk. The directory has been **posted and pinned in the deacons' WhatsApp group.**
+- The chair suggested keeping a hard copy at the front desk or welcome desk. The directory has been **posted and pinned in the deacons' WhatsApp group.**
 
 **Guidance on use.** In response to a question about how to help someone standing in front of you, Pastor Greg explained that the directory is mainly for last-minute situations; many needs can be handled through the Mercy Ministry. Where someone has no resources at all, a deacon can make the call on their behalf (for example, to a homeless shelter). He cautioned against giving rides to people you don't know or handing out checks without follow-up. Mercy requests involve getting to know the person by email and phone, inviting them to church, and following up, including through the evangelism team. Deacons facing a difficult situation should contact Pastor Greg or Mike Tunez.
 
@@ -56,9 +56,9 @@ Pastor Greg Foss has compiled a community resource directory (seven to eight pag
 
 **Tents.** Anyone with large pop-up tents is asked to bring them, for the condiment and food areas rather than all of the seating. A concern was raised about anchoring tents in wind; whether the church has sandbags is **TBD**.
 
-**Parking.** Per the parking diagram and instructions in the chair's email, which came from church security, certain entrances will be blocked to keep the grounds secure. Rather than parking across the street as in past years, deacons will use their cars to block the grassy lot in the southwest corner wherever the berm is not high enough to stop a vehicle, the 146th Street entrance, and the lot exit onto the side street (marked with red dashes on the diagram). Senior parking will be kept on the other side. Deacons will be guided to their spots on arrival and can move cars as needed. The 9:21 team will also arrive early.
+**Parking.** Per the parking diagram and instructions in the chair's email, which came from church security, certain entrances will be blocked to keep the grounds secure. Rather than parking across the street as in past years, deacons will use their cars to block the grassy lot in the southwest corner wherever the berm is not high enough to stop a vehicle, the 146th Street entrance, and the lot exit onto the side street (marked with red dashes on the diagram). Some cars may also park between the bike path and the property along Old Cutler. Senior parking will be kept on the other side. Deacons will be guided to their spots on arrival and can move cars as needed. The 9:21 team will also arrive early.
 
-**Food and setup.** Sports Grill will handle the grilling. Deacons are needed for the beans and coleslaw, with Wally Allen as the go-between with Sports Grill, and for setting up tables and chairs. If rain threatens, bring plastic table covers and towels, and prop chairs up to keep water from pooling, as was done at a past picnic. The deacons who sing in the choir will help with setup and step away only to sing. The chair will ask whether some of the regular helpers can cover ushering so the deacons can focus on setup and food.
+**Food and setup.** Sports Grill will handle the grilling. Deacons are needed for the beans and coleslaw, with Wally Allen as the go-between with Sports Grill, and for setting up tables and chairs. If rain threatens, bring plastic table covers and towels, and prop chairs up to keep water from pooling, as was done at a past picnic. The deacons who sing in the choir will help with setup and step away only to sing. The chair will ask Dina whether some of the elders can help usher so the deacons can focus on setup and food outside.
 
 **Safety.** Deacons were reminded to stay alert during the event:
 - At a past event, young children were seen going to and sitting in parked cars on the perimeter, near traffic, without their parents. The group discussed asking parents to keep children out of the vehicles.
@@ -73,13 +73,13 @@ Pastor Greg Foss has compiled a community resource directory (seven to eight pag
 
 ### B. New Members Lunch: Sunday, November 8
 
-**Correction: the lunch is November 8, not November 15 as previously announced.** Deacons and elders are invited to attend and help new members feel welcome. Please sign up once the RSVP goes out. Setup and cleanup needs will be shared closer to the date.
+**Correction: the lunch is November 8, not November 15 as previously announced.** Deacons and elders are invited to attend and help new members feel welcome. Please sign up once the RSVP goes out. Bryon Snyder and Dina will share setup and cleanup needs closer to the date.
 
 ### C. Mulch Day: Saturday, November 14
 
 **9:00 AM to 12:00 PM.** Anyone who can come earlier is welcome; last year a few deacons came early to trim and left before the main group arrived. Friends and family are invited, and the chair plans to announce it in the service so other members can help. Work includes mulching, trimming the courtyard, and cleanup of other areas as needed.
 
-**Mulch source.** The chair will follow up with Armando Camejo on whether the free mulch from his tree service contact will come through. The free mulch would be delivered loose from a dump truck rather than bagged. If it does not come through, mulch can be ordered a few days in advance; last year it was bought from a source cheaper than Home Depot. If purchased, the group will ask the supplier to drop pallets in more than one location.
+**Mulch source.** The chair will follow up with Armando Camejo on whether the free mulch from his tree service contact will come through. The free mulch would be delivered loose from a dump truck rather than bagged. If it does not come through, mulch can be ordered a few days in advance; last year it was bought through the Boy Scouts, which was cheaper than Home Depot. If purchased, the group will ask the supplier to drop pallets in more than one location.
 
 **Equipment.** The church has some tools; deacons are encouraged to bring their own. A few wheelbarrows will be needed regardless, especially if the mulch arrives loose. A Bobcat or similar loader would also help.
 
@@ -89,7 +89,7 @@ Wednesday night fellowship that week will be a Thanksgiving meal and service. Th
 
 ### E. Turkey Drive: Friday, November 20 to Saturday, November 21
 
-Wally Allen is handling the sourcing and logistics; the diaconate provides manpower. Friday afternoon is unloading the truck and packing the bags; Saturday morning is distribution. Last year the drive served between 500 and 600 families, and the goal is to do more. Wally will share exact times once the delivery is scheduled. The donation table in the breezeway went up today.
+Wally Allen is handling the sourcing and logistics; the diaconate provides manpower. Friday afternoon is unloading the truck and packing the bags; Saturday morning is distribution. Last year the drive served about 550 families; the goal is to do more this year. Wally will share exact times once the delivery is scheduled. The donation table in the breezeway went up today.
 
 ### F. Christmas Concerts: Saturday, December 5
 
@@ -118,7 +118,7 @@ This is Old Cutler's **50th Christmas concert**. The format announced to the dia
 
 ### A. Facilities (Bryon Snyder)
 
-- **Beam repair complete.** The scaffolding is down and the beam repair is finished; the final city inspection is tomorrow (October 19). The contractor cut all the beams back to match the worst one, since a couple were rotted past the roof line, and resealed the base of the roof where the gutters were removed so no water gets in before the new work.
+- **Beam repair complete.** The scaffolding is down and the beam repair is finished; the final city inspection is tomorrow (October 19). The contractor cut all the beams back to match the worst one, since a couple were rotted past the roof line, and resealed the base of the roof where the gutters were removed so no water gets in before the new roof is installed.
 - **Copper.** The salvaged copper was traded to the contractor in exchange for upcoming project work at no charge. Bryon also negotiated the copper on the building out of the original pricing, saving several thousand dollars. The copper has been cleared out of the AC rooms.
 - **Family room AC.** The family room's AC, the oldest unit on campus, was replaced this week, along with its outdated electrical wiring and thermostat. The new thermostat is the model that will gradually replace the thermostats in the church's 17 AC units over the next year, purchased as they go on sale (about $200 each).
 - **Upcoming.** A couple of minor office projects, and painting the large upstairs room after a wall repair this week.
@@ -126,7 +126,7 @@ This is Old Cutler's **50th Christmas concert**. The format announced to the dia
 
 ### B. CarePortal (Mike Tunez, Iain Kelso, Christopher Lilburn)
 
-**Christmas gift cards.** Christopher Lilburn reported that CJ, who leads CarePortal locally, asked whether OCPC would contribute to CarePortal's Christmas wish list: 250 gift cards of $25 each for children in Broward County who are part of the CarePortal network. CarePortal covers both Broward and Miami-Dade; OCPC generally serves Miami-Dade, but many families across the tri-county area are struggling, and these children may have nothing for Christmas. Funding would come from the church's CarePortal funds, which are drawn from the Mercy Fund but managed separately from Mercy Ministry requests. Typical CarePortal requests are under $200 to $300, such as a bus pass so a student can get to school.
+**Christmas gift cards.** Christopher Lilburn reported that CJ, who leads CarePortal locally, asked whether OCPC would contribute to CarePortal's Christmas wish list: 250 gift cards of $25 each for children in Broward County who are part of the CarePortal network. CarePortal covers both Broward and Miami-Dade; OCPC generally serves Miami-Dade, but many families across the tri-county area are struggling, and these children may have nothing for Christmas. Funding would come from the church's CarePortal funds, which are drawn from the Mercy Fund but managed separately from Mercy Ministry requests. Typical CarePortal requests are under $200 to $300, such as a backpack for a child or a bus pass so a student can get to high school.
 
 - **Motion:** Purchase ten $25 gift cards ($250) from CarePortal funds for the CarePortal Christmas wish list.
 - **Vote: Approved unanimously.**
@@ -155,7 +155,7 @@ The church has been spared so far, and hurricane season is nearing its end. Tyro
 | 4 | Adam Gaschott | Ask Ray about name tags for ushers |
 | 5 | All deacons | Bring pop-up tents to the picnic; arrive by 8:30 AM on October 25 |
 | 6 | Adam Gaschott | Find out whether the church has sandbags or another way to anchor tents |
-| 7 | Adam Gaschott | Ask Dina about regular helpers covering ushering at the picnic, and for an expected picnic headcount to plan tables |
+| 7 | Adam Gaschott | Ask Dina about elders helping usher at the picnic, and for an expected picnic headcount to plan tables |
 | 8 | All deacons | Sign up for the New Members Lunch (November 8) once the RSVP goes out |
 | 9 | Adam Gaschott | Follow up with Armando Camejo on the free mulch; order mulch if it falls through |
 | 10 | Adam Gaschott | Announce Mulch Day in the service to invite congregation help |
