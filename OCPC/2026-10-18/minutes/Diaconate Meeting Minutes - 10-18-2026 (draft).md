@@ -102,8 +102,70 @@ This is Old Cutler's **50th Christmas concert**. The format announced to the dia
 - Payment is expected to be almost entirely electronic, with a QR code as the ticket. No cash sales are planned, and the shows will likely sell out in advance.
 - It is a long day for the orchestra and choir as well, and they will need to be fed.
 
-**Overflow seating.** The chair asked for a couple of volunteers after today's service to estimate how many additional chairs can fit in the back of the sanctuary, filling as many seats as is safe while keeping exits clear.
+**Overflow seating.** With the third show added, the Davis Chapel overflow room discussed last month will not be used (no one went into it last year). Instead, overflow for walk-ups without tickets is expected to be the balcony (about 150 seats) plus additional chairs. The chair asked for a couple of volunteers after today's service to estimate how many chairs can fit in the back of the sanctuary, filling as many seats as is safe while keeping exits clear. A deacon noted that walk-ups often include people who have difficulty with stairs.
+
+**Communication.** Several deacons stressed that after 49 years of walk-in concerts, the ticketing change must be communicated clearly or it will cause more confusion, not less. The plan is understood to include street signage and the website; the group asked that the ticket requirement and price be prominent, not in small print. A deacon suggested a PSA on Christian radio; the chair suggested raising it with Ray or Dina. More detail will be available at the November meeting.
 
 **Staffing.** In addition to ushering and parking, tickets will need to be checked at the doors, which adds to the manpower need. This is further motivation to have the new ushering and parking ministry running by December. Welcome volunteers for the day are coordinated through Ray and the front desk. The chair will post WhatsApp events for each show; deacons should sign up for as many as they can. Deacons performing in the concert are not expected to usher.
 
-<!-- CONTINUES: remaining transcripts pending -->
+## 6. Committee Assignments
+
+**Facilities Committee.** Alfredo Caraballo is joining Bryon Snyder and Tyrone Shire on the facilities committee; the chair thanked him. Other deacons are still welcome to join and help Bryon with specific needs.
+
+**Budget Committee.** A couple of deacons expressed interest, and Dina brought their names before the Session. Once the chair hears from Dina that they have been added, discussion of the 2027 budget will begin in the next couple of weeks.
+
+## 7. Ministry Coordinator Updates
+
+### A. Facilities (Bryon Snyder)
+
+- **Beam repair complete.** The scaffolding is down and the beam repair is finished; the final city inspection is tomorrow (October 19). The contractor cut all the beams back to match the worst one, since a couple were rotted past the roof line, and resealed the base of the roof where the gutters were removed so no water gets in before the new work.
+- **Copper.** The salvaged copper was traded to the contractor in exchange for upcoming project work at no charge. Bryon also negotiated the copper on the building out of the original pricing, saving several thousand dollars. The copper has been cleared out of the AC rooms.
+- **Family room AC.** The family room's AC, the oldest unit on campus, was replaced this week, along with its outdated electrical wiring and thermostat. The new thermostat is the model that will gradually replace the thermostats in the church's 17 AC units over the next year, purchased as they go on sale (about $200 each).
+- **Upcoming.** A couple of minor office projects, and painting the large upstairs room after a wall repair this week.
+- **Parking lot nails.** A deacon reported picking up dozens of nails near the curb. The contractor swept with magnets after hauling out wood; Bryon will have them sweep again.
+
+### B. CarePortal (Mike Tunez, Iain Kelso, Christopher Lilburn)
+
+**Christmas gift cards.** Christopher Lilburn reported that CJ, who leads CarePortal locally, asked whether OCPC would contribute to CarePortal's Christmas wish list: 250 gift cards of $25 each for children in Broward County who are part of the CarePortal network. CarePortal covers both Broward and Miami-Dade; OCPC generally serves Miami-Dade, but many families across the tri-county area are struggling, and these children may have nothing for Christmas. Funding would come from the church's CarePortal funds, which are drawn from the Mercy Fund but managed separately from Mercy Ministry requests. Typical CarePortal requests are under $200 to $300, such as a bus pass so a student can get to school.
+
+- **Motion:** Purchase ten $25 gift cards ($250) from CarePortal funds for the CarePortal Christmas wish list.
+- **Vote: Approved unanimously.**
+- He will call CJ about how to fund the purchase, since it works differently from a normal CarePortal request.
+
+### C. Mercy Ministry (Mike Tunez)
+
+Mercy Ministry has been very active: about 10 to 12 requests in the past month, only two or three from within the church, with two more pending. Requests from outside the church are almost all from people falling behind on bills such as rent and car payments as costs rise; needs within the church are more varied. Word is spreading that OCPC is a church that helps. Mike noted that the church is not a charity organization and the Mercy Fund is primarily for the congregation, so the ministry needs to find a way to limit outside requests while still being generous. He asked for prayer.
+
+### D. Hurricane Preparedness (Joseph Sirgany)
+
+The church has been spared so far, and hurricane season is nearing its end. Tyrone Shire and Alfredo Caraballo have offered to help Joe make house calls to the people on the hurricane list to assess their needs; those visits have not yet taken place. Dina has asked Joe to add two more people to the list. Joe hopes to begin the visits this coming week now that his schedule is easing. If not completed this season, the list will be checked in with ahead of next year.
+
+## 8. Closing
+
+- **Closing Prayer:** Michael Batts
+- **Adjournment:** Adam Gaschott
+
+## 9. Action Items
+
+| # | Owner | Action |
+|---|-------|--------|
+| 1 | Pastor Greg Foss | Make hard copies of the resource directory for the deacons and re-send it by email |
+| 2 | Adam Gaschott | Place a hard copy of the resource directory at the welcome desk |
+| 3 | Adam Gaschott / Mike Tunez | Continue forming the ushering and parking ministry with Pastor Mike and Pastor Greg; coordinate with Ray on how it works with the Welcome Ministry |
+| 4 | Adam Gaschott | Ask Ray about name tags for ushers |
+| 5 | All deacons | Bring pop-up tents to the picnic; arrive by 8:30 AM on October 25 |
+| 6 | Adam Gaschott | Find out whether the church has sandbags or another way to anchor tents |
+| 7 | Adam Gaschott | Ask Dina about regular helpers covering ushering at the picnic, and for an expected picnic headcount to plan tables |
+| 8 | All deacons | Sign up for the New Members Lunch (November 8) once the RSVP goes out |
+| 9 | Adam Gaschott | Follow up with Armando Camejo on the free mulch; order mulch if it falls through |
+| 10 | Adam Gaschott | Announce Mulch Day in the service to invite congregation help |
+| 11 | All deacons | Bring wheelbarrows, rakes, and trimming tools to Mulch Day |
+| 12 | Wally Allen | Share turkey drive delivery and packing times once scheduled |
+| 13 | Volunteers | After today's service, estimate how many overflow chairs fit in the back of the sanctuary for the Christmas concerts |
+| 14 | Adam Gaschott | Post WhatsApp events for each Christmas concert show |
+| 15 | Adam Gaschott | Raise with Ray or Dina: prominent ticket and price messaging for the Christmas concerts, and a Christian radio PSA |
+| 16 | Dina / Adam Gaschott | Confirm the Budget Committee additions; begin 2027 budget discussions |
+| 17 | Deacons (interested) | Tell Bryon Snyder or the chair if interested in joining the Facilities Committee |
+| 18 | Bryon Snyder | Have the contractor sweep the parking lot for nails again |
+| 19 | Christopher Lilburn | Call CJ to arrange funding of the ten CarePortal gift cards ($250) |
+| 20 | Joseph Sirgany, Tyrone Shire, Alfredo Caraballo | Make hurricane-list house calls, including the two new additions |
