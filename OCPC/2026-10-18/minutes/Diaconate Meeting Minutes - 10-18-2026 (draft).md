@@ -11,7 +11,7 @@ Adam Gaschott, Adam Robbins, Alfredo Caraballo, Brian Pa'u, Bryon Snyder, Caleb 
 **Not Present (9):**
 Armando Camejo, Clayton Schmitt, Efrain Montesino, Emmanuel Uche, Felix Aguiar, Jason Bogk, Joseph Barron, Wally Allen, Will Walker
 
-**Guests:** Pastor Greg Foss (Assistant Pastor); Carlos, of Granada Church, an ordination candidate
+**Guests:** Pastor Greg Foss (Assistant Pastor); Carlos, of Granada Presbyterian Church, an ordination candidate
 
 **Quorum met** (20 of 29 present. Quorum is 15.)
 
@@ -126,11 +126,11 @@ This is Old Cutler's **50th Christmas concert**. The format announced to the dia
 
 ### B. CarePortal (Mike Tunez, Iain Kelso, Christopher Lilburn)
 
-**Christmas gift cards.** The CarePortal coordinators reported that CJ, who leads CarePortal locally, asked whether OCPC would contribute to CarePortal's Christmas wish list: 250 gift cards of $25 each for children in Broward County who are part of the CarePortal network. CarePortal covers both Broward and Miami-Dade; OCPC generally serves Miami-Dade, but many families across the tri-county area are struggling, and these children may have nothing for Christmas. Funding would come from the church's CarePortal funds, which are drawn from the Mercy Fund but managed separately from Mercy Ministry requests. Typical CarePortal requests are under $200 to $300, such as a backpack for a child or a bus pass so a student can get to high school.
+**Christmas gift cards.** Christopher Lilburn reported that CJ, who leads CarePortal locally, asked whether OCPC would contribute to CarePortal's Christmas wish list: 250 gift cards of $25 each for children in Broward County who are part of the CarePortal network. CarePortal covers both Broward and Miami-Dade; OCPC generally serves Miami-Dade, but many families across the tri-county area are struggling, and these children may have nothing for Christmas. Funding would come from the church's CarePortal funds, which are drawn from the Mercy Fund but managed separately from Mercy Ministry requests. Typical CarePortal requests are under $200 to $300, such as a backpack for a child or a bus pass so a student can get to high school.
 
 - **Motion:** Purchase ten $25 gift cards ($250) from CarePortal funds for the CarePortal Christmas wish list.
 - **Vote: Approved unanimously.**
-- The CarePortal coordinators will call CJ about how to fund the purchase, since it works differently from a normal CarePortal request.
+- He will call CJ about how to fund the purchase, since it works differently from a normal CarePortal request.
 
 ### C. Mercy Ministry (Mike Tunez)
 
@@ -167,5 +167,5 @@ The church has been spared so far, and hurricane season is nearing its end. Tyro
 | 16 | Dina / Adam Gaschott | Confirm the Budget Committee additions; begin 2027 budget discussions |
 | 17 | Deacons (interested) | Tell Bryon Snyder or the chair if interested in joining the Facilities Committee |
 | 18 | Bryon Snyder | Have the contractor sweep the parking lot for nails again |
-| 19 | CarePortal coordinators (Christopher Lilburn / Iain Kelso) | Call CJ to arrange funding of the ten CarePortal gift cards ($250) |
+| 19 | Christopher Lilburn | Call CJ to arrange funding of the ten CarePortal gift cards ($250) |
 | 20 | Joseph Sirgany, Tyrone Shire, Alfredo Caraballo | Make hurricane-list house calls, including the two new additions |
