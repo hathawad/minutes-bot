@@ -6,9 +6,7 @@
 ## 1. Attendees
 
 **Present (19):**
-Adam Gaschott, Alfredo Caraballo, Armando Camejo, Brian Pa'u, Bryon Snyder, Caleb Waller, Christian Vega*, Christopher Lilburn, Clayton Schmitt*, David Zack*, Douglas Hathaway, H. Francis Lee, Jim Tunnessen, Joseph Barron*, Michael Batts, Rick Sanda, Scott Hamilton, Tyrone Shire, Wally Allen
-
-*\*Arrived after the call to order.*
+Adam Gaschott, Alfredo Caraballo, Armando Camejo, Brian Pa'u, Bryon Snyder, Caleb Waller, Christian Vega, Christopher Lilburn, Clayton Schmitt, David Zack, Douglas Hathaway, H. Francis Lee, Jim Tunnessen, Joseph Barron, Michael Batts, Rick Sanda, Scott Hamilton, Tyrone Shire, Wally Allen
 
 **Not Present (10):**
 Efrain Montesino, Emmanuel Uche, Felix Aguiar, Iain Kelso, Jason Bogk, Adam Robbins, Joseph Sirgany, Mike Tunez, Rossi Siewnarine, Will Walker

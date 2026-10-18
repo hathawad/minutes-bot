@@ -6,6 +6,7 @@ Standing rules for drafting OCPC Diaconate meeting minutes from transcripts.
 
 - **No em dashes.** Use periods, commas, parentheses, or restructure the sentence.
 - **Detail level: ~7/10 by default.** Summarize discussion crisply: who spoke, what was decided, what the action items are. Don't transcribe every back-and-forth. Crank detail up to 9–10/10 only for important topics: major decisions, formal votes, policy changes, large dollar commitments, safety/liability matters, or topics where the chair has explicitly asked for thorough documentation.
+- **Attendance: no late-arrival markers.** List everyone present in one alphabetical list. Track late arrivals in `attendance.md` for quorum purposes only; don't flag them in the minutes.
 
 ## Content to Omit
 
