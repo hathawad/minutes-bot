@@ -7,9 +7,10 @@ Standing rules for drafting Kendall Christian School Board of Trustees meeting m
 - **No em dashes.** Use periods, commas, parentheses, or restructure the sentence. Existing minutes use a spaced hyphen (` - `) in section headers.
 - **Detail level: ~7/10 by default.** Capture who spoke, what was decided, what the action items are, and the numbers. Don't transcribe every back-and-forth. Go to 9-10/10 for: formal votes, budget and tuition decisions, accreditation matters, governance/bylaws changes, personnel decisions, and anything the Chair flags for the record.
 - **First names in the body, full names in the attendance block.** "Jerry called the meeting to order," not "Mr. Zeidler called the meeting to order." (The 12/11/2025 sample uses honorifics; the 2026 minutes moved to first names. Follow the 2026 convention.) Exception: guests and non-Board presenters get "Mrs. Jacky Donate" on first mention, first name after.
-- **Bold the numbers.** Dollar figures, enrollment counts, percentages, and vote outcomes.
+- **The Board wants short minutes with no financial detail.** The September 2026 minutes were sent back unapproved because Jerry and Alfie felt they carried more detail than necessary. Terey asked (11/12/2026) for the financial details to come out, a more concise write-up, and "the format from before": `samples/KCS Board Meeting - 12_11_2025 Minutes.md`. In circulated minutes, report finance as what was presented and what was decided, with no account balances, P&L figures, or tables. Decisions that carry a number (a tuition percentage, a cost-share split) stay in.
+- **Bold the decisions.** Vote outcomes, policy commitments, and the few numbers that are decisions.
 - **Verbatim standards text goes in italics inside a quote**, e.g. the FCIS indicator language Terey reads aloud.
-- Financial tables go in as markdown tables, with a bracketed note that they must be pasted into the Google Doc by hand.
+- Financial tables belong in the full draft only (`minutes.md`), never in the condensed minutes that circulate.
 
 ## Document Structure
 
@@ -56,7 +57,7 @@ KCS School Board Member Secretary
 Two artifacts per meeting, both in `KCS/YYYY-MM-DD/`:
 
 1. **`minutes.md`** - the full draft. Everything of substance from the transcripts, including the devotional in detail, personal/pastoral context, and the full arc of each discussion.
-2. **`minutes-condensed.md`** - the tightened version that actually goes out. Compresses the devotional to its text and application, collapses narrative into summary bullets, drops color that doesn't serve the record. Keeps every number, decision, motion, and action item.
+2. **`minutes-condensed.md`** - the version that actually goes out, in the 12/11/2025 sample format. Aim for roughly 1,000 to 1,500 words. Two or three sentences of devotion, one bullet per decision or follow-up, finance reduced to what was presented and decided. Keeps every decision, motion, and action item. The 09/10/2026 condensed minutes are the reference.
 
 Draft the full version first, then condense. Don't skip straight to condensed: the full draft is where details get caught, and it's the fallback when someone asks "what exactly did we say about X."
 
@@ -69,9 +70,9 @@ Transcripts mangle these consistently. Fix on the way in. Variants marked **(see
 | Correct | Mis-rendered as | Role |
 |---|---|---|
 | **Terey Torralbas** | Terry **(seen, 18x)**, Terri, Torralba | Head of School |
-| **Gerald "Jerry" Zeidler** | Zeidel, Zidler, Zeigler | Chair and Board Moderator |
+| **Gerald "Jerry" Zeidler** | Zeidel, Zidler, Zeigler | Board Member. Chair and Board Moderator through October 2026 |
 | **Kris Roth** | Chris Roth **(seen)** | Board Member (finance) |
-| **Alfie Hernandez** | **Elby, Alki (seen)**, Alfy | Board Member |
+| **Alfie Hernandez** | **Elby, Alki (seen)**, Alfy | **Board Chair** (as of November 2026, per Terey). Board Moderator on the 11/12/2026 agenda |
 | **Jim Sue** | Jim Su, Jim Sioux | Board Member |
 | **Diane Lee** | Dianne | Board Member |
 | **Doug Hathaway** | Hathway, Hathoway | Board Secretary |

@@ -1,9 +1,17 @@
 # KCS Board Meeting, Live Notes
 **Thursday, November 12, 2026, 6:00 PM, Media Center**
 
-Agenda: `agenda.pdf` (sent by Terey 11/12, 3:09pm). Last meeting on file: 09/10/2026. The 09/10
-minutes set the next meeting for **October 15**. No October folder or record exists in this repo.
-**CHECK:** did October 15 happen? If it did, its minutes are missing here.
+Agenda: `agenda.pdf` (sent by Terey 11/12, 3:09pm).
+
+**Update from Terey (11/12, 4:47pm):**
+- **Alfie is now Board Chair.**
+- **The October 15 meeting did happen.** Doug was absent. The recording is on Otter; Doug is getting
+  the transcript. October minutes are still to be written.
+- **September minutes were not approved in October.** Jerry and Alfie felt they had more detail
+  than necessary. Terey asked for financial details removed, a more concise version, and the
+  earlier format. Revised draft: `KCS/2026-09-10/minutes-condensed.md`. Not for tonight.
+- So the agenda's "previous meeting minutes in the process of being amended" means **September**,
+  and Doug is the one amending them.
 
 ---
 
@@ -11,9 +19,8 @@ minutes set the next meeting for **October 15**. No October folder or record exi
 
 Items the 09/10 Board said would come back. Note in the minutes whether each one was addressed.
 
-- **Previous minutes.** 04/30 approval was deferred on 09/10 because the Board never saw them.
-  The agenda says the previous minutes are "in the process of being amended," so expect no approval
-  vote tonight. **CHECK** which meeting's minutes are being amended, and who is amending them.
+- **Previous minutes.** September is being revised (see above), so no approval vote tonight.
+  **CHECK** whether the 04/30 minutes were approved in October.
 - **Spending against uncollected funds policy.** Jerry asked the finance committee to bring a
   recommendation "next month." Alfie wanted it carried as a named workstream deliverable. Not on
   tonight's agenda by name; may come up under Finance or the work streams update.
@@ -64,19 +71,20 @@ Items the 09/10 Board said would come back. Note in the minutes whether each one
 
 ## Questions Doug may want to ask
 
-- Which minutes are being amended, and when will they come to the Board for approval?
+- Were the 04/30 minutes approved in October?
 - Is the spending-against-uncollected-funds policy still on track, and with which committee?
-- Did the October 15 meeting take place? If so, where are its minutes?
+- Several "next month" items may have been handled on October 15, which Doug missed. Don't
+  re-raise them until the October transcript is read.
 
 ---
 
 ## Attendance
 
 **Attending:**
-- Gerald Zeidler, Chair and Board Moderator
+- Alfie Hernandez, Board Chair and Board Moderator
 - Terey Torralbas, Head of School
 - Kris Roth, Board Member
-- Alfie Hernandez, Board Member
+- Gerald Zeidler, Board Member
 - Jim Sue, Board Member
 - Diane Lee, Board Member
 - Doug Hathaway, Board Secretary
@@ -89,7 +97,7 @@ Items the 09/10 Board said would come back. Note in the minutes whether each one
 ---
 
 ## 1. Call to Order, Opening Prayer, Dinner Served
-**Moderator: Alfie Hernandez** *(note: Alfie, not Jerry, is listed as moderator tonight)*
+**Moderator: Alfie Hernandez** (Board Chair)
 - Opening prayer:
 - Devotion (passage, application):
 
