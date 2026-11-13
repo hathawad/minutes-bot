@@ -65,6 +65,8 @@ Leave a `**Drafting notes**` block at the bottom of the draft for open questions
 
 ## Roster and Spellings
 
+**Staff names and titles:** check https://www.kendallchristian.com/administration-staff first. It lists administration, senior leadership, business office, staff, and Christchurch staff, and it has settled spellings the transcripts and Plaud summaries got wrong (e.g. Lisa Pericles).
+
 Transcripts mangle these consistently. Fix on the way in. Variants marked **(seen)** were actually observed in the 04/30/2026 transcripts; the rest are the likely mis-renderings to watch for.
 
 | Correct | Mis-rendered as | Role |
@@ -82,8 +84,12 @@ Transcripts mangle these consistently. Fix on the way in. Variants marked **(see
 | **Georgina** | Georgena | Business office (builds the monthly budget distribution) |
 | **Jacky Donate** | Jackie **(seen, 10x)**, Donatti | Director of Development |
 | **Mrs. Balcarce** | Balcarcel, Balkarse | Longtime preschool teacher |
-| **Tom Gonzales** | Tom Gonzalez, Ben | CPA. Present at meetings, not yet a Board member |
-| **Pastor James Drake** | - | Military chaplain |
+| **Tom Gonzalez** | Tom Gonzales, Ben, Tommy | CPA. Appointed to the Board 11/12/2026; finance committee |
+| **Lisa Pericles** | Ms. P (students), Peretz (Plaud summary, wrong) | Upper School Principal. Confirmed on kendallchristian.com/administration-staff |
+| **Georgina Lopez** | - | Business Office Assistant (surname per school website) |
+| **Pastor James Drake** | - | Lead Pastor, Christchurch Miami |
+| **Pastor Kent Keller** | Kent | Teaching Pastor, Christchurch Miami |
+| **Alice Hernandez** | Alice | Christchurch Operations Manager; joint committee on space use |
 
 Institutions and terms:
 

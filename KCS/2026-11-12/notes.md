@@ -64,7 +64,7 @@ Items the 09/10 Board said would come back. Note in the minutes whether each one
   assertions. If in doubt, keep it to "Terey updated the Board on the pending litigation."
 - **New Board Member / Colleen Zanardi:** if these are personnel or candidate discussions, record
   decisions and motions only. No evaluative remarks about individuals.
-- **FCIS Warned Status** is confidential to the Board. The March 1, 2028 FCIS visit date is fine
+- **FCIS Warned Status** is confidential to the Board. The March 1, 2027 FCIS visit date is fine
   to record.
 - **Donors:** aggregates only.
 - **Dinner talk** before the call to order stays out of the minutes.
@@ -87,14 +87,15 @@ Items the 09/10 Board said would come back. Note in the minutes whether each one
 - Gerald Zeidler, Board Member
 - Jim Sue, Board Member
 - Diane Lee, Board Member
-- Tom Gonzalez, Board Member (appointed tonight) *(confirm spelling)*
+- Tom Gonzalez, Board Member (appointed tonight)
 - Doug Hathaway, Board Secretary
 
-**Guests / also present (unidentified):**
-- Woman seated next to Jerry *(name and role TBD)*
-- Two other women seated between her and Terey *(names and roles TBD)*
+**Guests:**
+- Lisa Pericles, Upper School Principal *(confirmed by Doug)*
+- Jessica Diaz, Lower School Principal
+- Alexa DeAguero, Primary School Principal
 
-*Seating, clockwise from Doug: Doug, Diane, Jim, Kris, Jerry, [woman], [?], [?], Terey, Alfie, Tom.*
+*Seating, clockwise from Doug: Doug, Diane, Jim, Kris, Jerry, Lisa, Jessica, Alexa, Terey, Alfie, Tom.*
 
 
 
@@ -196,9 +197,7 @@ record as presented / adopted per transcript.*
   under budget. The **$250,000** in reserves for capital and building were removed and the budget
   backed into. Kris presented the revised FY 2026-2027 budget (column D, green), showing about a
   **$4,000 operating surplus**. *(Figures: full draft only.)*
-- **Diane made a motion to approve the revised 2026-2027 budget. Jim seconded.** **CHECK** vote:
-  transcript shows "Tom said yes" then moves on to the calendar; no clear all-in-favor. Assume
-  M/S/P? Confirm.
+- **Diane made a motion to approve the revised 2026-2027 budget. Jim seconded.** **M/S/P** (Doug confirmed).
 ### Draft Budget 2027-2028
 - Kris asked the Board to approve the preliminary 2027-2028 planning budget (column E, yellow),
   which sets planning assumptions for tuition and does not authorize spending.
@@ -224,7 +223,7 @@ record as presented / adopted per transcript.*
 
 ## 5. Jerry Zeidler
 ### Colleen Zanardi
-- **Memorial item.** Colleen Zanardi has passed away (obituary: https://www.legacy.com/us/obituaries/name/colleen-zanardi-obituary?id=62806672).
+- **Memorial item.** Colleen Zanardi (KCS Event Coordinator, Senior Leadership Team, per school website) has passed away (obituary: https://www.legacy.com/us/obituaries/name/colleen-zanardi-obituary?id=62806672).
   Record Jerry's remembrance as stated: her connection to KCS and any Board action (resolution,
   memorial, recognition). Not a guest.
 - *(Chunk 04)* Jerry remembered **Colleen Zanardi**, a KCS employee, current parent, and church
@@ -238,7 +237,7 @@ record as presented / adopted per transcript.*
   Not public; the family will be told directly.
 - **___ made a motion to continue the family's current employee tuition discount for the children
   through their time at KCS (through eighth grade), ending if they leave the school. Kris seconded.
-  Passed unanimously.** **CHECK** mover (said "I'll clean that up" on the wording).
+  Passed unanimously.** Mover: **Doug** (confirmed).
 - **Memorial scholarship (explore):** Jerry proposed naming a future scholarship, endowment, or
   fund for families in Colleen's honor; once her children finish, the budgeted support could pass
   to another family as a legacy scholarship. The Board agreed to explore it further; terms and
@@ -256,32 +255,142 @@ record as presented / adopted per transcript.*
 
 ## 6. Alfie Hernandez
 ### Sewer Project
--
+*(Chunk 06. Alfie: "This is just information.")*
+- Engineering plans and permits for connecting to the county sewer are approved; bids are coming
+  in at upwards of **$500,000** (still below the earlier **$600,000+** pump-station estimate,
+  someone noted). *(Figures: full draft; condensed says "bids came in higher than expected.")*
+- Before committing, Alfie will ask the county whether the existing septic system (rated for
+  about **400** students) can be kept or enlarged, or whether proximity to the sewer line forces a
+  hookup. An upgrade might run far less. A full hookup may still be needed for campus growth,
+  including church restrooms, so it should be looked at comprehensively.
+- Permit: already approved; a contractor only needs to pull it to start the clock, and the
+  contractor can be changed later. No motion needed.
+- Question raised whether the church would share the sewer cost. Alfie has raised the funding
+  model with Pastor James Drake; to be discussed.
 ### Two Existing Modulars (2 classrooms by Aug 2027)
--
+*(Confidential per Jerry on 09/10: space reconfiguration not to leave the room. Keep high-level.)*
+- Still waiting on the joint committee on space (whether church admin moves to the sanctuary,
+  freeing about two classrooms). Alfie had priced two new state/county-approved, hurricane-rated
+  modulars (two classrooms with bathrooms, about 40 students).
+- **The two existing modulars must be taken out of classroom use** (condition); students have been
+  consolidated into the main buildings and the old units may stay as storage. That sets the plan
+  back two classrooms.
+- Likely need: two 24x50 or 24x60 modulars (about **80** students), permitted by code, roughly two
+  to three months' lead time. Location still open (elevated area by the playground swings is one
+  option; easements rule out the area behind the current units).
+- Terey: she and Alice are mapping church and school space use for the joint committee, meeting
+  next week; the Board will get a report. Classrooms are needed by **August 2027** for fifth and
+  seventh grade growth, so decisions must come quickly.
+- Alfie has preliminary drawings for a permanent block building (an L-shaped connection off the
+  administrative building) but called it premature. **Immediate priority: what's needed for fall
+  and when to commit.** Alfie plans to walk the property with Pastor James Drake.
+- *(Omit: Alfie's Puerto Rico anecdote; building cost estimates from condensed.)*
 ### Work Streams Update
-- Governance and Board Development:
-- Strategic Planning and Finance:
-- Advancement and Development (Jumpstart):
-- Joint Leadership Working Group:
+*(Chunk 07)*
+- **Governance and Board Development (Alfie):** completed: review and revision of the KCS
+  Constitution and Bylaws; committee charters for all three work streams. In progress: Board
+  governance manual, Board member orientation framework, recruitment and succession framework,
+  governance workshop, annual Board calendar, and a structured Board self-evaluation process (ties
+  to FCIS 2.6).
+- **Strategic Planning and Finance (Kris):** developed the annual budget cycle (adopted tonight).
+- **Advancement and Development:** not yet started. Members: Tom, Jacky Donate, and Terey; Terey
+  will set up a first meeting (Jacky not yet briefed). Terey reported Jacky's development work is
+  starting with smaller efforts, notably **merchandise** (Alexa credited with designs), which is
+  generating strong interest from families. Merchandise profit goes to the **UKnight Fund**.
+  *(Full draft only: about $2,600 in merchandise sales today.)*
+  - **Sales tax on merchandise (open item from 09/10):** Kris raised that KCS buys merchandise
+    tax-exempt under its 501(c)(3) certificate and does not charge sales tax on resale, though
+    merchandise sales may fall outside its exempt purpose. One option discussed: pay sales tax when
+    purchasing merchandise rather than using the exemption. Awaiting Tom's guidance.
+    *(Transcript "Ben" = Tom, per guide.)*
+- **Joint Leadership Working Group:** *(not reported separately in this chunk; see space/modulars)*
+
+### Meeting Frequency
+- Alfie: the Board will now meet **every four weeks** instead of every six, to follow the
+  Constitution's monthly-meeting requirement (the Board chose not to amend that provision).
+  He began reading the Constitution text to confirm.
+- *(Chunk 08)* Alfie read it: the Board is to meet "at least once each month, at a minimum."
+  Confirmed.
 
 ## 7. Head of School, Terey Torralbas
 ### Lawsuit Update
--
+*(Chunk 08. Liability-sensitive: record at this level only.)*
+- Terey reported the pending lawsuit (filed about three years ago) is awaiting a trial date,
+  expected in November and possibly next week unless postponed. Terey noted the suit names Kendall
+  Presbyterian Church, since the school operates under the church's corporation.
+- *(Omit: facts of the case, the student, family details, amount sought, depositions,
+  characterizations.)*
+
+### Incorporation and Dissolution (Alfie, added under Governance)
+- Alfie will meet with an attorney about the school's incorporation (currently under the church's
+  corporation), seeking protection for both school and church. Options are being discussed at the
+  Session level; he hopes to have something before the church's **corporate meeting in January**.
+- Dissolution: Article IX of the corporate bylaws directs that, if the church dissolves, remaining
+  assets go to nonprofits, with no mention of the school. Alfie wants to bridge that; FCIS first
+  raised it. All agreed on the goal (a school here for generations); the question is how.
+
+## Wayside Update (Open Floor question, not on agenda)
+- Asked by a Board member *(CHECK who)*. Terey: Wayside still has an interim pastor; **Cornerstone
+  Church** (Baptist) is taking over and has been working closely and well with KCS; facility use has
+  improved. They intend to solidify the arrangement with KCS for the long term. Gulliver also leases
+  space there (gym and turf). *(Omit: attorney name, gym aside.)*
+
+## Strategic Plan Binder
+- Alfie showed the governance document (charters and 2027-2028 deliverables for every work
+  stream); it is on the shared drive and he will send it to Tom. He suggested each member keep a
+  hard copy in a binder as part of the Board manual. Advancement and Development can start from
+  its written charter and pick one or two deliverables at a time. Alfie wants regular development
+  updates so the Board is fluent before the FCIS visit.
 
 ## 8. Key Dates
-- **March 1, 2028:** FCIS visit
-- **Proposed next meeting: Thursday, December 10, 2026.** Confirmed?
+- **FCIS visit: March 1, 2027** *(Doug confirmed 2027.)*
+- **Next meeting: Thursday, December 10, 2026** (Alfie confirmed in chunk 08).
 
 ## 9. Open Floor
--
+- Wayside question (above).
+- Question: how many current sixth graders have registered for seventh grade? Lisa estimated
+  about six of eleven but could not confirm without checking with admissions.
+- *(Chunk 09)* Lisa: the families not yet re-registered have historically registered late; she has
+  called and met with each, and they say they intend to stay. Only **two of eleven** are applying
+  elsewhere (for programs KCS does not offer), not yet accepted. Fifth grade has about **35**.
+- Lisa: the middle school program is academically competitive with the larger schools families
+  traditionally move to; growth will take time and word of mouth, and she asked the Board to help
+  spread the word. High school is left open as a future possibility. Terey agreed the program needs
+  time to establish.
+- **Sports:** Terey said sports, especially basketball, are a major factor in keeping upper-school
+  students (soccer is succeeding because KCS has a field). **Alfie will price a covered, lighted
+  outdoor basketball court and bring a proposal.** Terey wants numbers before the **UKnight Fund
+  campaign in February** so Jacky can set goals.
+- Alfie: funds for the modulars are available but will not be spent until a decision is made;
+  "we're faithful stewards." Second floors on existing buildings are a long-term (four to five
+  year) option. *(Omit dollar estimates from condensed.)*
+- Next meeting confirmed **December 10**; calendar invites already sent.
+- **Trustee's Handbook** (NAIS): Terey gave Board members copies earlier; Alfie is reading it and
+  recommended it. Copies will be ordered for anyone who needs one.
 
 ## 10. Closing Prayer & Adjournment
-- Motion to adjourn: ___ moved, ___ seconded.
-- Adjourned at:
-- Closing prayer:
+- **Diane made a motion to adjourn. Kris seconded.** *(Chunk 09; voice vote not captured, M/S/P
+  assumed.)*
+- Adjourned at: **7:55pm** (Doug).
+- Closing prayer: **Jerry**.
 
 ---
+
+## Fill from Plaud (RESOLVED from full recording)
+- Agenda: Alfie called for it, a second was heard; mover/seconder not identifiable. Recorded as approved.
+- Flourish: sweep balance at least $700,000.
+- Flourish vs. CDs: **Jim** answered (Jerry: "Thanks for answering your own question").
+- Wayside question: **Jerry** (same speaker label as the Flourish follow-up).
+
+### Original list
+Gaps and unclear spots in the incremental chunks to check against the Plaud transcript:
+- Agenda approval: mover and seconder (chunk 02 start).
+- Between 02 and 03: Kris's Flourish figures ("at least $700,000 for investment" fragment at 03 start).
+- Revised FY 2026-27 budget motion: was there a clear vote? (chunk 03)
+- Who answered the Flourish vs. CD question, Jim or Tom? (chunk 03)
+- Start of Jerry's Colleen Zanardi remembrance (gap before chunk 04).
+- Mover of the tuition discount continuation motion (chunk 04).
+- Constitution meeting-frequency text Alfie read (end of chunk 07).
 
 ## Not for minutes
 - Chunk 01 table talk: student presentation, Christmas decorating, diet, cold cafeteria last meeting. Alfie mentioned the men's Bible study (Ephesians, 12 weeks, Tuesdays) restarting Jan 7 or 12; church business, not Board.

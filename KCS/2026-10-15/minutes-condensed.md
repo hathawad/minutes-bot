@@ -17,7 +17,7 @@
 
 **Guests:**
 
-* Lisa [surname], Upper School Principal
+* Lisa Pericles, Upper School Principal
 * Student council representatives and their parents
 
 **Call to Order, Opening Prayer, Dinner Served**
@@ -56,7 +56,7 @@ Jerry read Standard 2.5:
 * Kris asked that someone else lead the visionary side of the strategic plan. Terey asked that the admin team be included.
 * **A short statement will be drafted for the Session** explaining why revised budget figures are not yet available. Terey will include it in her report to the Session.
 
-**8:03pm - Upper School Update - Lisa [surname], Upper School Principal**
+**8:03pm - Upper School Update - Lisa Pericles, Upper School Principal**
 
 * The **sixth grade has 10 students**, eight returning and two new. Lisa is working to keep fifth-grade families from looking elsewhere. She hopes for two sections each of sixth and seventh grade, and realistically expects one of each.
 * Her vision is that students leave eighth grade "marketable," built on engagement, relationships, and rigor. Each class carries a three-year service project. The sixth grade chose **Paws 4 You**, an animal welfare organization.
