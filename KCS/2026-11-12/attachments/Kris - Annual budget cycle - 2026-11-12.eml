@@ -1,0 +1,225 @@
+Delivered-To: doughathaway@gmail.com
+Received: by 2002:a05:6f03:9191:20b0:134:bf40:5a6f with SMTP id m17-n2csp2310715rci;
+        Thu, 12 Nov 2026 15:22:57 -0800 (PST)
+X-Received: by 2002:a05:690e:108a:20b0:677:d419:3a54 with SMTP id 956f58d0204a3-67d895c2063mr419305d50.28.1794525777373;
+        Thu, 12 Nov 2026 15:22:57 -0800 (PST)
+ARC-Seal: i=2; a=rsa-sha256; t=1794525777; cv=pass;
+        d=google.com; s=arc-20260327;
+        b=LnMaurGk/uGM7lzNC8D1rnxRCH5phNP7ftBKQfVqWn/6rCSl1P28i+N6YLIfAXw+Hi
+         Khr4Aic2GaaK03usaxjb6yeDVkLfn7tEY6AWJ6dsQV92qdRHDS5bjGFgRbQToO3ws/Gf
+         8CZR1PYuc+DQ1SVvvsOcg8p4f86lNRVYSMKzj89VYaKeeQRua3YmfCK1EHWD5EGPK10V
+         9ZOGdW4nuNP+XqRRFAvSJjag4rCybTlkOJV+CSlLs+BVbjMCBVL0kEfyJT5XLRmRPOay
+         VvTmVnhPZfDD8vm65XQfncVI604xx+MPAoJl5azvokfC7AoJQXid/yhe0L1TlDnfg9zo
+         oRLg==
+ARC-Message-Signature: i=2; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20260327;
+        h=to:subject:message-id:date:from:mime-version:dkim-signature;
+        bh=ANlif16B0MLn23NEeGW6Y4v0MjXHYa8k7aomU+H2DJw=;
+        fh=MvfrouFPzTLgwC7cWJdza4FLq6oKEv3AZX7kBdm3ge8=;
+        b=McE8tScl8DmfMQ3YqhC+J79Y4CJYk0j0og1KqZk+qz/1VbGSqCXA/KbC/pvLJ0GlNY
+         dN1mFo99xeSJFDoKMl4DDtOPgrdMaSrXji1yUUoLpMBTANGcf8iWoQn0FgA/cnd/GmW3
+         p6z4wQ7AcKRzVbqAYlgRcsnfj5xOlumQBy4l8l0/q/fkm35VaaaS7ILaSM+JaFOYgnyr
+         2fAVuzbj/4cWN6kEJuoBA6K/EcsPwvymPovk3PMbTzMRWyS647L0b8SFno9Dazhn19U+
+         uqAZY47xfM72rCONqBHTT58Yx5gIfm+H1CzJIKerOumjfx0Dv97OSGFRTSxdwIZttbzY
+         zH5Q==;
+        dara=google.com
+ARC-Authentication-Results: i=2; mx.google.com;
+       dkim=pass header.i=@gmail.com header.s=20260707 header.b=ecr0zicC;
+       arc=pass (i=1);
+       spf=pass (google.com: domain of kris.roth@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=kris.roth@gmail.com;
+       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com;
+       dara=pass header.i=@gmail.com
+Return-Path: <kris.roth@gmail.com>
+Received: from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])
+        by mx.google.com with SMTPS id 956f58d0204a3-67d8a5af4f8sor530788d50.3.2026.11.12.15.22.57
+        for <doughathaway@gmail.com>
+        (Google Transport Security);
+        Thu, 12 Nov 2026 15:22:57 -0800 (PST)
+Received-SPF: pass (google.com: domain of kris.roth@gmail.com designates 209.85.220.41 as permitted sender) client-ip=209.85.220.41;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@gmail.com header.s=20260707 header.b=ecr0zicC;
+       arc=pass (i=1);
+       spf=pass (google.com: domain of kris.roth@gmail.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=kris.roth@gmail.com;
+       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com;
+       dara=pass header.i=@gmail.com
+ARC-Seal: i=1; a=rsa-sha256; t=1794525777; cv=none;
+        d=google.com; s=arc-20260327;
+        b=kBQJUZd5Lktg3xijhQ1EXCUAVQb5lj1qm1EBYC3oOuPIJYFjIe85s2nMggf3Tafc96
+         axV3fnxNjlWzfvkSA3CBnwJRyF0PQD+4KG/O+IEovNFQtOGpsFrpxLT18oSnnemkt09m
+         nBuus0nCiePL6pZUVwlWkSw4VQDN8YO4Q1jNPaOLzmAyU/psmpwFPdR/tztYhb7j/vGl
+         R9ES+JxFwYbT/Gd6iYrAKQ9rnVBaxe10W9pj14XqcVSFTRQiOCAomB65DHJqu9+Ws2+3
+         AHaeJawxyh/1NnqVaLpMPKU878bt0T5lHkff3ZObMEJSHwrdUmWtOM59nsdFT3ljbLM0
+         qkqA==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20260327;
+        h=to:subject:message-id:date:from:mime-version:dkim-signature;
+        bh=ANlif16B0MLn23NEeGW6Y4v0MjXHYa8k7aomU+H2DJw=;
+        fh=MvfrouFPzTLgwC7cWJdza4FLq6oKEv3AZX7kBdm3ge8=;
+        b=ertq7HJ/sioj4dZoCUjcchQXZdxYYPm1VzJ7WlFrFhrFazjTh56Oz4BbkgBVgPPyLl
+         p4ovtN9qae87IM4bT9N4IHECSIdbDPbVtYMvWZNv8B+h46PfaC28jezGAHE+fu7MxXOM
+         JlBiuPG1ycSRJRk9m8PEaKGqJ18y4v1i1MGqHUVnyKM5zETLWoAulWM3ZgL3N9IJp4L6
+         Fb2GGA1v709+EdPZWn6S15TZ8v+bH5KW8/X4tvY6oxNhMIkBleKy26TBbHNcL3iaSmvl
+         C1Q7q4SK2gKZwtexLyQKsiFrfZK51m8azvafu9Gk0h54d7eFPoFHcwi4VGobFrqmQBnF
+         Udqg==;
+        dara=google.com
+ARC-Authentication-Results: i=1; mx.google.com; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20260707; t=1794525777; x=1795130577; dara=google.com;
+        h=content-type:to:subject:message-id:date:from:mime-version:from:to
+         :cc:subject:date:message-id:reply-to:content-type;
+        bh=ANlif16B0MLn23NEeGW6Y4v0MjXHYa8k7aomU+H2DJw=;
+        b=ecr0zicCeCmpqYweN8omDUn5HyAChLKAy0FqdHDLKyfSCbx81+E/hitdJKf2Qdwctn
+         nZ0SRRESMWRq9yIsaqoJavdqeQ/XoLcOBmJYTXGTpZMCM/XaSQ0PC69ox2tZpmR3sOh4
+         caTzkmiskbRUzvhjcebrOGuZUdNZ4EfjprbrgdrvAt1MBXj7BYXoou6Q6Sc9eNp47pwL
+         lZuLPNQkU6J1xAD/UbNRVcf8s2R5xJKMFgmptbXmceVSSTw1s9uHKPsH08Hem0baJvAG
+         +UeSSevrQSJcy1t1vu6Og0SPjta99kqk61/s2FjSHhPmEd407vypSPn34abrFgxwECwS
+         KOmQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20260707; t=1794525777; x=1795130577;
+        h=content-type:to:subject:message-id:date:from:mime-version:x-gm-gg
+         :x-gm-message-state:from:to:cc:subject:date:message-id:reply-to
+         :content-type;
+        bh=ANlif16B0MLn23NEeGW6Y4v0MjXHYa8k7aomU+H2DJw=;
+        b=dLacQN+//2LqzzGzZyMp7Vy8EUa5KggDdA5xrbFSIUDD1ccmAcv5cgsIFNwxidKyjn
+         pQrXvd4R7HGacv5zav9/aOw508zLpACBqEvcadVlea7XNOqMuNrdPmKKlP6/ui2jbTYF
+         Koky6iReBuK+Ll7+2UaBty1Aembnm2mTjLoBQ/QZyv6F/l46+YFHuL/xHQxXeTNjGcSe
+         Nn+H0RxcowiEEpj4Ti2x15psotBTvtgEwd3slHcXu/vGLijmh6IyBOyic7qI6SBCbSA3
+         fKX99r17QmVkYKIRDrRCUNGxVwevtq22TAtLq97LbZLx8ciUbMSMR/xbqyKs3W9G/RQq
+         EMEg==
+X-Gm-Message-State: APuU4Z+/teNSbjT2L/bSiON2hl195cj9sSEAQLciSmjRtyhuewQuT5IW
+	ng1729T2zYm9odHqi2jkyPuWF+TosglBc+PLj2pIMaHy+EiB2ahxVEDFwMTVCj1fyy4jD61AmqO
+	P1bB00MB65IdAjeA36t7lgbxVkYPDjdCetvF0yXw=
+X-Gm-Gg: AYBFou0zMU1pLKRdZqO99RFPOdTR3CxhgRUmuPwTQ5G+Qz7wPWBQKUuPDcaPbEzTeUR
+	tpUxjcQ1hgNFVRjHcJmRsvNKbnzVqy2W0G7+uIlKzaWE3LdOW9JEXTcTulRcq9a9I0D76k9f1Fp
+	P6Ha0A+8Ptep/hfWhjZxNPupY7wyhsHcM2Vo0xzFiwXbqWhFcBthXnUTodabBpLNLLQD6ST7+kJ
+	jnSj58xvlNTiM6xOHsIimDFpHYjr4tiZepZ9lJq7swHEZp4+NUUZhNeGF3S2tAc8fRpq/ApnYcc
+	u3GtAjSmG2PJXz7ym90IV/tRQ8fpFgqOwBvoMe9uJmvccAJN4xIETkuYMBpffp9zf5GI1bv12Jl
+	sRcArHStOY+cnv1A28Hl9Au4xw9wa+spsd5OYjcAzo3WwzgZJMXGLBzpeJOeYzpedN2fSlzepHz
+	mW3tjz6LJ7dwQnfJng
+X-Received: by 2002:a05:690e:484f:b0:67c:1557:7b69 with SMTP id
+ 956f58d0204a3-67d896b2da0mr403083d50.58.1794525776850; Thu, 12 Nov 2026
+ 15:22:56 -0800 (PST)
+MIME-Version: 1.0
+From: Kris Roth <kris.roth@gmail.com>
+Date: Thu, 12 Nov 2026 18:22:21 -0500
+X-Gm-Features: AclHuK_vHeNjuD3azEWfk2lJ9pxij-_l38c2oHOJgnDMwZgbE3_qhK8VX_rE2v0
+Message-ID: <CABd5RtSrLeyYZwwexw8s4oM+V62Zn3u8GfCvztpJHgxNvJS4PA@mail.gmail.com>
+Subject: for tonight's notes
+To: Doug Hathaway <doughathaway@gmail.com>
+Content-Type: multipart/alternative; boundary="0000000000007830d206601c9701"
+
+--0000000000007830d206601c9701
+Content-Type: text/plain; charset="UTF-8"
+
+Annual budget planning and approval cycle
+
+   1. Late July / Early August
+
+Finalize the current-year budget and establish the preliminary budget for
+the following fiscal year to support tuition planning.
+
+   2. By October 1
+
+Release tuition rates based on the preliminary planning assumptions.
+
+   3. February / March
+
+Review the upcoming year's preliminary budget using updated enrollment
+expectations, with particular attention to teacher compensation and
+staffing.
+
+   4. By May 31
+
+Obtain preliminary information from the church regarding significant
+capital projects and shared-cost changes affecting future budget cycles.
+
+*Example: Any shared capital projects given to the school by 5/31/2027 will
+be included in the FY 28/29 budget and cannot commence or expect shared
+contribution until 6/1/2028 so that we can plan for those costs.*
+
+   5. Late July / Early August
+
+Finalize the upcoming school year's budget using updated enrollment
+information and establish the next preliminary planning budget.
+
+--0000000000007830d206601c9701
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div class=3D"gmail_default" style=3D"font-family:verdana,=
+sans-serif"><p class=3D"MsoNormal" style=3D"line-height:normal;margin:0in 0=
+in 8pt;font-size:12pt;font-family:Aptos,sans-serif"><span style=3D"font-fam=
+ily:&quot;Times New Roman&quot;,serif">Annual budget planning and approval =
+cycle</span></p>
+
+<ol start=3D"1" type=3D"1" style=3D"margin-bottom:0in">
+ <li class=3D"MsoNormal" style=3D"line-height:normal;margin:0in 0in 8pt;fon=
+t-size:12pt;font-family:Aptos,sans-serif"><span style=3D"font-family:&quot;=
+Times New Roman&quot;,serif">Late July / Early August</span></li>
+</ol>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 8pt 0.5in;line-height:normal=
+;font-size:12pt;font-family:Aptos,sans-serif"><span style=3D"font-family:&q=
+uot;Times New Roman&quot;,serif">Finalize the current-year budget <span sty=
+le=3D"color:red">and </span>establish
+the preliminary budget for the following fiscal year to support tuition
+planning.</span></p>
+
+<ol start=3D"2" type=3D"1" style=3D"margin-bottom:0in">
+ <li class=3D"MsoNormal" style=3D"line-height:normal;margin:0in 0in 8pt;fon=
+t-size:12pt;font-family:Aptos,sans-serif"><span style=3D"font-family:&quot;=
+Times New Roman&quot;,serif">By October 1</span></li>
+</ol>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 8pt 0.5in;line-height:normal=
+;font-size:12pt;font-family:Aptos,sans-serif"><span style=3D"font-family:&q=
+uot;Times New Roman&quot;,serif">Release tuition rates based on the prelimi=
+nary planning assumptions.</span></p>
+
+<ol start=3D"3" type=3D"1" style=3D"margin-bottom:0in">
+ <li class=3D"MsoNormal" style=3D"line-height:normal;margin:0in 0in 8pt;fon=
+t-size:12pt;font-family:Aptos,sans-serif"><span style=3D"font-family:&quot;=
+Times New Roman&quot;,serif">February / March</span></li>
+</ol>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 8pt 0.5in;line-height:normal=
+;font-size:12pt;font-family:Aptos,sans-serif"><span style=3D"font-family:&q=
+uot;Times New Roman&quot;,serif">Review the upcoming year&#39;s preliminary=
+ budget using updated enrollment
+expectations, with particular attention to teacher compensation and staffin=
+g.</span></p>
+
+<ol start=3D"4" type=3D"1" style=3D"margin-bottom:0in">
+ <li class=3D"MsoNormal" style=3D"line-height:normal;margin:0in 0in 8pt;fon=
+t-size:12pt;font-family:Aptos,sans-serif"><span style=3D"font-family:&quot;=
+Times New Roman&quot;,serif">By May 31</span></li>
+</ol>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 8pt 0.5in;line-height:normal=
+;font-size:12pt;font-family:Aptos,sans-serif"><span style=3D"font-family:&q=
+uot;Times New Roman&quot;,serif">Obtain preliminary information from the ch=
+urch regarding significant
+capital projects and shared-cost changes affecting future budget cycles.</s=
+pan></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 8pt 0.5in;line-height:normal=
+;font-size:12pt;font-family:Aptos,sans-serif"><i><span style=3D"font-family=
+:&quot;Times New Roman&quot;,serif;color:rgb(0,112,192)">Example: Any share=
+d capital projects given to the school by
+5/31/2027 will be included in the FY 28/29 budget and cannot commence or ex=
+pect
+shared contribution until 6/1/2028 so that we can plan for those costs.</sp=
+an></i></p>
+
+<ol start=3D"5" type=3D"1" style=3D"margin-bottom:0in">
+ <li class=3D"MsoNormal" style=3D"line-height:normal;margin:0in 0in 8pt;fon=
+t-size:12pt;font-family:Aptos,sans-serif"><span style=3D"font-family:&quot;=
+Times New Roman&quot;,serif">Late July / Early August</span></li>
+</ol>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 8pt 0.5in;line-height:normal=
+;font-size:12pt;font-family:Aptos,sans-serif"><span style=3D"font-family:&q=
+uot;Times New Roman&quot;,serif">Finalize the upcoming school year&#39;s bu=
+dget using updated enrollment
+information and establish the next preliminary planning budget.</span></p><=
+/div></div>
+
+--0000000000007830d206601c9701--
